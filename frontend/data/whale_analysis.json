@@ -1,105 +1,241 @@
 {
-  "updated_at": "2026-02-27T01:04:21.525856",
+  "updated_at": "2026-02-27T04:07:49.882061",
   "fear_greed": {
-    "value": 50,
-    "value_classification": "Neutral"
+    "value": 13,
+    "value_classification": "Extreme Fear"
   },
   "macro": {
     "fed_futures": {
-      "error": "'NoneType' object is not subscriptable"
+      "error": "Too Many Requests. Rate limited. Try after a while."
     },
     "japan_macro": {
-      "error": "'NoneType' object is not subscriptable"
+      "error": "Too Many Requests. Rate limited. Try after a while."
     },
     "liquidity_monitor": {
       "dxy": null,
       "us10y": null,
       "vix": null
-    }
+    },
+    "global_stable_flow": -261097250.4731903
   },
   "news": {
     "bitcoin": {
-      "items": [],
-      "errors": [
+      "items": [
         {
-          "error": "HTTPSConnectionPool(host='www.coindesk.com', port=443): Max retries exceeded with url: /tag/bitcoin/rss/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
-          "url": "https://www.coindesk.com/tag/bitcoin/rss/"
+          "title": "Bitcoin futures, options market flash caution even as BTC chases $70K",
+          "link": "https://cointelegraph.com/news/bitcoin-futures-options-market-flash-caution-even-as-btc-chases-70k?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 26 Feb 2026 22:15:00 +0000",
+          "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzliOTYtNTYzOC03MTM0LWEyZmUtYTQ5YmNiZTEyMjY4LmpwZw==.jpg\" alt=\"Bitcoin futures, options market flash caution even as BTC chases $70K\" class=\"type:primaryImage\"></p><p>Bitcoin bulls are chasing after $70,000 but cautious signals from the futures and derivatives market could explain why success remains elusive.</p>"
         },
         {
-          "error": "HTTPSConnectionPool(host='cointelegraph.com', port=443): Max retries exceeded with url: /rss/tag/bitcoin (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
-          "url": "https://cointelegraph.com/rss/tag/bitcoin"
+          "title": "Bitcoin bear market may end if bulls reclaim $74.5K: Here\u2019s why",
+          "link": "https://cointelegraph.com/news/bitcoin-bear-market-may-end-if-bulls-reclaim-dollar74-5k-here-s-why?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 26 Feb 2026 20:12:10 +0000",
+          "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk4OTAtZDA3Ni03Mzg2LTgyZTEtYmY1NzIxZmU2MjY0LmpwZw==.jpg\" alt=\"Bitcoin bear market may end if bulls reclaim $74.5K: Here\u2019s why\" class=\"type:primaryImage\"></p><p>Bitcoin trades below most holders\u2019 cost basis, but a rally above $74,500 could change everything. Can the bulls pull it off?</p>"
+        },
+        {
+          "title": "Bitcoin adoption \u2018booming\u2019 while price chops: Which metrics matter most?",
+          "link": "https://cointelegraph.com/news/bitcoin-adoption-booming-while-price-chops-which-metrics-matter-most?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 26 Feb 2026 19:30:00 +0000",
+          "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzlhOGQtNGU1YS03OTM0LThiM2UtZDJjZjAwNzZjN2Q4LmpwZw==.jpg\" alt=\"Bitcoin adoption \u2018booming\u2019 while price chops: Which metrics matter most?\" class=\"type:primaryImage\"></p><p>Bitcoin institutional flows are cooling while its long-term holders and network participants absorb the supply. In a range-bound regime, these are the key signals to watch.</p>"
+        },
+        {
+          "title": "Coin Bureau CEO on Bitcoin in 2026: Cycles, Liquidity and a Divided Market",
+          "link": "https://cointelegraph.com/news/coin-bureau-ceo-on-bitcoin-in-2026-cycles-liquidity-and-a-divided-market?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 26 Feb 2026 15:32:04 +0000",
+          "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzlhNWMtN2Y3YS03M2JhLWJhYmYtZWRkNzgzODFkZmMwLmpwZw==.jpg\" alt=\"Coin Bureau CEO on Bitcoin in 2026: Cycles, Liquidity and a Divided Market\" class=\"type:primaryImage\"></p><p>In an interview with Cointelegraph, CEO Nic Puckrin breaks down the forces behind Bitcoin\u2019s bear market and what could come next in 2026.</p>"
+        },
+        {
+          "title": "Bitcoin\u2019s 100 BTC club edges toward 20K wallets in a \u2018bullish sign\u2019",
+          "link": "https://cointelegraph.com/news/bitcoin-large-wallet-holders-growing-bullish-santiment?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 27 Feb 2026 02:24:37 +0000",
+          "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzljOGItZWEyOS03ZTFjLWFjOTYtNDFiYWNkNWQ5YjllLmpwZw==.jpg\" alt=\"Bitcoin\u2019s 100 BTC club edges toward 20K wallets in a \u2018bullish sign\u2019\" class=\"type:primaryImage\"></p><p>Santiment highlighted that just seven more wallets are needed to reach 20,000 holding at least 100 Bitcoin each, amid ongoing market uncertainty.</p>"
         }
       ],
-      "note": "\u6240\u6709\u65b0\u95fb\u6e90\u5747\u62c9\u53d6\u5931\u8d25\uff0c\u53ef\u80fd\u9700\u8981\u4ee3\u7406\u6216\u989d\u5916\u8ba4\u8bc1\u3002"
+      "errors": [
+        {
+          "error": "HTTPSConnectionPool(host='www.coindesk.com', port=443): Max retries exceeded with url: /tag/bitcoin/rss/ (Caused by NewConnectionError(\"HTTPSConnection(host='www.coindesk.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
+          "url": "https://www.coindesk.com/tag/bitcoin/rss/"
+        }
+      ],
+      "note": null
     },
     "ethereum": {
-      "items": [],
-      "errors": [
+      "items": [
         {
-          "error": "HTTPSConnectionPool(host='www.coindesk.com', port=443): Max retries exceeded with url: /tag/ethereum/rss/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
-          "url": "https://www.coindesk.com/tag/ethereum/rss/"
+          "title": "ETH\u2019s next big move depends on daily close above $2.1K: Data",
+          "link": "https://cointelegraph.com/news/eth-s-next-big-move-depends-on-daily-close-above-dollar2-1k-data?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 26 Feb 2026 21:15:00 +0000",
+          "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmRiYzUtYzY2ZS03OWI5LWJhZWQtNDU2OGRhYzU0Y2MzLmpwZw==.jpg\" alt=\"ETH\u2019s next big move depends on daily close above $2.1K: Data\" class=\"type:primaryImage\"></p><p>ETH bulls briefly pressed the price above the $2,000 to support, but will a positive funding rate and increase in holder profitability generate sufficient momentum to hold the level?</p>"
         },
         {
-          "error": "HTTPSConnectionPool(host='cointelegraph.com', port=443): Max retries exceeded with url: /rss/tag/ethereum (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
-          "url": "https://cointelegraph.com/rss/tag/ethereum"
+          "title": "Ether reclaims $2K as volatility spike backs ETH price recovery",
+          "link": "https://cointelegraph.com/news/ethereum-reclaims-2k-volatility-spike-backs-eth-price-recovery?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 26 Feb 2026 15:48:14 +0000",
+          "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzlhODAtYTAyNy03MzNmLTg4MzYtZTcwOTcxNGNmOTRjLmpwZw==.jpg\" alt=\"Ether reclaims $2K as volatility spike backs ETH price recovery\" class=\"type:primaryImage\"></p><p>Ether looked bullish, with onchain data showing that the ETH price may have hit a macro bottom as a key support level holds.</p>"
+        },
+        {
+          "title": "Here\u2019s what happened in crypto today",
+          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 26 Feb 2026 14:55:37 +0000",
+          "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg\" alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\"></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>"
+        },
+        {
+          "title": "Buterin outlines 4-year roadmap to speed up and quantum-proof Ethereum",
+          "link": "https://cointelegraph.com/news/vitalik-details-roadmap-for-faster-quantum-resistant-ethereum?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound",
+          "published": "Thu, 26 Feb 2026 03:21:51 +0000",
+          "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk3YWItOTFmMy03ZTAyLWIwYTYtYmRlZWI0YjcyY2I2LmpwZw==.jpg\" alt=\"Buterin outlines 4-year roadmap to speed up and quantum-proof Ethereum\" class=\"type:primaryImage\"></p><p>\u201cThe goal is to decouple slots and finality, to allow us to reason about both separately,\u201d explained Ethereum co-founder Vitalik Buterin.</p>"
+        },
+        {
+          "title": "Vitalik Buterin outlines quantum-resistance roadmap for Ethereum",
+          "link": "https://cointelegraph.com/news/vitalik-proposes-4-fixes-quantum-resistance-roadmap-for-ethereum?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 27 Feb 2026 03:05:38 +0000",
+          "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJmYWMtYTIwOS03YTBhLWEzMzYtNmQ5MDBiNGQ5MGFlLmpwZw==.jpg\" alt=\"Vitalik Buterin outlines quantum-resistance roadmap for Ethereum\" class=\"type:primaryImage\"></p><p>The Ethereum co-founder said four areas that need changes include validator signatures, data storage, user accounts and proofs, but the evolution won\u2019t be easy.</p>"
         }
       ],
-      "note": "\u6240\u6709\u65b0\u95fb\u6e90\u5747\u62c9\u53d6\u5931\u8d25\uff0c\u53ef\u80fd\u9700\u8981\u4ee3\u7406\u6216\u989d\u5916\u8ba4\u8bc1\u3002"
+      "errors": [
+        {
+          "error": "HTTPSConnectionPool(host='www.coindesk.com', port=443): Max retries exceeded with url: /tag/ethereum/rss/ (Caused by NewConnectionError(\"HTTPSConnection(host='www.coindesk.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
+          "url": "https://www.coindesk.com/tag/ethereum/rss/"
+        }
+      ],
+      "note": null
     },
     "general": {
-      "items": [],
-      "errors": [
+      "items": [
         {
-          "error": "HTTPSConnectionPool(host='decrypt.co', port=443): Max retries exceeded with url: /feed (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
-          "url": "https://decrypt.co/feed"
+          "title": "Vitalik Buterin Maps Quantum Upgrade to Ethereum to Replace Core Cryptography",
+          "link": "https://decrypt.co/359352/vitalik-buterin-maps-quantum-upgrade-ethereum",
+          "published": "Thu, 26 Feb 2026 23:42:08 +0000",
+          "summary": "Buterin has outlined a phased roadmap to replace four vulnerable components of Ethereum's cryptographic architecture."
         },
         {
-          "error": "HTTPSConnectionPool(host='news.bitcoin.com', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
-          "url": "https://news.bitcoin.com/feed/"
+          "title": "MARA Shares Rise After Bitcoin Miner Strikes AI Data Center Deal",
+          "link": "https://decrypt.co/359361/mara-shares-rise-bitcoin-miner-strikes-ai-data-center-deal",
+          "published": "Fri, 27 Feb 2026 03:00:57 +0000",
+          "summary": "The Bitcoin miner moved to convert U.S. sites into AI-ready campuses, though analysts say confirmed tenants will be key."
         },
         {
-          "error": "HTTPSConnectionPool(host='min-api.cryptocompare.com', port=443): Max retries exceeded with url: /data/v2/news/?categories=BTC%2CETH&lang=EN&sortOrder=latest (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
-          "url": "cryptocompare",
-          "params": {
-            "categories": "BTC,ETH",
-            "lang": "EN",
-            "sortOrder": "latest"
-          }
+          "title": "Anthropic Won\u2019t Lift AI Safeguards Amid Ongoing Pentagon Dispute: CEO",
+          "link": "https://decrypt.co/359358/anthropic-wont-lift-ai-safeguards-pentagon-dispute",
+          "published": "Fri, 27 Feb 2026 00:33:58 +0000",
+          "summary": "Anthropic CEO\u2019s said the company will not comply with Defense Department demands as the Pentagon weighs whether to label the company a \u201csupply chain risk.\u201d"
+        },
+        {
+          "title": "Meta\u2019s AI Floods Child Abuse Investigators With 'Junk' Tips, Law Enforcement Officials Claim",
+          "link": "https://decrypt.co/359353/metas-ai-child-abuse-investigators-junk-tips",
+          "published": "Fri, 27 Feb 2026 00:17:10 +0000",
+          "summary": "ICAC officers say AI-generated reports are overwhelming investigators and slowing down cases as Meta disputes the claims."
+        },
+        {
+          "title": "Suspects Arrested After South Korean Police Mishandle $1.4 Million in Bitcoin: Report",
+          "link": "https://decrypt.co/359317/suspects-arrested-south-korean-olice-mishandle-million-bitcoin",
+          "published": "Fri, 27 Feb 2026 00:00:03 +0000",
+          "summary": "Police in South Korea didn't follow proper procedures and lost $1.4 million worth of confiscated Bitcoin, according to a local news report."
         }
       ],
-      "note": "\u6240\u6709\u65b0\u95fb\u6e90\u5747\u62c9\u53d6\u5931\u8d25\uff0c\u53ef\u80fd\u9700\u8981\u4ee3\u7406\u6216\u989d\u5916\u8ba4\u8bc1\u3002"
-    },
-    "macro": {
-      "items": [],
       "errors": [
         {
-          "error": "HTTPSConnectionPool(host='www.cnbc.com', port=443): Max retries exceeded with url: /id/100003114/device/rss/rss.html (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
-          "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+          "error": "HTTPSConnectionPool(host='news.bitcoin.com', port=443): Max retries exceeded with url: /feed/ (Caused by NewConnectionError(\"HTTPSConnection(host='news.bitcoin.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
+          "url": "https://news.bitcoin.com/feed/"
+        }
+      ],
+      "note": null
+    },
+    "macro": {
+      "items": [
+        {
+          "title": "Trump administration faces first big tariff refund court deadline on Friday",
+          "link": "https://www.cnbc.com/2026/02/26/trump-tariff-refunds-doj-court-deadline.html",
+          "published": "Thu, 26 Feb 2026 22:34:35 GMT",
+          "summary": "Trump's DOJ has until Friday to decide on moving a tariff refund case to the Court of International Trade, the first deadline since the Supreme Court decision."
         },
         {
-          "error": "HTTPSConnectionPool(host='finance.yahoo.com', port=443): Max retries exceeded with url: /news/rssindex (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
+          "title": "EBay laying off about 800 roles, or 6% of its workforce",
+          "link": "https://www.cnbc.com/2026/02/26/ebay-layoffs-800-workforce.html",
+          "published": "Thu, 26 Feb 2026 20:21:38 GMT",
+          "summary": "The job cuts are occurring across the company, and are a result of its push to focus on \"strategic priorities,\" eBay said."
+        },
+        {
+          "title": "C3 AI shares plummet as company cuts 26% of workforce, posts wider loss than expected",
+          "link": "https://www.cnbc.com/2026/02/26/c3-ai-stock-layoffs-loss.html",
+          "published": "Thu, 26 Feb 2026 15:36:31 GMT",
+          "summary": "Shares of enterprise artificial intelligence company C3 AI sunk after widely missing earnings and announcing layoffs under new CEO Ehikian's restructuring plan."
+        },
+        {
+          "title": "Democratic senators press Commerce Secretary Lutnick on conflict of interest concerns in USA Rare Earth deal",
+          "link": "https://www.cnbc.com/2026/02/26/warren-lutnick-usa-rare-earth-usar-critical-minerals.html",
+          "published": "Thu, 26 Feb 2026 15:01:43 GMT",
+          "summary": "Sens. Elizabeth Warren, Chris Van Hollen and Ron Wyden are pressing Commerce Secretary Howard Lutnick for more information on the USA Rare Earth deal."
+        },
+        {
+          "title": "Trump accounts aren't exactly 'tax-free,' as the president said. Here's how they work",
+          "link": "https://www.cnbc.com/2026/02/26/trump-accounts-tax.html",
+          "published": "Thu, 26 Feb 2026 13:36:30 GMT",
+          "summary": "Trump accounts are an investment account for kids, but the funds aren't tax-free. Here's what families need to know."
+        }
+      ],
+      "errors": [
+        {
+          "error": "403 Client Error: Forbidden for url: https://finance.yahoo.com/news/rssindex",
           "url": "https://finance.yahoo.com/news/rssindex"
         }
       ],
-      "note": "\u6240\u6709\u65b0\u95fb\u6e90\u5747\u62c9\u53d6\u5931\u8d25\uff0c\u53ef\u80fd\u9700\u8981\u4ee3\u7406\u6216\u989d\u5916\u8ba4\u8bc1\u3002"
+      "note": null
     },
     "calendar": {
-      "items": [],
-      "errors": [
+      "items": [
         {
-          "error": "HTTPSConnectionPool(host='nfs.faireconomy.media', port=443): Max retries exceeded with url: /ff_calendar_thisweek.xml (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
-          "url": "https://nfs.faireconomy.media/ff_calendar_thisweek.xml"
+          "title": "[EUR] German Unemployment Change (Low)",
+          "link": "https://www.forexfactory.com/calendar/60-ge-unemployment-change",
+          "published": "2026-02-27 8:55am",
+          "summary": "Impact: Low, Forecast: 2K, Previous: 0K"
+        },
+        {
+          "title": "[EUR] Spanish Flash CPI y/y (Low)",
+          "link": "https://www.forexfactory.com/calendar/592-sp-flash-cpi-yy",
+          "published": "2026-02-27 8:00am",
+          "summary": "Impact: Low, Forecast: 2.2%, Previous: 2.4%"
+        },
+        {
+          "title": "[EUR] French Final Private Payrolls q/q (Low)",
+          "link": "https://www.forexfactory.com/calendar/71-fr-final-private-payrolls-qq",
+          "published": "2026-02-27 7:45am",
+          "summary": "Impact: Low, Forecast: -0.1%, Previous: -0.1%"
+        },
+        {
+          "title": "[EUR] French Prelim CPI m/m (Low)",
+          "link": "https://www.forexfactory.com/calendar/556-fr-prelim-cpi-mm",
+          "published": "2026-02-27 7:45am",
+          "summary": "Impact: Low, Forecast: 0.5%, Previous: -0.3%"
+        },
+        {
+          "title": "[EUR] German Prelim CPI m/m (Medium)",
+          "link": "https://www.forexfactory.com/calendar/169-ge-prelim-cpi-mm",
+          "published": "2026-02-27 7:29am",
+          "summary": "Impact: Medium, Forecast: 0.5%, Previous: 0.1%"
         }
       ],
-      "note": "\u6240\u6709\u65b0\u95fb\u6e90\u5747\u62c9\u53d6\u5931\u8d25\uff0c\u53ef\u80fd\u9700\u8981\u4ee3\u7406\u6216\u989d\u5916\u8ba4\u8bc1\u3002"
+      "errors": [],
+      "note": null
     },
     "cryptocompare": {
-      "error": "HTTPSConnectionPool(host='min-api.cryptocompare.com', port=443): Max retries exceeded with url: /data/v2/news/?categories=BTC%2CETH&lang=EN&sortOrder=latest (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))",
-      "url": "cryptocompare",
+      "items": [],
+      "source": "CryptoCompare",
       "params": {
         "categories": "BTC,ETH",
         "lang": "EN",
         "sortOrder": "latest"
+      },
+      "note": "No news items returned; may be rate limited or category empty.",
+      "raw": {
+        "Response": "Error",
+        "Message": "General error try again later",
+        "HasWarning": false,
+        "Type": 66,
+        "RateLimit": {},
+        "Data": {},
+        "Cooldown": 0
       }
     }
   },
@@ -138,30 +274,6 @@
       "leverage_ratio": 0
     },
     "stats_history": [
-      {
-        "timestamp": "2026-02-16T20:09:08.036771",
-        "display_time": "20:09",
-        "whale_count": 48,
-        "total_volume": 346021653.3960494,
-        "stablecoin_net_flow": -51823.39,
-        "token_net_flow": 121125.02164807354,
-        "avg_tx_size": 6178958.0963580245,
-        "liquidation_long_usd": 53178688.37289999,
-        "liquidation_short_usd": 94741243.60829991,
-        "leverage_ratio": 1321707687.686201
-      },
-      {
-        "timestamp": "2026-02-17T00:08:59.266684",
-        "display_time": "00:08",
-        "whale_count": 53,
-        "total_volume": 385876269.3598033,
-        "stablecoin_net_flow": -51823.39,
-        "token_net_flow": 121125.02164807354,
-        "avg_tx_size": 4947131.658459017,
-        "liquidation_long_usd": 124917883.55030015,
-        "liquidation_short_usd": 36109614.82880002,
-        "leverage_ratio": 1236879307.3649423
-      },
       {
         "timestamp": "2026-02-17T04:08:56.210326",
         "display_time": "04:08",
@@ -425,6 +537,30 @@
         "liquidation_long_usd": 0,
         "liquidation_short_usd": 0,
         "leverage_ratio": 0
+      },
+      {
+        "timestamp": "2026-02-27T02:49:33.940683",
+        "display_time": "02:49",
+        "whale_count": 0,
+        "total_volume": 0,
+        "stablecoin_net_flow": 0,
+        "token_net_flow": 0,
+        "avg_tx_size": 0,
+        "liquidation_long_usd": 58910413.9536,
+        "liquidation_short_usd": 67083920.18930003,
+        "leverage_ratio": 1374210439.157101
+      },
+      {
+        "timestamp": "2026-02-27T04:07:49.882031",
+        "display_time": "04:07",
+        "whale_count": 0,
+        "total_volume": 0,
+        "stablecoin_net_flow": 0,
+        "token_net_flow": 0,
+        "avg_tx_size": 0,
+        "liquidation_long_usd": 0,
+        "liquidation_short_usd": 0,
+        "leverage_ratio": 0
       }
     ],
     "market": {
@@ -478,30 +614,6 @@
       "leverage_ratio": 0
     },
     "stats_history": [
-      {
-        "timestamp": "2026-02-16T20:09:08.036832",
-        "display_time": "20:09",
-        "whale_count": 25,
-        "total_volume": 1795961.532948396,
-        "stablecoin_net_flow": -158786.9259656778,
-        "token_net_flow": 567870.9234250688,
-        "avg_tx_size": 11018.16891379384,
-        "liquidation_long_usd": 2758605.263200001,
-        "liquidation_short_usd": 85121.0463,
-        "leverage_ratio": 239356098.4615003
-      },
-      {
-        "timestamp": "2026-02-17T00:08:59.266734",
-        "display_time": "00:08",
-        "whale_count": 29,
-        "total_volume": 2076431.4365037365,
-        "stablecoin_net_flow": -65308.00983663,
-        "token_net_flow": 567870.9234250688,
-        "avg_tx_size": 10814.747065123627,
-        "liquidation_long_usd": 2920858.3081999994,
-        "liquidation_short_usd": 535105.3969,
-        "leverage_ratio": 221675229.84600013
-      },
       {
         "timestamp": "2026-02-17T04:08:56.210380",
         "display_time": "04:08",
@@ -765,6 +877,30 @@
         "liquidation_long_usd": 0,
         "liquidation_short_usd": 0,
         "leverage_ratio": 0
+      },
+      {
+        "timestamp": "2026-02-27T02:49:33.940742",
+        "display_time": "02:49",
+        "whale_count": 0,
+        "total_volume": 0,
+        "stablecoin_net_flow": 0,
+        "token_net_flow": 0,
+        "avg_tx_size": 0,
+        "liquidation_long_usd": 2229835.368600001,
+        "liquidation_short_usd": 588090.2122000002,
+        "leverage_ratio": 248210711.43360028
+      },
+      {
+        "timestamp": "2026-02-27T04:07:49.882057",
+        "display_time": "04:07",
+        "whale_count": 0,
+        "total_volume": 0,
+        "stablecoin_net_flow": 0,
+        "token_net_flow": 0,
+        "avg_tx_size": 0,
+        "liquidation_long_usd": 0,
+        "liquidation_short_usd": 0,
+        "leverage_ratio": 0
       }
     ],
     "market": {
@@ -864,7 +1000,7 @@
     }
   },
   "ai_summary": {
-    "en": "AI analysis unavailable.",
-    "zh": "AI \u5206\u6790\u6682\u65f6\u4e0d\u53ef\u7528\u3002"
+    "en": "**\ud83c\udf0d Global Macro & Liquidity**: Macro data is largely unavailable due to rate limits, creating significant opacity. The sole available gauge, the BTC Fear & Greed Index at 13 (Extreme Fear), suggests a deeply oversold sentiment ripe for a contrarian bounce, but this lacks confirmation from traditional liquidity indicators (DXY, yields, VIX). The news narrative is mixed: crypto-specific developments are moderately positive (Ethereum upgrades, miner AI deals), but broader macro headlines (tariffs, layoffs) inject caution. The overall picture is one of high uncertainty with a potential sentiment floor in crypto.\n\n**\ud83d\udfe0 BTC Strategy (Contract Only)**:\n* **Signal**: OBSERVE\n* **Reality Check**: Technicals are perfectly neutral (RSI 50, MACD 0, ADX 0), indicating a complete lack of directional momentum and trend. With zero liquidation activity and no funding rate data, there is no evidence of trapped positions or imminent squeeze dynamics. The extreme fear sentiment is the only bullish argument, but without technical or on-chain confirmation, it's premature to act.\n\n**\ud83d\udd37 ETH Strategy**:\n* **Signal**: PROBE\n* **Reality Check**: News sentiment is cautiously bullish (price recovery, quantum upgrade narrative), but on-chain whale reality is perfectly neutral (Sentiment -0.01, zero net flow). There is no structural (7-day) or immediate (24H) trend alignment, as both whale flow and technicals (ADX 0, RSI 50) show complete indecision. The critical lack of liquidation pain suggests no forced selling capitulation has occurred yet, which often precedes a durable bottom.\n* **Key Metric**: **Whale Net Flow & Sentiment**. Current neutral flow amidst positive news is a yellow flag. A shift to positive flow would validate the bullish narrative; continued neutral/negative flow would signal a potential 'bull trap'.\n\n**\ud83d\udfe3 SOL Strategy**:\n* **Signal**: OBSERVE\n* **Reality Check**: The news feed for SOL is generic and not SOL-specific, offering no strong narrative catalyst. Mirroring ETH, the on-chain reality is perfectly neutral with zero whale flow and technicals showing no trend (ADX 0) or momentum (MACD 0, RSI 50). There is no alignment between any time-frame trend as the market is in total equilibrium. The absence of liquidations again points to a lack of capitulation.\n* **Key Metric**: **ADX (0.0)**. The complete absence of any trend is the dominant characteristic. Any trading signal must wait for ADX to rise above 20, confirming the emergence of a directional trend to follow.",
+    "zh": "**\ud83c\udf0d \u5168\u7403\u5b8f\u89c2\u4e0e\u6d41\u52a8\u6027**: \u7531\u4e8e\u8bbf\u95ee\u9891\u7387\u9650\u5236\uff0c\u5b8f\u89c2\u6570\u636e\u5927\u591a\u4e0d\u53ef\u7528\uff0c\u5bfc\u81f4\u80fd\u89c1\u5ea6\u663e\u8457\u964d\u4f4e\u3002\u552f\u4e00\u53ef\u7528\u7684\u6307\u6807\u662fBTC\u6050\u60e7\u4e0e\u8d2a\u5a6a\u6307\u6570\uff0c\u8bfb\u6570\u4e3a13\uff08\u6781\u5ea6\u6050\u60e7\uff09\uff0c\u6697\u793a\u5e02\u573a\u60c5\u7eea\u4e25\u91cd\u8d85\u5356\uff0c\u53ef\u80fd\u8fce\u6765\u9006\u5411\u53cd\u5f39\uff0c\u4f46\u7f3a\u4e4f\u4f20\u7edf\u6d41\u52a8\u6027\u6307\u6807\uff08\u7f8e\u5143\u6307\u6570\u3001\u7f8e\u503a\u6536\u76ca\u7387\u3001VIX\uff09\u7684\u786e\u8ba4\u3002\u65b0\u95fb\u53d9\u4e8b\u597d\u574f\u53c2\u534a\uff1a\u52a0\u5bc6\u9886\u57df\u6d88\u606f\u504f\u79ef\u6781\uff08\u4ee5\u592a\u574a\u5347\u7ea7\u3001\u77ff\u5de5AI\u4ea4\u6613\uff09\uff0c\u4f46\u66f4\u5e7f\u6cdb\u7684\u5b8f\u89c2\u5934\u6761\uff08\u5173\u7a0e\u3001\u88c1\u5458\uff09\u5e26\u6765\u4e86\u8c28\u614e\u60c5\u7eea\u3002\u6574\u4f53\u56fe\u666f\u662f\u9ad8\u5ea6\u4e0d\u786e\u5b9a\u6027\uff0c\u4f46\u52a0\u5bc6\u5e02\u573a\u60c5\u7eea\u53ef\u80fd\u5df2\u89e6\u53ca\u9636\u6bb5\u5e95\u90e8\u3002\n\n**\ud83d\udfe0 BTC\u7b56\u7565\uff08\u4ec5\u5408\u7ea6\uff09**:\n* **\u4fe1\u53f7**: \u89c2\u5bdf\n* **\u73b0\u5b9e\u68c0\u9a8c**: \u6280\u672f\u6307\u6807\u5b8c\u5168\u4e2d\u6027\uff08RSI 50, MACD 0, ADX 0\uff09\uff0c\u8868\u660e\u5e02\u573a\u5b8c\u5168\u7f3a\u4e4f\u65b9\u5411\u6027\u52a8\u80fd\u548c\u8d8b\u52bf\u3002\u7531\u4e8e\u6e05\u7b97\u6d3b\u52a8\u548c\u8d44\u91d1\u8d39\u7387\u6570\u636e\u5747\u4e3a\u96f6\uff0c\u6ca1\u6709\u8bc1\u636e\u8868\u660e\u5b58\u5728\u88ab\u56f0\u4ed3\u4f4d\u6216\u5373\u5c06\u53d1\u751f\u7684\u8f67\u7a7a\u884c\u60c5\u3002\u6781\u5ea6\u6050\u60e7\u60c5\u7eea\u662f\u552f\u4e00\u7684\u770b\u6da8\u8bba\u636e\uff0c\u4f46\u5728\u7f3a\u4e4f\u6280\u672f\u9762\u6216\u94fe\u4e0a\u6570\u636e\u786e\u8ba4\u7684\u60c5\u51b5\u4e0b\uff0c\u884c\u52a8\u4e3a\u65f6\u8fc7\u65e9\u3002\n\n**\ud83d\udd37 ETH\u7b56\u7565**:\n* **\u4fe1\u53f7**: \u8bd5\u63a2\n* **\u73b0\u5b9e\u68c0\u9a8c**: \u65b0\u95fb\u60c5\u7eea\u8c28\u614e\u770b\u6da8\uff08\u4ef7\u683c\u590d\u82cf\u3001\u91cf\u5b50\u5347\u7ea7\u53d9\u4e8b\uff09\uff0c\u4f46\u94fe\u4e0a\u9cb8\u9c7c\u73b0\u5b9e\u5b8c\u5168\u4e2d\u6027\uff08\u60c5\u7eea\u5206\u6570-0.01\uff0c\u51c0\u6d41\u5165\u4e3a\u96f6\uff09\u3002\u4e0d\u5b58\u5728\u7ed3\u6784\u6027\uff087\u5929\uff09\u6216\u5373\u65f6\u6027\uff0824\u5c0f\u65f6\uff09\u7684\u8d8b\u52bf\u5bf9\u9f50\uff0c\u56e0\u4e3a\u9cb8\u9c7c\u6d41\u52a8\u548c\u6280\u672f\u6307\u6807\uff08ADX 0, RSI 50\uff09\u90fd\u663e\u793a\u51fa\u5b8c\u5168\u7684\u72b9\u8c6b\u4e0d\u51b3\u3002\u5173\u952e\u7684\u662f\uff0c\u7f3a\u4e4f\u6e05\u7b97\u75db\u82e6\u8868\u660e\u5c1a\u672a\u51fa\u73b0\u6050\u614c\u6027\u629b\u552e\u7684\u6295\u964d\u5f0f\u6e05\u76d8\uff0c\u800c\u8fd9\u901a\u5e38\u662f\u6301\u4e45\u5e95\u90e8\u7684\u5148\u5146\u3002\n* **\u5173\u952e\u6307\u6807**: **\u9cb8\u9c7c\u51c0\u6d41\u52a8\u4e0e\u60c5\u7eea**\u3002\u5728\u79ef\u6781\u65b0\u95fb\u80cc\u666f\u4e0b\u51fa\u73b0\u7684\u4e2d\u6027\u6d41\u52a8\u662f\u4e00\u4e2a\u8b66\u544a\u4fe1\u53f7\u3002\u82e5\u8f6c\u4e3a\u6b63\u5411\u6d41\u52a8\u5c06\u9a8c\u8bc1\u770b\u6da8\u53d9\u4e8b\uff1b\u82e5\u6301\u7eed\u4e2d\u6027\u6216\u8d1f\u5411\u6d41\u52a8\uff0c\u5219\u53ef\u80fd\u9884\u793a\u7740\u201c\u591a\u5934\u9677\u9631\u201d\u3002\n\n**\ud83d\udfe3 SOL\u7b56\u7565**:\n* **\u4fe1\u53f7**: \u89c2\u5bdf\n* **\u73b0\u5b9e\u68c0\u9a8c**: SOL\u7684\u65b0\u95fb\u6d41\u662f\u901a\u7528\u6027\u7684\uff0c\u5e76\u975eSOL\u7279\u5b9a\uff0c\u672a\u80fd\u63d0\u4f9b\u5f3a\u6709\u529b\u7684\u53d9\u4e8b\u50ac\u5316\u5242\u3002\u4e0eETH\u7c7b\u4f3c\uff0c\u94fe\u4e0a\u73b0\u5b9e\u5b8c\u5168\u4e2d\u6027\uff0c\u9cb8\u9c7c\u6d41\u52a8\u4e3a\u96f6\uff0c\u6280\u672f\u6307\u6807\u663e\u793a\u65e0\u8d8b\u52bf\uff08ADX 0\uff09\u65e0\u52a8\u80fd\uff08MACD 0, RSI 50\uff09\u3002\u4efb\u4f55\u65f6\u95f4\u6846\u67b6\u7684\u8d8b\u52bf\u90fd\u4e0d\u5b58\u5728\u5bf9\u9f50\uff0c\u5e02\u573a\u5904\u4e8e\u5b8c\u5168\u5747\u8861\u72b6\u6001\u3002\u6e05\u7b97\u6d3b\u52a8\u7684\u7f3a\u5931\u518d\u6b21\u8868\u660e\u5e02\u573a\u5c1a\u672a\u51fa\u73b0\u6050\u614c\u6027\u629b\u552e\u3002\n* **\u5173\u952e\u6307\u6807**: **ADX (0.0)**\u3002\u5b8c\u5168\u7f3a\u4e4f\u8d8b\u52bf\u662f\u5f53\u524d\u6700\u4e3b\u8981\u7684\u7279\u5f81\u3002\u4efb\u4f55\u4ea4\u6613\u4fe1\u53f7\u90fd\u5fc5\u987b\u7b49\u5f85ADX\u5347\u81f320\u4ee5\u4e0a\uff0c\u4ee5\u786e\u8ba4\u51fa\u73b0\u4e86\u53ef\u8ddf\u968f\u7684\u65b9\u5411\u6027\u8d8b\u52bf\u3002"
   }
 }
