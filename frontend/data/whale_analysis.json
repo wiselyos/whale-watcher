@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-03-09T20:09:23.982624",
+  "updated_at": "2026-03-10T00:09:12.310224",
   "fear_greed": {
-    "value": 8,
+    "value": 13,
     "value_classification": "Extreme Fear"
   },
   "macro": {
     "fed_futures": {
       "price": 96.395,
       "implied_rate": 3.605,
-      "timestamp": "2026-03-09T20:05:01.554544+00:00",
+      "timestamp": "2026-03-10T00:05:00.814579+00:00",
       "trend": "Neutral (Stable expectations)",
       "change_5d_bps": -3.5,
       "zone": "Restrictive (High)"
     },
     "japan_macro": {
-      "price": 157.89,
-      "timestamp": "2026-03-09T20:05:01.685344+00:00",
+      "price": 157.928,
+      "timestamp": "2026-03-10T00:05:01.273557+00:00",
       "trend": "Neutral",
-      "change_5d_pct": 0.4,
+      "change_5d_pct": 0.1,
       "zone": "Weak Yen (Intervention Risk)"
     },
     "liquidity_monitor": {
       "dxy": {
-        "price": 98.83,
-        "change_5d_pct": 0.06,
-        "trend": "Neutral"
+        "price": 98.88,
+        "change_5d_pct": 0.11,
+        "trend": "Stronger (Risk Off)"
       },
       "us10y": {
         "price": 4.14,
@@ -32,16 +32,28 @@
         "trend": "Neutral Rising"
       },
       "vix": {
-        "price": 25.47,
-        "change_5d_pct": 8.06,
+        "price": 25.5,
+        "change_5d_pct": 8.19,
         "trend": "High Fear Rising"
       }
     },
-    "global_stable_flow": 663646957.0634918
+    "global_stable_flow": 1093796154.2335358
   },
   "news": {
     "bitcoin": {
       "items": [
+        {
+          "title": "Bitcoin vs gold: ETF flows point to early capital rotation signs",
+          "link": "https://cointelegraph.com/news/bitcoin-vs-gold-etf-flows-point-to-early-capital-rotation-signs?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 09 Mar 2026 23:54:52 +0000",
+          "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY1ZGEtZTk2MC03ODFkLTk2OGEtZWZkMzQ1MTVhN2EwLmpwZw==.jpg\" alt=\"Bitcoin vs gold: ETF flows point to early capital rotation signs\" class=\"type:primaryImage\"></p><p>Bitcoin ETF inflows have turned positive as gold ETFs see record outflows after a historic rally. Is capital beginning to rotate from gold to Bitcoin?</p>"
+        },
+        {
+          "title": "Will Bitcoin follow oil\u2019s historic surge and rally to $79K before the end of March?",
+          "link": "https://cointelegraph.com/news/will-bitcoin-follow-oil-historic-surge-and-rally-to-79k-before-end-of-march?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
+          "published": "Mon, 09 Mar 2026 22:07:11 +0000",
+          "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2Q0OWQtYjljYi03NWU0LWJjNmItZDEwZGVhMjYxYTRlLmpwZw==.jpg\" alt=\"Will Bitcoin follow oil\u2019s historic surge and rally to $79K before the end of March?\" class=\"type:primaryImage\"></p><p>Historical data shows that Bitcoin typically gains 20% within a month of major spikes in oil prices. Should traders prepare for a rally to $79,000?</p>"
+        },
         {
           "title": "Price predictions 3/9: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH",
           "link": "https://cointelegraph.com/news/price-predictions-3-9-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
@@ -59,18 +71,6 @@
           "link": "https://cointelegraph.com/news/bitcoin-price-retags-69k-g7-oil-plan-hangs-in-balance?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
           "published": "Mon, 09 Mar 2026 15:38:26 +0000",
           "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2QzNDctZmY1My03ODQzLWFkZDQtZWMzZWVlZDE4Nzg3LmpwZw==.jpg\" alt=\"Bitcoin price retags $69K as G7 oil plan hangs in the balance\" class=\"type:primaryImage\"></p><p>Bitcoin managed to avoid losses suffered by global stock markets over oil supply uncertainty, with a 5% relief bounce from its weekly open level.</p>"
-        },
-        {
-          "title": "Bitcoiners celebrate as the network produces its 20 millionth coin",
-          "link": "https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 09 Mar 2026 13:42:28 +0000",
-          "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzA0ZGMtOTI5Yy03NTVjLTk4NzgtZDA0MTEyMGQ4NTAzLmpwZw==.jpg\" alt=\"Bitcoiners celebrate as the network produces its 20 millionth coin\" class=\"type:primaryImage\"></p><p>\u201cA digital money system with transparent, predictable, and ultimately scarce supply... has rising appeal in today\u2019s economy due to fiat currency tail risks,\" said Grayscale.</p>"
-        },
-        {
-          "title": "Strategy buys $1.3B in Bitcoin as holdings top 738,000 BTC",
-          "link": "https://cointelegraph.com/news/michael-saylor-strategy-buys-17994-bitcoin-below-cost-basis?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
-          "published": "Mon, 09 Mar 2026 12:47:31 +0000",
-          "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlMjEtZjI3My03MDFkLTkyZTUtMmZmNTMxYjAyY2Rh.jpg\" alt=\"Strategy buys $1.3B in Bitcoin as holdings top 738,000 BTC\" class=\"type:primaryImage\"></p><p>The purchase brings Strategy\u2019s total Bitcoin reserves to nearly 739,000 BTC despite the asset trading below the company\u2019s average acquisition price.</p>"
         }
       ],
       "errors": [
@@ -125,85 +125,121 @@
     "general": {
       "items": [
         {
+          "title": "Trump\u2019s Cyber Strategy Signals Support for Crypto Infrastructure",
+          "link": "https://news.bitcoin.com/trumps-cyber-strategy-signals-support-for-crypto-infrastructure/",
+          "published": "Mon, 09 Mar 2026 23:19:00 +0000",
+          "summary": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/trumps-cyber-strategy-signals-support-for-crypto-infrastructure-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Trump\u2019s Cyber Strategy Signals Support for Crypto Infrastructure\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/trumps-cyber-strategy-signals-support-for-crypto-infrastructure-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/trumps-cyber-strategy-signals-support-for-crypto-infrastructure-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/trumps-cyber-strategy-signals-support-for-crypto-infrastructure-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/trumps-cyber-strategy-signals-support-for-crypto-infrastructure-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/trumps-cyber-strategy-signals-support-for-crypto-infrastructure-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/trumps-cyber-strategy-signals-support-for-crypto-infrastructure-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/trumps-cyber-strategy-signals-support-for-crypto-infrastructure.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The crypto industry is examining what President Donald Trump\u2019s newly released National Cyber Strategy signals about the future of blockchain and digital asset policy. The document highlights support for emerging technologies, including cryptocurrencies, AI security, and post-quantum cryptography, suggesting potential long-term backing for crypto infrastructure. New U.S. Cyber Strategy Highlights Blockchain and AI Security The [&#8230;]"
+        },
+        {
+          "title": "Americans Use AI Every Day\u2014But Most Still Don't Like It, New Poll Shows",
+          "link": "https://decrypt.co/360493/americans-ai-every-day-most-still-dont-like-it",
+          "published": "Mon, 09 Mar 2026 22:34:03 +0000",
+          "summary": "Americans are increasingly using AI tools even as a majority say the technology\u2019s risks outweigh its benefits."
+        },
+        {
+          "title": "Nigel Farage Discloses $288,000 Stake in Former UK Chancellor\u2019s Bitcoin Treasury Firm",
+          "link": "https://news.bitcoin.com/nigel-farage-discloses-288000-stake-in-former-uk-chancellors-bitcoin-treasury-firm/",
+          "published": "Mon, 09 Mar 2026 22:10:49 +0000",
+          "summary": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/nigel-farage-discloses-288000-stake-in-former-uk-chancellors-bitcoin-treasury-firm-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/nigel-farage-discloses-288000-stake-in-former-uk-chancellors-bitcoin-treasury-firm-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/nigel-farage-discloses-288000-stake-in-former-uk-chancellors-bitcoin-treasury-firm-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/nigel-farage-discloses-288000-stake-in-former-uk-chancellors-bitcoin-treasury-firm-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/nigel-farage-discloses-288000-stake-in-former-uk-chancellors-bitcoin-treasury-firm-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/nigel-farage-discloses-288000-stake-in-former-uk-chancellors-bitcoin-treasury-firm-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/nigel-farage-discloses-288000-stake-in-former-uk-chancellors-bitcoin-treasury-firm-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/nigel-farage-discloses-288000-stake-in-former-uk-chancellors-bitcoin-treasury-firm.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />British opposition leader Nigel Farage has established himself as a leading crypto advocate by investing $288,000 in Stack BTC Plc, a bitcoin treasury firm chaired by former Chancellor Kwasi Kwarteng. An Unusual Alliance Nigel Farage, leader of Reform UK, has solidified his position as Westminster\u2019s most prominent crypto advocate by disclosing a $288,000 investment in [&#8230;]"
+        },
+        {
+          "title": "Moldova's Anticorruption Center Alleges $107M Crypto Scheme to Influence Elections",
+          "link": "https://decrypt.co/360396/moldova-107m-crypto-scheme-influence-elections",
+          "published": "Mon, 09 Mar 2026 21:50:27 +0000",
+          "summary": "Blockchain analysis firm TRM Labs identified links to a Russia-backed influence operation paying agitators in cryptocurrency."
+        },
+        {
+          "title": "Bitcoin Gets Its Own \u2018Fear Gauge\u2019 as Cboe Announces BITVX Index",
+          "link": "https://news.bitcoin.com/bitcoin-gets-its-own-fear-gauge-as-cboe-announces-bitvx-index/",
+          "published": "Mon, 09 Mar 2026 21:10:51 +0000",
+          "summary": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/btcvix-768x432.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bitcoin Gets Its Own \u2018Fear Gauge\u2019 as Cboe Announces BITVX Index\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/btcvix-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/btcvix-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/btcvix-768x432.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/btcvix-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/btcvix-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/btcvix-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/btcvix.png 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Cboe Global Markets is bringing Wall Street\u2019s favorite volatility playbook to bitcoin, announcing plans to launch a new index designed to track the market\u2019s expected price swings using options tied to the popular Ishares Bitcoin Trust ETF. BITVX: Cboe Applies VIX Methodology to Bitcoin ETF Options Market The Chicago-based exchange operator explained on Monday that [&#8230;]"
+        },
+        {
+          "title": "Bitcoin Die-Hard Jack Dorsey Doesn't Like Stablecoins, But Block Will Use Them Anyway",
+          "link": "https://decrypt.co/360444/bitcoin-die-hard-jack-dorsey-doesnt-like-stablecoins-block",
+          "published": "Mon, 09 Mar 2026 20:59:37 +0000",
+          "summary": "Jack Dorsey has long been Bitcoin-focused. So why is Block building stablecoin support into Cash App?"
+        },
+        {
+          "title": "Bhutan Executes $11.85M Bitcoin Transfer as Royal Government Repositions BTC Holdings",
+          "link": "https://news.bitcoin.com/bhutan-executes-11-85m-bitcoin-transfer-as-royal-government-repositions-btc-holdings/",
+          "published": "Mon, 09 Mar 2026 20:30:03 +0000",
+          "summary": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/bhutstts-768x432.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bhutan Executes $11.85M Bitcoin Transfer as Royal Government Repositions BTC Holdings\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/bhutstts-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/bhutstts-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/bhutstts-768x432.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/bhutstts-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/bhutstts-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/bhutstts-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/bhutstts.png 1280w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" />On Monday, with bitcoin changing hands at $68,600 a coin, the Royal Government of Bhutan quietly nudged 175 bitcoin\u2014about $12 million\u2014across the ledger. Bhutan\u2019s latest maneuver follows its previous transfer in mid-February 2026. Bhutan Moves $11.85M in Bitcoin Onchain data tracked by Arkham Intelligence shows Bhutan shifting 175 BTC worth $11.85 million at current exchange [&#8230;]"
+        },
+        {
+          "title": "Zcash Outpaces Bitcoin Gains as Key Development Team Raises $25 Million",
+          "link": "https://decrypt.co/360475/zcash-outpaces-bitcoin-gains-key-development-team-raises-25-million",
+          "published": "Mon, 09 Mar 2026 20:19:11 +0000",
+          "summary": "Prominent privacy coin Zcash (ZEC) has jumped 7% over the last day as the Zcash Open Development Lab announced a $25 million fundraise."
+        },
+        {
           "title": "Anthropic Sues Trump Admin Over 'Supply Chain Risk' Designation",
           "link": "https://decrypt.co/360446/anthropic-challenges-white-house-supply-chain-risk",
           "published": "Mon, 09 Mar 2026 19:48:44 +0000",
           "summary": "The AI company filed a lawsuit in federal court after the Pentagon blacklisted Claude over restrictions on military use."
         },
         {
-          "title": "Bitcoin Price Bounces, But Bears Are Still in Control: Analysis",
-          "link": "https://decrypt.co/360448/bitcoin-price-bounces-bears-in-control-analysis",
-          "published": "Mon, 09 Mar 2026 19:37:58 +0000",
-          "summary": "Bitcoin broke the descending triangle with a massive candle\u2014then crept right back inside. Today, it's trying again, but the daily chart isn't convincing."
-        },
-        {
           "title": "Dario Amodei\u2019s Anthropic Sues US Government, Saying Pentagon Retaliated Over AI Safety Guardrails",
           "link": "https://news.bitcoin.com/dario-amodeis-anthropic-sues-us-government-saying-pentagon-retaliated-over-ai-safety-guardrails/",
           "published": "Mon, 09 Mar 2026 19:31:59 +0000",
-          "summary": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/nnneedddd-768x432.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/nnneedddd-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/nnneedddd-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/nnneedddd-768x432.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/nnneedddd-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/nnneedddd-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/nnneedddd-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/nnneedddd.png 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Anthropic has taken the extraordinary step of suing the U.S. government after the Pentagon labeled the artificial intelligence (AI) firm a \u201csupply chain risk to national security,\u201d igniting a legal clash that could reshape how Washington controls artificial intelligence vendors working with the military. Anthropic Takes on the Defense Department in Landmark AI Lawsuit According [&#8230;]"
+          "summary": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/nnneedddd-768x432.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/nnneedddd-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/nnneedddd-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/nnneedddd-768x432.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/nnneedddd-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/nnneedddd-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/nnneedddd-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/nnneedddd.png 1280w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" />Anthropic has taken the extraordinary step of suing the U.S. government after the Pentagon labeled the artificial intelligence (AI) firm a \u201csupply chain risk to national security,\u201d igniting a legal clash that could reshape how Washington controls artificial intelligence vendors working with the military. Anthropic Takes on the Defense Department in Landmark AI Lawsuit According [&#8230;]"
         },
         {
-          "title": "Bitcoin Defies Market Rout: Price Rebounds to $69K as 20 Millionth Coin is Mined",
-          "link": "https://news.bitcoin.com/bitcoin-defies-market-rout-price-rebounds-to-69k-as-20-millionth-coin-is-mined/",
-          "published": "Mon, 09 Mar 2026 19:02:09 +0000",
-          "summary": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/bitcoin-defies-market-rout_-price-rebounds-to-69k-as-20-millionth-coin-is-mined-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/bitcoin-defies-market-rout_-price-rebounds-to-69k-as-20-millionth-coin-is-mined-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/bitcoin-defies-market-rout_-price-rebounds-to-69k-as-20-millionth-coin-is-mined-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/bitcoin-defies-market-rout_-price-rebounds-to-69k-as-20-millionth-coin-is-mined-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/bitcoin-defies-market-rout_-price-rebounds-to-69k-as-20-millionth-coin-is-mined-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/bitcoin-defies-market-rout_-price-rebounds-to-69k-as-20-millionth-coin-is-mined-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/bitcoin-defies-market-rout_-price-rebounds-to-69k-as-20-millionth-coin-is-mined-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/bitcoin-defies-market-rout_-price-rebounds-to-69k-as-20-millionth-coin-is-mined.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Bitcoin rallied at the start of the week, reaching an intraday high of $69,497 despite broader market declines driven by rising oil prices, now exceeding $100 per barrel. Global Equities Hemorrhage Amid Energy Crisis Mirroring its performance on March 2, bitcoin ( BTC) kickstarted the workweek with a defiant rally, even as global equity markets [&#8230;]"
+          "title": "Crypto Market Review: Is Bitcoin (BTC) Bull Mode Switch On? XRP Looks Hopeless at $1, Solana (SOL) Heads to $95 in Surprising Mini-Bullrun",
+          "link": "https://u.today/crypto-market-review-is-bitcoin-btc-bull-mode-switched-on-xrp-looks-hopeless-at-1-solana-sol-heads",
+          "published": "2026-03-10T00:01:00+00:00",
+          "source": "utoday",
+          "tags": "BTC|MARKET|SOL|XRP|CRYPTOCURRENCY",
+          "summary": "Market has a lot of goals at this point in time and, hopefully, Bitcoin's most recent surge will help it reach those thresholds."
         },
         {
-          "title": "Sharplink Posts $734 Million Loss as Ethereum Staking Revenue Soars",
-          "link": "https://decrypt.co/360441/sharplink-734-million-loss-ethereum-staking-revenue-soars",
-          "published": "Mon, 09 Mar 2026 18:51:52 +0000",
-          "summary": "The Ethereum-buying firm attributed its full-year performance to the asset\u2019s volatility."
+          "title": "RUNE Technical Analysis March 9, 2026: Will it Rise or Fall?",
+          "link": "https://en.coinotag.com/analysis/rune-technical-analysis-march-9-2026-will-it-rise-or-fall",
+          "published": "2026-03-10T00:00:10+00:00",
+          "source": "coinotag",
+          "tags": "BTC|MARKET|TRADING|RUNE|CRYPTOCURRENCY",
+          "summary": "RUNE at the critical 0.42$ level has breakout potential in both directions. Breakout above 0.4200$ for upside, 0.4168$ support key for downside; BTC correlation will be decisive."
         },
         {
-          "title": "Stocks Fall Across Wall Street as Iran War Risks Lift Oil and Trigger Risk-off Trading",
-          "link": "https://news.bitcoin.com/stocks-fall-across-wall-street-as-iran-war-risks-lift-oil-and-trigger-risk-off-trading/",
-          "published": "Mon, 09 Mar 2026 18:32:10 +0000",
-          "summary": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/ws444-768x432.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Stocks Fall Across Wall Street as Iran War Risks Lift Oil and Trigger Risk-off Trading\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/ws444-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/ws444-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/ws444-768x432.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/ws444-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/ws444-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/ws444-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/ws444.png 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />U.S. stocks slid Monday afternoon as rising tensions in the Middle East rattled markets and sent energy prices climbing, pushing investors toward caution and leaving most major indexes in the red. U.S. Markets Slide While Bitcoin Rises as Iran Conflict and Oil Spike Roil Global Investors Wall Street was broadly lower as of about 2:30 [&#8230;]"
+          "title": "Ethereum Foundation taps Bitwise tech for $140M, 70K ETH staking initiative",
+          "link": "https://www.cryptopolitan.com/ethereum-foundation-bitwise-staking/",
+          "published": "2026-03-09T23:41:16+00:00",
+          "source": "cryptopolitan",
+          "tags": "ETH|REGULATION|DIGITAL ASSET TREASURY|MACROECONOMICS|CRYPTOCURRENCY",
+          "summary": "The Ethereum Foundation has chosen Bitwise Asset Management\u2019s staking technology to manage one of the most significant treasury deployments in the history of decentralized finance, selecting the firm\u2019s open-source tools to handle a planned 70,000 Ether (ETH) staking program worth more than $140 million at current prices. The asset manager, which oversees more than $15 billion in client assets, announced on Monday that its onchain staking division, Bitwise Onchain Solutions, is developing and maintaining the software behind the foundation\u2019s initiative. The foundation announced on February 24 that it had begun staking with an initial deposit of 2,016 ETH. It added, \u201cApproximately 70,000\u202fETH will be staked with rewards directed back to the EF treasury.\u201d With Ethereum\u2019s ETH token trading around $2,000 at the time of writing, the total of the foundation\u2019s 70,000 token staking target is worth about $140 million. The staking rewards will be directed back to the treasury to help fund protocol research and development, ecosystem grants, and other core operations. Why is the Ethereum Foundation staking its treasury? In June 2025, the Ethereum Foundation introduced a treasury management policy, its first formal framework for active deployment of assets. The policy, developed with input from co-founder Vitalik Buterin and other senior contributors, set annual operating expenditure at roughly 15% of total treasury value and mandated maintaining a 2.5-year operational runway. ETH staking was identified as the natural first step. The foundation\u2019s policy also commits it to what it calls \u201cDefipunk\u201d principles. The principles involve deploying capital exclusively through open-source, permissionless, privacy-respecting infrastructure. Solo staking using Bitwise\u2019s tools satisfied all of those criteria. The foundation is also avoiding concentrating staking with one single operator, and it does this by participating directly in consensus through validator nodes. This helps it to avoid delegating to a third-party staking service and ensuring that staking doesn\u2019t become centralized. Does Bitwise own the staking tech Ethereum Foundation chose? The tools the Ethereum Foundation is using are Dirk and Vouch, both of which were originally built by Attestant, a London-based specialist staking infrastructure company. Attestant was founded by Sreejith Das, Jim McDonald and Steve Berryman. Bitwise acquired Attestant in late 2024, bringing about $3.7 billion in staked assets under management and absorbing the team into what became Bitwise Onchain Solutions. Dirk functions as a distributed key-signing tool, spreading cryptographic signing responsibilities across multiple machines and jurisdictions so that no single point of failure can interrupt the foundation\u2019s validation duties. Vouch acts as a validator client coordinator, managing multiple execution and beacon client pairings and applying configurable strategies to guard against client diversity risks, a known vulnerability in proof-of-stake networks where a dominant client bug could trigger mass slashings. \u201cWhen we first built Dirk and Vouch, our mission was to create the most resilient, secure staking infrastructure for the ecosystem,\u201d said Sreejith Das , now Bitwise\u2019s head of onchain solutions. \u201cSeeing the Ethereum Foundation adopt these tools for its own treasury is validation of that original vision.\u201d Bitwise chief technology officer Hong Kim called the selection \u201ca watershed moment\u201d for the firm. Both tools are maintained as open-source public goods and are freely available to the Ethereum ecosystem. Bitwise has stated it will continue to update and support the software regardless of commercial arrangements. The smartest crypto minds already read our newsletter. Want in? Join them ."
         },
         {
-          "title": "Coinbase Debuts Crypto Futures for European Traders, Including Bitcoin and Ethereum",
-          "link": "https://decrypt.co/360420/coinbase-debuts-crypto-futures-european-traders-bitcoin-ethereum",
-          "published": "Mon, 09 Mar 2026 18:21:44 +0000",
-          "summary": "Coinbase launched regulated crypto futures in 26 European countries, offering perpetual and dated contracts with up to 10x leverage."
+          "title": "KMNO Technical Analysis March 9, 2026: Weekly Strategy",
+          "link": "https://en.coinotag.com/analysis/kmno-technical-analysis-march-9-2026-weekly-strategy",
+          "published": "2026-03-09T23:40:53+00:00",
+          "source": "coinotag",
+          "tags": "BTC|MARKET|TRADING|CRYPTOCURRENCY",
+          "summary": "KMNO is trapped in a downtrend, with RSI oversold and MACD bullish divergence signaling a bottom. If it holds above the critical $0.0186 support, the accumulation phase could begin, though BTC weak..."
         },
         {
-          "title": "Nigel Farage Backs Bitcoin Treasury Firm Chaired By Former Chancellor",
-          "link": "https://decrypt.co/360431/nigel-farage-backs-bitcoin-treasury-firm-chaired-by-former-chancellor",
-          "published": "Mon, 09 Mar 2026 17:41:23 +0000",
-          "summary": "Reform UK leader Nigel Farage has joined the $333,000 fundraising round for Stack BTC alongside Blockchain.com."
-        },
-        {
-          "title": "World Liberty Financial\u2019s Controversial Proposal to Link Voting Rights With Staking Gains 99% Support",
-          "link": "https://news.bitcoin.com/world-liberty-financials-controversial-proposal-to-link-voting-rights-with-staking-gains-99-support/",
-          "published": "Mon, 09 Mar 2026 17:30:44 +0000",
-          "summary": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/world-liberty-financials-controversial-proposal-to-link-voting-rights-with-staking-gains-99-support-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/world-liberty-financials-controversial-proposal-to-link-voting-rights-with-staking-gains-99-support-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/world-liberty-financials-controversial-proposal-to-link-voting-rights-with-staking-gains-99-support-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/world-liberty-financials-controversial-proposal-to-link-voting-rights-with-staking-gains-99-support-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/world-liberty-financials-controversial-proposal-to-link-voting-rights-with-staking-gains-99-support-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/world-liberty-financials-controversial-proposal-to-link-voting-rights-with-staking-gains-99-support-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/world-liberty-financials-controversial-proposal-to-link-voting-rights-with-staking-gains-99-support-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/world-liberty-financials-controversial-proposal-to-link-voting-rights-with-staking-gains-99-support.jpg 1280w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" />The Trump Family-linked World Liberty Financial is reportedly gaining strong support for a proposal that could alter voting power significantly. Early Support Despite Backer Criticism World Liberty Financial is seeing overwhelming support for a proposal that could redefine voting power. The measure, introduced March 5, would remove voting rights from unlocked tokens \u2014 about 20% [&#8230;]"
-        },
-        {
-          "title": "Bitcoin\u2019s Fixed Supply Comes Into Focus as Network Passes 20 Million Coins Mined",
-          "link": "https://news.bitcoin.com/bitcoins-fixed-supply-comes-into-focus-as-network-passes-20-million-coins-mined/",
-          "published": "Mon, 09 Mar 2026 16:30:31 +0000",
-          "summary": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/bbb90000-768x432.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bitcoin\u2019s Fixed Supply Comes Into Focus as Network Passes 20 Million Coins Mined\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/bbb90000-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/bbb90000-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/bbb90000-768x432.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/bbb90000-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/bbb90000-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/bbb90000-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/bbb90000.png 1280w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" />Onchain data indicates that the Bitcoin network has now recorded the mining of its 20th million bitcoin, leaving fewer than one million coins still waiting to be brought into existence. Bitcoin\u2019s Scarcity Deepens After 20 Million BTC Mined, 21M Cap Approaches Blockchain metrics show that 95.24% of Bitcoin\u2019s total supply has already been mined into [&#8230;]"
+          "title": "EIGEN Comprehensive Technical Analysis: March 9, 2026 Detailed Review",
+          "link": "https://en.coinotag.com/analysis/eigen-comprehensive-technical-analysis-march-9-2026-detailed-review",
+          "published": "2026-03-09T23:21:00+00:00",
+          "source": "coinotag",
+          "tags": "BTC|MARKET|TRADING|CRYPTOCURRENCY",
+          "summary": "EIGEN is consolidating at 0.18 USD in the downtrend channel; even though MACD is bullish, structural bearish signals prevail. Critical supports at 0.1767-0.1627 are expected to be tested, BTC corre..."
         }
       ],
-      "errors": [
-        {
-          "error": "HTTPSConnectionPool(host='min-api.cryptocompare.com', port=443): Read timed out. (read timeout=30)",
-          "url": "cryptocompare",
-          "params": {
-            "categories": "BTC,ETH",
-            "lang": "EN",
-            "sortOrder": "latest"
-          }
-        }
-      ],
+      "errors": [],
       "note": null
     },
     "macro": {
       "items": [
         {
+          "title": "Million-dollar earners have already stopped paying into Social Security for 2026",
+          "link": "https://www.cnbc.com/2026/03/09/million-dollar-earners-social-security-2026.html",
+          "published": "Mon, 09 Mar 2026 23:14:54 GMT",
+          "summary": "The Social Security payroll tax is capped at $184,500 in 2026. Some high earners have already stopped paying into the program for the year."
+        },
+        {
           "title": "Oil prices decline after nearly hitting $120 as Trump says U.S. considering taking over Strait of Hormuz",
           "link": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
-          "published": "Mon, 09 Mar 2026 20:04:43 GMT",
+          "published": "Mon, 09 Mar 2026 20:45:40 GMT",
           "summary": "Gulf Arab oil producers are cutting production as they run out of storage space because they can't export through the Strait of Hormuz"
         },
         {
@@ -225,51 +261,21 @@
           "summary": "Prediction market bettors are increasingly expecting the U.S. economy to enter a recession."
         },
         {
-          "title": "Small 401(k)s may automatically follow workers to their next job \u2014 except Roth money",
-          "link": "https://www.cnbc.com/2026/03/09/401k-auto-portability-roth.html",
-          "published": "Mon, 09 Mar 2026 12:30:01 GMT",
-          "summary": "A network of plan administrators helps small 401(k) accounts rolled into IRAs find their way to a worker's next workplace plan \u2014 unless it's Roth money."
-        },
-        {
           "title": "One year after Trump\u2019s sovereignty threats, Canadians keep \u2018elbows up\u2019",
           "link": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html",
           "published": "Mon, 09 Mar 2026 10:59:31 GMT",
           "summary": "An unusual swell of Canadian patriotism seen after Trump's threats and tariffs last year has evolved into a new social and economic order."
         },
         {
-          "title": "Analyst Report: Royal Bank of Canada",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_3675_AnalystReport_1773077555000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "published": "2026-03-09T17:32:35Z",
+          "title": "Ex-banker quit corporate life to sell bubble tea. Now, he helps run a global empire that brings in over $500 million",
+          "link": "https://finance.yahoo.com/news/ex-banker-quit-corporate-life-124500546.html",
+          "published": "2026-03-08T12:45:00Z",
           "summary": ""
         },
         {
-          "title": "Filing Your Taxes? Here\u2019s The Truth About Changes to Social Security Tax Changes",
-          "link": "https://finance.yahoo.com/news/filing-taxes-truth-changes-social-110403253.html",
-          "published": "2026-03-08T11:04:03Z",
-          "summary": ""
-        },
-        {
-          "title": "4 Ways Retirees Can Reduce Taxes on Social Security Income in 2026",
-          "link": "https://finance.yahoo.com/news/4-ways-retirees-reduce-taxes-110014832.html",
-          "published": "2026-03-08T11:00:14Z",
-          "summary": ""
-        },
-        {
-          "title": "Bank of America Securities Bearish on TG Therapeutics (TGTX) Post Earnings",
-          "link": "https://finance.yahoo.com/news/bank-america-securities-bearish-tg-102541979.html",
-          "published": "2026-03-08T10:25:41Z",
-          "summary": ""
-        },
-        {
-          "title": "Bank of America Securities Bullish on Franco Nevada (FNV)",
-          "link": "https://finance.yahoo.com/news/bank-america-securities-bullish-franco-102458014.html",
-          "published": "2026-03-08T10:24:58Z",
-          "summary": ""
-        },
-        {
-          "title": "Bank of America Securities Reiterates Bullish Stance On Wheaton Precious Metals (WPM)",
-          "link": "https://finance.yahoo.com/news/bank-america-securities-reiterates-bullish-102451427.html",
-          "published": "2026-03-08T10:24:51Z",
+          "title": "RBC Capital Cuts PT on Broadcom Inc. (AVGO) to $340 From $370 \u2013 Here\u2019s Why",
+          "link": "https://finance.yahoo.com/news/rbc-capital-cuts-pt-broadcom-120831404.html",
+          "published": "2026-03-08T12:08:31Z",
           "summary": ""
         }
       ],
@@ -294,7 +300,7 @@
           "title": "[USD] JOLTS Job Openings (High)",
           "link": "https://www.forexfactory.com/calendar/578-us-jolts-job-openings",
           "published": "2026-03-13 2:00pm",
-          "summary": "Impact: High, Forecast: 6.84M, Previous: 6.54M"
+          "summary": "Impact: High, Forecast: 6.79M, Previous: 6.54M"
         },
         {
           "title": "[USD] Prelim UoM Inflation Expectations (Medium)",
@@ -313,8 +319,249 @@
       "note": null
     },
     "cryptocompare": {
-      "error": "HTTPSConnectionPool(host='min-api.cryptocompare.com', port=443): Read timed out. (read timeout=30)",
-      "url": "cryptocompare",
+      "items": [
+        {
+          "title": "Crypto Market Review: Is Bitcoin (BTC) Bull Mode Switch On? XRP Looks Hopeless at $1, Solana (SOL) Heads to $95 in Surprising Mini-Bullrun",
+          "link": "https://u.today/crypto-market-review-is-bitcoin-btc-bull-mode-switched-on-xrp-looks-hopeless-at-1-solana-sol-heads",
+          "published": "2026-03-10T00:01:00+00:00",
+          "source": "utoday",
+          "tags": "BTC|MARKET|SOL|XRP|CRYPTOCURRENCY",
+          "summary": "Market has a lot of goals at this point in time and, hopefully, Bitcoin's most recent surge will help it reach those thresholds."
+        },
+        {
+          "title": "RUNE Technical Analysis March 9, 2026: Will it Rise or Fall?",
+          "link": "https://en.coinotag.com/analysis/rune-technical-analysis-march-9-2026-will-it-rise-or-fall",
+          "published": "2026-03-10T00:00:10+00:00",
+          "source": "coinotag",
+          "tags": "BTC|MARKET|TRADING|RUNE|CRYPTOCURRENCY",
+          "summary": "RUNE at the critical 0.42$ level has breakout potential in both directions. Breakout above 0.4200$ for upside, 0.4168$ support key for downside; BTC correlation will be decisive."
+        },
+        {
+          "title": "Ethereum Foundation taps Bitwise tech for $140M, 70K ETH staking initiative",
+          "link": "https://www.cryptopolitan.com/ethereum-foundation-bitwise-staking/",
+          "published": "2026-03-09T23:41:16+00:00",
+          "source": "cryptopolitan",
+          "tags": "ETH|REGULATION|DIGITAL ASSET TREASURY|MACROECONOMICS|CRYPTOCURRENCY",
+          "summary": "The Ethereum Foundation has chosen Bitwise Asset Management\u2019s staking technology to manage one of the most significant treasury deployments in the history of decentralized finance, selecting the firm\u2019s open-source tools to handle a planned 70,000 Ether (ETH) staking program worth more than $140 million at current prices. The asset manager, which oversees more than $15 billion in client assets, announced on Monday that its onchain staking division, Bitwise Onchain Solutions, is developing and maintaining the software behind the foundation\u2019s initiative. The foundation announced on February 24 that it had begun staking with an initial deposit of 2,016 ETH. It added, \u201cApproximately 70,000\u202fETH will be staked with rewards directed back to the EF treasury.\u201d With Ethereum\u2019s ETH token trading around $2,000 at the time of writing, the total of the foundation\u2019s 70,000 token staking target is worth about $140 million. The staking rewards will be directed back to the treasury to help fund protocol research and development, ecosystem grants, and other core operations. Why is the Ethereum Foundation staking its treasury? In June 2025, the Ethereum Foundation introduced a treasury management policy, its first formal framework for active deployment of assets. The policy, developed with input from co-founder Vitalik Buterin and other senior contributors, set annual operating expenditure at roughly 15% of total treasury value and mandated maintaining a 2.5-year operational runway. ETH staking was identified as the natural first step. The foundation\u2019s policy also commits it to what it calls \u201cDefipunk\u201d principles. The principles involve deploying capital exclusively through open-source, permissionless, privacy-respecting infrastructure. Solo staking using Bitwise\u2019s tools satisfied all of those criteria. The foundation is also avoiding concentrating staking with one single operator, and it does this by participating directly in consensus through validator nodes. This helps it to avoid delegating to a third-party staking service and ensuring that staking doesn\u2019t become centralized. Does Bitwise own the staking tech Ethereum Foundation chose? The tools the Ethereum Foundation is using are Dirk and Vouch, both of which were originally built by Attestant, a London-based specialist staking infrastructure company. Attestant was founded by Sreejith Das, Jim McDonald and Steve Berryman. Bitwise acquired Attestant in late 2024, bringing about $3.7 billion in staked assets under management and absorbing the team into what became Bitwise Onchain Solutions. Dirk functions as a distributed key-signing tool, spreading cryptographic signing responsibilities across multiple machines and jurisdictions so that no single point of failure can interrupt the foundation\u2019s validation duties. Vouch acts as a validator client coordinator, managing multiple execution and beacon client pairings and applying configurable strategies to guard against client diversity risks, a known vulnerability in proof-of-stake networks where a dominant client bug could trigger mass slashings. \u201cWhen we first built Dirk and Vouch, our mission was to create the most resilient, secure staking infrastructure for the ecosystem,\u201d said Sreejith Das , now Bitwise\u2019s head of onchain solutions. \u201cSeeing the Ethereum Foundation adopt these tools for its own treasury is validation of that original vision.\u201d Bitwise chief technology officer Hong Kim called the selection \u201ca watershed moment\u201d for the firm. Both tools are maintained as open-source public goods and are freely available to the Ethereum ecosystem. Bitwise has stated it will continue to update and support the software regardless of commercial arrangements. The smartest crypto minds already read our newsletter. Want in? Join them ."
+        },
+        {
+          "title": "KMNO Technical Analysis March 9, 2026: Weekly Strategy",
+          "link": "https://en.coinotag.com/analysis/kmno-technical-analysis-march-9-2026-weekly-strategy",
+          "published": "2026-03-09T23:40:53+00:00",
+          "source": "coinotag",
+          "tags": "BTC|MARKET|TRADING|CRYPTOCURRENCY",
+          "summary": "KMNO is trapped in a downtrend, with RSI oversold and MACD bullish divergence signaling a bottom. If it holds above the critical $0.0186 support, the accumulation phase could begin, though BTC weak..."
+        },
+        {
+          "title": "EIGEN Comprehensive Technical Analysis: March 9, 2026 Detailed Review",
+          "link": "https://en.coinotag.com/analysis/eigen-comprehensive-technical-analysis-march-9-2026-detailed-review",
+          "published": "2026-03-09T23:21:00+00:00",
+          "source": "coinotag",
+          "tags": "BTC|MARKET|TRADING|CRYPTOCURRENCY",
+          "summary": "EIGEN is consolidating at 0.18 USD in the downtrend channel; even though MACD is bullish, structural bearish signals prevail. Critical supports at 0.1767-0.1627 are expected to be tested, BTC corre..."
+        },
+        {
+          "title": "IMX Comprehensive Technical Analysis: Detailed Review of March 9, 2026",
+          "link": "https://en.coinotag.com/analysis/imx-comprehensive-technical-analysis-detailed-review-of-march-9-2026",
+          "published": "2026-03-09T23:01:35+00:00",
+          "source": "coinotag",
+          "tags": "BTC|MARKET|TRADING|IMX|CRYPTOCURRENCY",
+          "summary": "IMX at critical $0.1507 support in a downtrend, with MACD bounce signal indicating short-term recovery potential. BTC downtrend and low volume increase risks, strategic short bias recommended."
+        },
+        {
+          "title": "Bitcoin vs gold: ETF flows point to early capital rotation signs",
+          "link": "https://cointelegraph.com/news/bitcoin-vs-gold-etf-flows-point-to-early-capital-rotation-signs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-03-09T22:48:28+00:00",
+          "source": "cointelegraph",
+          "tags": "BTC|FIAT|TRADING|CRYPTOCURRENCY",
+          "summary": "Bitcoin ETF inflows have turned positive as gold ETFs see record outflows after a historic rally. Is capital beginning to rotate from gold to Bitcoin?"
+        },
+        {
+          "title": "WAL Technical Analysis March 9, 2026: RSI MACD Momentum",
+          "link": "https://en.coinotag.com/analysis/wal-technical-analysis-march-9-2026-rsi-macd-momentum",
+          "published": "2026-03-09T22:41:36+00:00",
+          "source": "coinotag",
+          "tags": "BTC|MARKET|TRADING|CRYPTOCURRENCY",
+          "summary": "In the WAL momentum, the positive MACD histogram stands out, however, RSI at 41.89 and the position below EMA20 continues the downtrend. With BTC correlation, the 0.0822 resistance is a critical th..."
+        },
+        {
+          "title": "Nigel Farage Invests in UK Bitcoin Firm Led by Former Chancellor Kwasi Kwarteng",
+          "link": "https://cryptopotato.com/nigel-farage-invests-in-uk-bitcoin-firm-led-by-former-chancellor-kwasi-kwarteng/",
+          "published": "2026-03-09T22:33:56+00:00",
+          "source": "cryptopotato",
+          "tags": "BTC|BUSINESS|SPONSORED|DIGITAL ASSET TREASURY|CRYPTOCURRENCY",
+          "summary": "Stack BTC Plc has raised $347,204 from several entities, including Nigel Farage, leader of the Reform UK party, and Blockchain.com. The fundraising was carried out through the issuance of 5,200,000 new ordinary shares at 5 pence per unit, with plans to use the proceeds to buy and grow UK businesses, build a Bitcoin (BTC) treasury, and fund general working capital. Stack\u2019s BTC Fundraise A March 9 press release shows that Farage\u2019s financing was made as a show of his long-standing support for British businesses and advocacy for BTC.\u00a0Throughout his career, the politician has championed local independent companies and talked about his belief in the OG cryptocurrency\u2019s potential as a financial asset and digital currency. \u201cLondon and the UK have historically been the center of the world\u2019s financial markets, and I believe we can and should be a major global hub for the crypto industry,\u201d said Farage in the press release. He also mentions the importance of UK SMEs, which provide jobs to about 60% of the private sector workforce, adding that Stack\u2019s approach of acquiring and growing businesses is a strategy for long-term capital and support. Blockchain.com will be providing institutional-grade services to support Stack\u2019s BTC stockpile plan on top of its investment. The firm was officially registered under the UK Financial Conduct Authority (FCA) on February 10, 2026, a development that allows it to legally operate as a crypto asset business in the region. Kwasi Kwarteng, Stack\u2019s Executive Chairman and former UK Chancellor, welcomed the two as investors, saying the partnership aligns closely with the company\u2019s goals. \u201cNigel\u2019s unwavering support for British business and belief that Bitcoin is set to rapidly expand its role in finance is perfectly aligned with the company\u2019s ethos and business plans,\u201d he wrote. He added that the crypto service provider\u2019s infrastructure will help ensure the firm maintains the highest standards of custody services for its BTC treasury. Shares To Begin Trading in March The new shares will be available for trading on the Aquis Growth Market from 12 March 2026, with investors also receiving warrants that can be exercised once certain conditions have been met in the future. Stack will now have 68,130,000 ordinary shares in circulation, each carrying one voting right. Of the total issued share capital, the company\u2019s existing concert party now collectively accounts for 45.21%. Farage currently controls 4,300,000 shares (6.31%), while Kwarteng holds 3,700,000 shares (5.43%), with the remaining units distributed among other directors and parties. Stack announced earlier in March that it would begin operating as a BTC treasury company, with plans to start its reserves with a 21 BTC purchase. The firm intends to fund this future stockpile through equity issuance, acquisitions, and operating profits. The company will now join established players in the UK BTC treasury space, including the Smarter Web Company and Satsuma Technology, which respectively hold 2,692 BTC and 620 BTC, per data from BitcoinTreasuries. The post Nigel Farage Invests in UK Bitcoin Firm Led by Former Chancellor Kwasi Kwarteng appeared first on CryptoPotato ."
+        },
+        {
+          "title": "Bitcoin Nears Supply Cap as 95% of All Coins Enter Circulation",
+          "link": "https://en.coin-turk.com/bitcoin-nears-supply-cap-as-95-of-all-coins-enter-circulation/",
+          "published": "2026-03-09T22:31:09+00:00",
+          "source": "cointurken",
+          "tags": "BTC|CRYPTOCURRENCY",
+          "summary": "Over 95% of all Bitcoin has entered circulation, with less than 1 million left to mine. Halvings systematically reduce new supply, shifting miners\u2019 earnings toward transaction fees. Continue Reading: Bitcoin Nears Supply Cap as 95% of All Coins Enter Circulation The post Bitcoin Nears Supply Cap as 95% of All Coins Enter Circulation appeared first on COINTURK NEWS ."
+        },
+        {
+          "title": "Elon\u2019s Grok AI Predicts the Price of XRP, Bitcoin and Ethereum by The End of 2026",
+          "link": "https://cryptonews.com/news/elons-grok-ai-predicts-the-price-of-xrp-bitcoin-and-ethereum-by-the-end-of-2026/",
+          "published": "2026-03-09T22:30:00+00:00",
+          "source": "cryptonews",
+          "tags": "BTC|ETH|TRADING|XRP|CRYPTOCURRENCY",
+          "summary": "When you feed Elon Musk\u2019s Grok AI a carefully engineered prompt, it reveals explosive price predictions for XRP, Bitcoin, and Ethereum. A surge in oil prices is adding fresh macro pressure to crypto markets, but Grok predicts the mid-to-long-term outlook for the three largest cryptocurrencies remains strong. A mix of chart signals, regulatory developments, and ongoing industry momentum appears to support Grok\u2019s analysis. XRP ($XRP): Grok AI Predicts a Possible 9x Surge Within 10 Months In a recent update , Ripple reiterated that XRP ($XRP) plays a central role in establishing the XRP Ledger (XRPL) as a scalable, enterprise-grade global payments network. Source: Grok Thanks to rapid transaction settlement and extremely low fees, XRPL is can get an early lead in two of major blockchain use cases: stablecoins and tokenized real-world assets. XRP is currently trading around $1.36, and Grok AI suggests the price could hit $14 during the year, delivering a tidy 10x for current HODLers. Technical indicators reinforce the bullish outlook. XRP formed a bullish flag in recent months but has been held back by Bitcoin\u2019s stagnation. However, increased institutional participation following the US launch of XRP exchange-traded funds, Ripple\u2019s expanding network of global partnerships, and possible regulatory clarity if the CLARITY Act passes Congress could all catalyze a price boom. Bitcoin (BTC): Grok AI Says BTC Could Hit $250,000 Bitcoin ($BTC) reached a record high of $126,080 on October 6 before losing nearly half of its value during the following months. Despite recent volatility, Grok AI says Bitcoin remains on a long-term upward trajectory, with the possibility of a price peak near $250,000 in 2026. Often described as digital gold, Bitcoin continues attracting both investors who seek diversification and hedging against inflation and broader economic uncertainty. At present, Bitcoin accounts for roughly $1.4 trillion of the $2.4 trillion cryptocurrency market. Its recent decline occurred after the US escalated rhetoric against Iran and Greenland, but it appears to have shaken off the effects of the US/Iran war. Additionally, if Donald Trump follows through on proposals to establish a U.S. Strategic Bitcoin Reserve, Grok\u2019s bull case becomes highly feasible. Ethereum (ETH): Grok AI Sees an Eye-Watering $15,000 Price Target Ethereum ($ETH) is the dominant smart contract platform, serving as the core infrastructure of decentralized finance. With a market capitalization close to $244 billion and around $56 billion locked on chain, Ethereum is the primary settlement layer for on-chain financial applications. Its strong security, leadership within the stablecoin sector, and early expansion into real-world asset tokenization position Ethereum well for broader institutional adoption. However, growth depends on regulatory developments. Approval of the CLARITY Act in the United States could deliver the legal certainty many institutions need to deploy capital on Ethereum. ETH is currently trading just above $2,000. Major resistance is expected around the $5,000 level, near its previous all-time high of $4,946.05 recorded last August. If Ethereum decisively breaks $5,000, Grok\u2019s model suggests a 6.5x run to $15,000. Maxi Doge: Early-Stage Meme Coin Aiming for Major Gains If XRP, Bitcoin, and Ethereum follow Grok\u2019s calculations, then the ensuing meme season could top the halcyon days of 2021. One meme coin is being hotly touted as next season\u2019s BONK or WIF. Maxi Doge ($MAXI) has already raised $4.7 million ahead of launch as investors are drawn to its magnetic marketing and viral potential. Maxi Doge is Dogecoin\u2019s bigger, badder, degenerate gym bro cousin, channeling the comic culture that defined meme coin mania in 2021. Built as an ERC-20 token on Ethereum\u2019s proof-of-stake network, MAXI also has a significantly smaller environmental footprint compared with Dogecoin\u2019s proof-of-work mining system. Presale investors can currently stake MAXI tokens for yields of 67% APY, although rewards decline as more tokens enter the staking pool. The token is $0.0002807 during the current presale phase, with automatic price increases scheduled as the project hits funding milestones. Investors interested in purchasing MAXI can visit the Maxi Doge official website and connect a compatible wallet such as Best Wallet . Stay updated through Maxi Doge\u2019s official X and Telegram pages. Visit the Official Maxi Doge Website Here The post Elon\u2019s Grok AI Predicts the Price of XRP, Bitcoin and Ethereum by The End of 2026 appeared first on Cryptonews ."
+        },
+        {
+          "title": "Aon Completes First Stablecoin Insurance Payment on Ethereum, Solana",
+          "link": "https://coinpaper.com/15295/aon-completes-first-stablecoin-insurance-payment-on-ethereum-solana",
+          "published": "2026-03-09T22:29:35+00:00",
+          "source": "coinpaper",
+          "tags": "ETH|EXCHANGE|SOL|SPONSORED|CRYPTOCURRENCY",
+          "summary": "Aon plc has completed the first known stablecoin insurance premium payment among major global brokers, signaling a major shift in financial operations. The company executed the payment using U.S. dollar-backed stablecoins across Ethereum and Solana networks, marking a milestone in digital asset integration within insurance. This initiative demonstrates how tokenized instruments can streamline fund movements while maintaining rigorous risk management standards. The effort reflects growing demand for faster, more transparent financial processes. With regulatory frameworks such as the GENIUS Act of 2025 providing clarity, stablecoins are increasingly positioned as practical tools, not future concepts. Aon leveraged its digital asset expertise to translate advisory capabilities into real-world applications, ensuring client programs can benefit from innovation without compromising control. Collaboration With Coinbase and Paxos According to the press release , the project involved collaboration with Coinbase and Paxos to settle insurance premiums for institutional clients. By operating across USDC on Ethereum and PYUSD on Solana, Aon demonstrated flexibility in supporting multiple stablecoins and blockchain networks. This multi-chain approach allows clients to optimize settlement speed and efficiency while reducing operational friction. Brett Tejpaul, Co-CEO of Coinbase Institutional, highlighted the infrastructure benefits, saying, \u201dOur leading institutional infrastructure enables institutions to seamlessly execute payments and power their crypto businesses.\u201d He emphasized that stablecoin settlements improve transparency and provide scalable operations for corporate clients. This integration strengthens the connection between risk management and capital movement, allowing firms to manage treasury operations more effectively. Preparing for Widespread Adoption Aon plans to continue evaluating stablecoin settlement across its insurance services. The company sees potential for faster settlement timelines, cost efficiency, and improved alignment between capital movement and risk transfer. Additionally, this initiative allows Aon to anticipate the evolution of corporate payments as digital finance matures. According to Paxos, stablecoins like PYUSD can now be integrated directly into treasury workflows, modernizing liquidity management and settlement processes."
+        },
+        {
+          "title": "Nigel Farage Discloses $288,000 Stake in Former UK Chancellor\u2019s Bitcoin Treasury Firm",
+          "link": "https://news.bitcoin.com/nigel-farage-discloses-288000-stake-in-former-uk-chancellors-bitcoin-treasury-firm/",
+          "published": "2026-03-09T22:10:49+00:00",
+          "source": "bitcoin.com",
+          "tags": "BTC|REGULATION|DIGITAL ASSET TREASURY|MACROECONOMICS|CRYPTOCURRENCY",
+          "summary": "British opposition leader Nigel Farage has established himself as a leading crypto advocate by investing $288,000 in Stack BTC Plc, a bitcoin treasury firm chaired by former Chancellor Kwasi Kwarteng. An Unusual Alliance Nigel Farage, leader of Reform UK, has solidified his position as Westminster\u2019s most prominent crypto advocate by disclosing a $288,000 investment in"
+        },
+        {
+          "title": "Will Bitcoin follow oil\u2019s historic surge and rally to $79K before the end of March?",
+          "link": "https://cointelegraph.com/news/will-bitcoin-follow-oil-historic-surge-and-rally-to-79k-before-end-of-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-03-09T22:07:11+00:00",
+          "source": "cointelegraph",
+          "tags": "BTC|COMMODITY|MARKET|TRADING|CRYPTOCURRENCY",
+          "summary": "Historical data shows that Bitcoin typically gains 20% within a month of major spikes in oil prices. Should traders prepare for a rally to $79,000?"
+        },
+        {
+          "title": "Bitcoin rises 3% as crypto continues to be largely unaffected by Iran conflict",
+          "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-muted-near-67k-as-oil-surge-stokes-inflation-fears-4548687",
+          "published": "2026-03-09T22:06:37+00:00",
+          "source": "investing_comcryptonews",
+          "tags": "BTC|COMMODITY|TRADING|MACROECONOMICS|CRYPTOCURRENCY",
+          "summary": ""
+        },
+        {
+          "title": "Cash App Embraces Stablecoin Payments: Block CEO\u2019s Strategic Pivot Despite Personal Reservations",
+          "link": "https://bitcoinworld.co.in/cash-app-stablecoin-payments-block/",
+          "published": "2026-03-09T21:40:12+00:00",
+          "source": "bitcoinworld",
+          "tags": "BTC|MARKET|USDT|USDC|CRYPTOCURRENCY",
+          "summary": "BitcoinWorld Cash App Embraces Stablecoin Payments: Block CEO\u2019s Strategic Pivot Despite Personal Reservations In a significant move for the mainstream adoption of digital assets, Block CEO Jack Dorsey has confirmed that the company\u2019s popular Cash App will integrate stablecoin payments, marking a strategic pivot driven by user demand rather than personal conviction. This development, reported from San Francisco, California, on March 15, 2025, signals a major shift in how millions of users might soon transact daily. Cash App Stablecoin Integration: A User-Driven Decision Jack Dorsey, the co-founder and CEO of Block, recently made a notable disclosure. He stated that while he personally dislikes stablecoins, Cash App will support them for payments. This decision stems directly from customer demand, according to a report by Decrypt. Consequently, the company prioritizes user preference over executive sentiment. This user-centric approach reflects a broader trend in fintech where consumer behavior dictates product roadmaps. Block, formerly known as Square, has long been a pioneer in financial technology. The company\u2019s Cash App boasts tens of millions of active users. Its existing support for Bitcoin buying and selling established its crypto credentials. However, the addition of stablecoins represents a different strategic layer. Stablecoins, like USDC and USDT, are cryptocurrencies pegged to stable assets such as the U.S. dollar. They offer the speed and programmability of crypto without the volatility of assets like Bitcoin. The Broader Context of Stablecoin Adoption The announcement does not exist in a vacuum. It arrives amid accelerating institutional and regulatory acceptance of stablecoins. For instance, major payment processors and tech firms are exploring similar integrations. Furthermore, clearer regulatory frameworks in key markets are providing the necessary confidence for large-scale deployment. Timeline and Precedents: The USDC Connection Dorsey\u2019s statement builds upon earlier industry signals. Last year, Jeremy Allaire, CEO of Circle, revealed that Block planned to support the USDC stablecoin starting in early 2026. Circle is the principal issuer of USDC, the second-largest stablecoin by market capitalization. This prior announcement provides a concrete timeline and suggests Block\u2019s plans are well-developed. The following table outlines key stablecoins relevant to this integration: Stablecoin Issuer Backing Market Position USDT (Tether) Tether Limited Reserves (Cash, Equivalents) Largest by volume USDC (USD Coin) Circle Cash & U.S. Treasuries Second largest, noted for transparency DAI MakerDAO Overcollateralized Crypto Assets Leading decentralized stablecoin Integrating such assets into Cash App could unlock several use cases: Faster peer-to-peer (P2P) transfers across borders without traditional banking delays. Merchant payments with reduced volatility risk compared to other cryptocurrencies. Programmable finance features, like automated payments and savings tools. Analyzing Dorsey\u2019s Personal Stance Versus Corporate Strategy Dorsey\u2019s personal dislike of stablecoins is a fascinating counterpoint to Block\u2019s corporate action. Historically, Dorsey has been a vocal proponent of Bitcoin, often describing it as the native currency of the internet. He has expressed skepticism about stablecoins, possibly viewing them as a centralized intermediary that contradicts crypto\u2019s decentralized ethos. Nevertheless, his willingness to greenlight their integration demonstrates a pragmatic leadership style. It shows a clear separation between personal philosophy and business strategy aimed at serving a broad customer base. This pivot highlights a critical evolution in the crypto industry. Initially driven by ideology, the sector is increasingly maturing into a customer-service-oriented industry. Products must solve real-world problems to achieve mass adoption. For everyday users, the volatility of Bitcoin can be a barrier for payments. Stablecoins effectively solve this problem, making them a logical addition to a payment app\u2019s toolkit. Potential Impacts on the Payments Landscape The integration of stablecoin payments into Cash App could have ripple effects across several domains. Firstly, it applies competitive pressure on other mobile payment providers like PayPal, Venmo, and traditional banking apps. These entities may need to accelerate their own digital asset strategies to keep pace. Secondly, it could significantly boost the utility and circulation of specific stablecoins. An integration with an app of Cash App\u2019s scale would provide a massive, ready-made user base. This could influence the competitive dynamics between stablecoin issuers like Circle (USDC) and Tether (USDT). Finally, from a regulatory perspective, this move by a publicly traded, U.S.-based company lends further legitimacy to the stablecoin asset class. It signals to regulators that major financial technology firms see clear utility and demand, which could help shape balanced and innovation-friendly policies. Conclusion Block\u2019s decision to enable Cash App stablecoin payments, championed by CEO Jack Dorsey despite his personal views, marks a pivotal moment in fintech convergence. It underscores the primacy of user demand in shaping product evolution and reflects the growing maturation of the cryptocurrency market. As the planned 2026 integration for USDC approaches, this move is poised to enhance payment efficiency for millions while potentially reshaping competitive dynamics in both mobile payments and the digital asset industry. The strategic pivot demonstrates how leading companies adapt to market signals, prioritizing practical utility and customer choice above all else. FAQs Q1: What exactly did Jack Dorsey announce regarding Cash App and stablecoins? Jack Dorsey announced that Block\u2019s Cash App will support payments using stablecoins. He made this statement despite noting his personal dislike for such assets, citing strong customer demand as the driving reason. Q2: When is Cash App expected to start supporting stablecoins? While Dorsey\u2019s recent comments confirm the plan, a more specific timeline comes from Circle CEO Jeremy Allaire. Last year, Allaire stated that Block planned to support the USDC stablecoin starting in early 2026. Q3: Why would Cash App add stablecoins if Bitcoin is already supported? Bitcoin is known for its price volatility, which can make it impractical for everyday purchases and payments. Stablecoins, pegged to assets like the U.S. dollar, offer the speed and digital benefits of cryptocurrency without the volatility, making them better suited for daily transactions. Q4: What are the potential benefits for Cash App users? Users could benefit from faster and potentially cheaper peer-to-peer transfers, especially across borders. They might also use stablecoins to pay merchants directly from the app and access new programmable finance features, like earning yield or setting up automated payments. Q5: How does this affect the broader cryptocurrency and payments industry? This move by a major fintech player legitimizes stablecoins and increases competitive pressure on other payment apps. It could drive wider adoption of digital assets for everyday use and influence how regulators and other large companies view the integration of crypto into traditional finance. This post Cash App Embraces Stablecoin Payments: Block CEO\u2019s Strategic Pivot Despite Personal Reservations first appeared on BitcoinWorld ."
+        },
+        {
+          "title": "What\u2019s Fueling Hyperliquid\u2019s Surge? HYPE Outperforms Top 100 Cryptos In Latest Rally",
+          "link": "https://www.newsbtc.com/breaking-news-ticker/whats-fueling-hyperliquids-surge-hype-outperforms-top-100-cryptos-in-latest-rally/",
+          "published": "2026-03-09T21:36:32+00:00",
+          "source": "newsbtc",
+          "tags": "BTC|ETH|MARKET|TRADING|CRYPTOCURRENCY",
+          "summary": "Oil-linked trading on the decentralized exchange Hyperliquid (HYPE) has recently surpassed $1 billion in volume within a 24-hour period, leading to a significant 10% rally in the platform\u2019s native token, HYPE, allowing it to outperform the top 100 cryptocurrencies by market capitalization. In fact, oil-linked trading on Hyperliquid hit over $1.2 billion, making it the second-most traded market on the platform, just behind Bitcoin (BTC). Hyperliquid\u2019s Oil Contract Trading Soars The driving force behind the recent HYPE performance has been the CL-USDC perpetual contract, which tracks West Texas Intermediate crude oil prices. This contract\u2019s trading volume recently eclipsed Ethereum (ETH) trading on the platform. Related Reading: Bitcoin At The Bottom? The 23-Month Cycle That Has Never Failed The increase in activity coincides with a dramatic rise in oil futures, which jumped over 30% to nearly $120 a barrel on traditional exchanges. This spike followed escalating tensions in the Middle East that have disrupted global supply chains. Before these developments, daily volumes for the CL-USDC contract hovered around $21 million. However, following the recent geopolitical events, that figure skyrocketed to more than $1.2 billion as of Monday. Additionally, open interest in this contract surged to $183 million. $150 Price Target For HYPE Further fueling the excitement surrounding the HYPE rally is a bullish outlook from Arthur Hayes, co-founder of cryptocurrency platform BitMEX. In a recent essay, Hayes set a price target of $150 for HYPE by August 2026, asserting that Hyperliquid can continue to expand its revenue streams even if broader cryptocurrency markets experience difficulties. Related Reading: Dogecoin Remains Inside Falling Channel, Bulls Target Surge Above $0.1 While HYPE has been on the rise, with the token retesting the $35 resistance wall, major cryptocurrencies like Bitcoin and Ethereum have shown modest recoveries during the same period. Bitcoin gained approximately 2.5%, while Ethereum saw a slightly higher increase of 3.4%. Analyzing HYPE\u2019s daily trading chart reveals critical support levels that investors should watch. Key support zones are anticipated around $32, $29, and $28, with the latter acting as a significant accumulation point over the past two weeks. Featured image from OpenArt, chart from TradingView.com"
+        },
+        {
+          "title": "NEO Comprehensive Technical Analysis: Detailed Review March 9, 2026",
+          "link": "https://en.coinotag.com/analysis/neo-comprehensive-technical-analysis-detailed-review-march-9-2026",
+          "published": "2026-03-09T21:22:13+00:00",
+          "source": "coinotag",
+          "tags": "BTC|MARKET|TRADING|NEO|CRYPTOCURRENCY",
+          "summary": "NEO is consolidating below the EMA20 in a downtrend, while neutral RSI and MACD are giving short-term recovery signals. However, low volume, BTC risks, and the dominance of bearish targets make a c..."
+        },
+        {
+          "title": "Bitcoin Gets Its Own \u2018Fear Gauge\u2019 as Cboe Announces BITVX Index",
+          "link": "https://news.bitcoin.com/bitcoin-gets-its-own-fear-gauge-as-cboe-announces-bitvx-index/",
+          "published": "2026-03-09T21:10:51+00:00",
+          "source": "bitcoin.com",
+          "tags": "BTC|EXCHANGE|MARKET|TRADING|CRYPTOCURRENCY",
+          "summary": "Cboe Global Markets is bringing Wall Street\u2019s favorite volatility playbook to bitcoin, announcing plans to launch a new index designed to track the market\u2019s expected price swings using options tied to the popular Ishares Bitcoin Trust ETF. BITVX: Cboe Applies VIX Methodology to Bitcoin ETF Options Market The Chicago-based exchange operator explained on Monday that"
+        },
+        {
+          "title": "DCR Technical Analysis March 9, 2026: Weekly Strategy",
+          "link": "https://en.coinotag.com/analysis/dcr-technical-analysis-march-9-2026-weekly-strategy",
+          "published": "2026-03-09T21:02:56+00:00",
+          "source": "coinotag",
+          "tags": "BTC|MARKET|TRADING|CRYPTOCURRENCY",
+          "summary": "DCR is maintaining its uptrend structure with $28.30 support, while $30 resistance is the main test of the week. Cautious strategy recommendation under BTC downtrend pressure: long bias but tight r..."
+        },
+        {
+          "title": "Bitcoin Die-Hard Jack Dorsey Doesn't Like Stablecoins, But Block Will Use Them Anyway",
+          "link": "https://decrypt.co/360444/bitcoin-die-hard-jack-dorsey-doesnt-like-stablecoins-block",
+          "published": "2026-03-09T20:59:37+00:00",
+          "source": "decrypt",
+          "tags": "BTC|BUSINESS|CRYPTOCURRENCY",
+          "summary": "Jack Dorsey has long been Bitcoin-focused. So why is Block building stablecoin support into Cash App?"
+        },
+        {
+          "title": "Oil takes over as a discussion topic on crypto forums as benchmarks rose above $115",
+          "link": "https://www.cryptopolitan.com/oil-is-now-the-hottest-topic-on-crypto-twitter/",
+          "published": "2026-03-09T20:50:41+00:00",
+          "source": "cryptopolitan",
+          "tags": "BTC|COMMODITY|MARKET|TRADING|CRYPTOCURRENCY",
+          "summary": "Oil became one of the hottest topics on Crypto Twitter, setting up discussion after a week of peak trading activity. Oil is placing volume records on both traditional platforms like the CME and on newly created crypto markets. Sentiment analysis shows oil is one of the hottest topics on crypto social media, especially X. After oil hiked above $115 and dropped back to $86.28, discussions accelerated to displace other tokens. WTI oil broke its rally just above $115, returning to the $86 range. During the climb, oil took over discussions on Crypto Twitter for direct speculation and the secondary effect on the price of BTC. | Source: Trading Economics Oil discussions reached a 2.6% mindshare, according to Santiment. The increased interest in oil is both as a direct commodity to trade and for its potential secondary effects on the crypto market. Oil displaced other discussions on the crypto market, as interest in altcoins is near an all-time low. Crypto forums switched to oil discussions Until recently, crypto markets were relatively unconcerned about oil, which spent years as a controlled, \u2018boring\u2019 commodity. Within just a week, oil and gas discussions reached record activity on X and other crypto forums. The US and Israeli strikes against Iran are creating an unpredictable situation, damaging or threatening oil infrastructure. The disruptions of the Strait of Hormuz are also closely watched for the potential to cut 20% of the global oil deliveries. The interest also partially comes from the available infrastructure to trade Brent and WTI oil futures. Speculation and positioning shifts within hours, after expectations of an ongoing conflict and prices of up to $200 per barrel. Will BTC recover or sink with the oil price shock? High oil prices have secondary effects, and a prolonged conflict can add more inflationary pressure. BTC is seen as a potential offset for inflation, though during this market cycle, gold is more widely used as a safe haven. BTC will move into a period of high energy costs and a potentially tighter monetary policy. Historically, this would hamper the growth of cryptocurrencies, adding to the overall insecurity. While crypto has been proposed as a hedge against uncertainty, its usage and technology still require a functioning economy. Opinions remain polarized on the effect of oil, leading to even more active discussions on the topic. Despite the discussions on Crypto Twitter, traders are still reluctant to take directional positions on BTC, and open interest stands at just $20B. During previous bull markets, BTC has only rallied after oil and gold took off. In the short term, BTC reacted to the cooldown of oil with a new rally closer to $70,000. BTC erased its previous dip, as the oil rally stalled above $115. The leading coin recovered to $69,384.97, while oil retreated below $90. The current oil price shock coincides with the end of a BTC price cycle, though the final effect remains unknown, as oil has only had a brief rally before falling back to a lower baseline. If you're reading this, you\u2019re already ahead. Stay there with our newsletter ."
+        },
+        {
+          "title": "BAT Technical Analysis March 9, 2026: Will It Rise or Fall?",
+          "link": "https://en.coinotag.com/analysis/bat-technical-analysis-march-9-2026-will-it-rise-or-fall",
+          "published": "2026-03-09T20:42:58+00:00",
+          "source": "coinotag",
+          "tags": "BAT|BTC|MARKET|TRADING|CRYPTOCURRENCY",
+          "summary": "BAT is awaiting a critical breakout at the 0.10$ level; while an upward surge is possible with RSI oversold, the bearish trend and BTC pressure could trigger a decline. Key levels for both scenario..."
+        },
+        {
+          "title": "Why Did Bitcoin Price Crash To $67,000, And Ethereum Price Fell Below $2,000?",
+          "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-price-crash-ethereum/",
+          "published": "2026-03-09T20:30:37+00:00",
+          "source": "newsbtc",
+          "tags": "BTC|BUSINESS|ETH|TRADING|CRYPTOCURRENCY",
+          "summary": "Bitcoin\u2019s rally back to the mid-$73,000 region did not last long as the leading cryptocurrency\u2019s price action reversed as the week came to a close and fell back around $67,000 after momentarily regaining momentum last week, pulling Ethereum down with it till the ETH price also lost the $2,000 price level. However, the pullback of these leading cryptocurrencies is the product of a few forces colliding at once: a war nobody fully priced in and institutions quietly heading for the exits. Here is what happened. Spot Bitcoin ETFs: From Boosting Rally To Draining Liquidity One of the clearest reasons for Bitcoin\u2019s reversal is that the same ETF complex that helped lift the price early in the week suddenly turned into a source of pressure. SoSoValue data show that US-based Spot Bitcoin ETFs posted strong inflows at the start of the week, including about $458.19 million on March 2, $225.15 million on March 3, and $461.77 million on March 4. Related Reading: Bitcoin Pattern Memory Predicts The Bottom, And It\u2019s Below $40,000 That stretch helped Bitcoin climb as high as roughly $74,051 intraday on March 4, but the tone changed quickly after that. By March 5, spot Bitcoin ETFs had flipped to a net outflow of about $227.83 million, and on March 6, the outflow worsened to roughly $348.83 million, showing that institutional demand softened just as Bitcoin was testing resistance near the mid-$70,000s. Spot Bitcoin ETFs. Source: SoSoValue Unsurprisingly, Ethereum also saw its own exchange-traded funds flows deteriorate in tandem with Bitcoin. SoSoValue\u2019s data show US Spot Ethereum ETFs started the week on firmer footing, with $38.69 million in net inflows on March 2, led by BlackRock\u2019s ETHA at about $26.51 million. However, by the second half of the week, that demand had faded massively. Spot Ethereum ETFs recorded about $90.94 million in net outflows on March 5 and another $82.85 million in net outflows on March 6, with Fidelity\u2019s FETH alone accounting for roughly $67.57 million of the March 6 withdrawal. Spot Ethereum ETFs. Source: SoSoValue Profit-Taking And Global Risk Aversion The final piece is the macro backdrop. The bounce to $73,000 to $74,000 invited short-term traders to lock in gains, especially after Bitcoin ran into a clear resistance band and failed to push through decisively. On-chain data shows that more than 27,000 BTC in profit were sent to exchanges by short-term holders within 24 hours. Related Reading: XRP Price At $100 Is \u2018Inevitable\u2019, Analyst Explains Why This Is However, investors are not dealing with only crypto-related concerns. Financial markets are still pricing in the conflicts in the Middle East. Iran responded to US-Israel attacks by not only firing retaliatory strikes but also effectively closing the Strait of Hormuz, a passage for roughly one-fifth of the world\u2019s oil supply. That closure is what truly rattled markets. Once Bitcoin lost altitude, Ethereum followed with even more force. At the time of writing, Bitcoin is trading at $67,500. Ethereum, on the other hand, is trading at $1,975. Featured image created with Dall.E, chart from Tradingview.com"
+        },
+        {
+          "title": "Empery Digital sells 102 BTC for $7.3 million in proceeds to fund share buybacks",
+          "link": "https://www.cryptopolitan.com/empery-dumps-102-btc-purchases-hit-1-8b/",
+          "published": "2026-03-09T20:30:27+00:00",
+          "source": "cryptopolitan",
+          "tags": "BTC|BUSINESS|REGULATION|DIGITAL ASSET TREASURY|MACROECONOMICS|CRYPTOCURRENCY",
+          "summary": "Per the firm today, March 9, Austin-based company Empery Digital sold 102 BTC at $71,636 per coin just last week, earning approximately $7.3 million in gross revenue that was immediately channeled into cash reserves and share repurchases. This news came amid increasing board pressure from active shareholders ATG Capital and Tice P. Brown, who submitted competing director nominations for the company\u2019s 2026 annual meeting on March 2. The sale, however, was swallowed up by broader corporate treasury buying, as it firms combined for about $1.28 billion in net inflows (about 18,061 BTC) in the same period, with major players like Strategy leading the accumulation. Strategy leads as BTC held by corporate treasury firms is on the rise again. Source: SoSoValue Empery shareholders force strategic pivot Empery\u2019s decision to sell rather than accumulate Bitcoin is a telltale sign of a company under siege. On March 2, 2026, ATG Capital and Tice P. Brown both submitted nomination notices informing Empery\u2019s board of directors of their intent to nominate competing directors at the next annual meeting. The date for the meeting has not been announced yet, but the nominations seem to be a sign of dissatisfaction with current management. The board battle goes back several weeks. On February 24, Empery issued a statement disputing earlier claims from Brown about alleged conversations with the broker executing the company\u2019s share repurchase program. \u201cMr. Brown never had a conversation with the broker executing the Stock Repurchase Program on behalf of Empery Digital,\u201d the company stated, adding that Brown\u2019s assertions were part of a \u201cself-serving campaign.\u201d At the time, Empery chose to respond by doubling down on buybacks funded by Bitcoin sales. As of March 6, Empery repurchased 20,175,242 shares at $6.06 per coin (including fees and commissions) under its $200 million share repurchase program. This brought the total number of outstanding shares to 31,244,993. The strategy is clear \u2013 sell Bitcoin to buy shares. \u201cManagement intends to leverage existing cash balances and reduce its bitcoin holdings as needed to fund future share repurchases and potentially repay additional portions of outstanding borrowings,\u201d the company stated. Strategy leads $1.28 billion weekly buying While Empery\u2019s sale may seem a bit worrying for some, the rest of the corporate buyers have canceled out those concerns with their own acquisitions. In the last seven days, corporate treasuries have added $1.28 billion in net Bitcoin inflows, with 18,061 BTC going into various balance sheets. The buying trend has now pushed total corporate holdings to 999.21k BTC across 42 companies monitored by SoSoValue, valued at a combined $69.33 billion. Strategy is still the market leader, acquiring 17,994 BTC in its latest purchase and solidifying its position as the largest corporate treasury (worth around $50 billion currently). Other corporate players who participated in last week\u2019s trading include Brazilian firm OrangeBTC, which added 0.7 BTC to its holdings, and DayDayCook, with a 65 BTC acquisition, bringing its total holdings up to 2,183 BTC. Twenty One Capital, with its 43,500 BTC ($3 billion) and Metaplanet\u2019s 35,102 BTC, worth around $2.42 billion, remain near the top of the pole. Annual meeting looms The current tensions at Empery will most likely come to a head at the 2026 annual meeting, where the director nominations from ATG Capital and Tice P. Brown will force shareholders to choose between management\u2019s buyback strategy or concede to the demands for a different approach. Empery still holds 3,562 BTC, which gives the company enough flexibility to continue its current strategy or change direction if new leadership takes control. As things stand, the current management has committed to reducing holdings as needed, meaning that more sales will occur unless changes are made. If you're reading this, you\u2019re already ahead. Stay there with our newsletter ."
+        },
+        {
+          "title": "Bhutan Executes $11.85M Bitcoin Transfer as Royal Government Repositions BTC Holdings",
+          "link": "https://news.bitcoin.com/bhutan-executes-11-85m-bitcoin-transfer-as-royal-government-repositions-btc-holdings/",
+          "published": "2026-03-09T20:30:03+00:00",
+          "source": "bitcoin.com",
+          "tags": "BTC|EXCHANGE|WALLET|ARKM|CRYPTOCURRENCY",
+          "summary": "On Monday, with bitcoin changing hands at $68,600 a coin, the Royal Government of Bhutan quietly nudged 175 bitcoin\u2014about $12 million\u2014across the ledger. Bhutan\u2019s latest maneuver follows its previous transfer in mid-February 2026. Bhutan Moves $11.85M in Bitcoin Onchain data tracked by Arkham Intelligence shows Bhutan shifting 175 BTC worth $11.85 million at current exchange"
+        },
+        {
+          "title": "ETFs and Corporate Treasuries Pull Millions of BTC Away From Exchanges",
+          "link": "https://cryptopotato.com/etfs-and-corporate-treasuries-pull-millions-of-btc-away-from-exchanges/",
+          "published": "2026-03-09T20:25:03+00:00",
+          "source": "cryptopotato",
+          "tags": "BTC|EXCHANGE|MARKET|DIGITAL ASSET TREASURY|CRYPTOCURRENCY",
+          "summary": "Bitcoin reserves held on centralized exchanges have fallen back to levels last seen in 2019. Data shared by crypto market analyst Dark Fost shows that exchange reserves have been steadily declining since 2022. This trend has accelerated following the collapse of the FTX exchange. Bitcoin Supply Migration In November 2022 alone, more than 325,000 BTC were withdrawn from exchange reserves as investors moved their assets off centralized platforms. As a result of this continued outflow, total BTC reserves on exchanges accessible to retail investors have now dropped to roughly 2.7 million BTC. Among these platforms, Binance alone accounts for approximately 20% of the remaining reserves. When platforms primarily used by professional investors are included in the analysis, Coinbase Advanced ranks first, holding close to 800,000 BTC. However, this figure is still about 200,000 BTC lower than the level recorded in July 2025. Dark Fost stated that while the FTX collapse played a major role in encouraging investors to hold assets in private wallets, two additional developments have also contributed to the reduction in exchange balances. The first is the launch of spot Bitcoin exchange-traded funds in January 2024. At the time of their introduction, exchange reserves were still above 3.2 million BTC. Since then, ETFs have accumulated around 1.3 million BTC, which represents roughly 6.7% of Bitcoin\u2019s total supply and effectively removes that amount from exchange liquidity. The second factor is the growth of digital asset treasury companies (DATs) that hold Bitcoin as a reserve asset. Collectively, these firms now control about 1.1 million BTC, or nearly 5% of the total supply. Both ETF holdings and corporate treasuries represent a growing share of Bitcoin supply held in structured financial vehicles. \u201cOver the long term, this transformation could play an important role in market liquidity and price formation, even if these structural effects always take time to fully materialize.\u201d Geopolitical Tensions Halt Breakout Against this backdrop of changing supply patterns, Bitcoin entered the second week of March under pressure as markets remained focused on escalating tensions in the Middle East. The cryptocurrency recently failed a breakout attempt above $70,000 as the ongoing US-Iran conflict contributed to broader market uncertainty. Despite the pullback, crypto trader and analyst Micha\u00ebl van de Poppe said BTC\u2019s current price action does not represent a worst-case scenario. In his latest post on X, the trader noted that Bitcoin continues to trade within a range but described the performance as relatively strong given the current market conditions. According to him, oil prices surged about 15% on Monday to their highest levels since 2022, while gold and commodities declined, and the Nasdaq fell significantly. Van de Poppe added that if the US stock market opens higher and oil prices begin to correct, Bitcoin could regain momentum toward $70,000. The post ETFs and Corporate Treasuries Pull Millions of BTC Away From Exchanges appeared first on CryptoPotato ."
+        },
+        {
+          "title": "Bitcoin Supply Shrinks on Exchanges as New Investment Patterns Take Hold",
+          "link": "https://en.coin-turk.com/bitcoin-supply-shrinks-on-exchanges-as-new-investment-patterns-take-hold/",
+          "published": "2026-03-09T20:21:22+00:00",
+          "source": "cointurken",
+          "tags": "BTC|DIGITAL ASSET TREASURY|CRYPTOCURRENCY",
+          "summary": "Bitcoin reserves on exchanges have plummeted to levels last seen in 2019. Spot ETFs and corporate treasuries now hold a significant share of the total Bitcoin supply. Continue Reading: Bitcoin Supply Shrinks on Exchanges as New Investment Patterns Take Hold The post Bitcoin Supply Shrinks on Exchanges as New Investment Patterns Take Hold appeared first on COINTURK NEWS ."
+        },
+        {
+          "title": "Zcash Outpaces Bitcoin Gains as Key Development Team Raises $25 Million",
+          "link": "https://decrypt.co/360475/zcash-outpaces-bitcoin-gains-key-development-team-raises-25-million",
+          "published": "2026-03-09T20:19:11+00:00",
+          "source": "decrypt",
+          "tags": "BTC|MARKET|ZEC|CRYPTOCURRENCY",
+          "summary": "Prominent privacy coin Zcash (ZEC) has jumped 7% over the last day as the Zcash Open Development Lab announced a $25 million fundraise."
+        },
+        {
+          "title": "Bitcoin Eyes $70K, Oil Prices Dump as Trump Claims the War Is Almost Over",
+          "link": "https://cryptopotato.com/bitcoin-eyes-70k-oil-prices-dump-as-trump-claims-the-war-is-almost-over/",
+          "published": "2026-03-09T20:12:40+00:00",
+          "source": "cryptopotato",
+          "tags": "BTC|COMMODITY|MARKET|REGULATION|CRYPTOCURRENCY",
+          "summary": "After a day of more fluctuations prompted by the quickly developing situation in the Middle East, bitcoin\u2019s price aimed at $70,000 minutes ago as Trump addressed the war and the Strait of Hormuz. His words sent shockwaves through other financial fields as well, especially with oil, as the CFDs on WTI Crude Oil plunged to under $90 per barrel after skyrocketing to $120 earlier today. BREAKING: President Trump says \u201cI think the war is very complete, pretty much.\u201d Oil prices officially turn negative on the day, erasing a gain of +30%, in one of the largest daily reversals ever recorded. pic.twitter.com/c01Ni9RZIS \u2014 The Kobeissi Letter (@KobeissiLetter) March 9, 2026 The POTUS\u2019s indication that the war is pretty much completed comes in a rather intriguing time, as Iran just chose a new Supreme Leader \u2013 Mojtaba Khamenei, who is the son of the former. Trump repeatedly outlined that he is not happy with the choice, calling it a big mistake. At the same time, reports continue to emerge that several countries in the region, including the UAE and Turkey, keep intercepting more drones and missiles from Iran. While also addressing the situation in the Middle East, President Trump reportedly added that the US is mulling taking over the Strait of Hormuz, which has been essentially closed for days, thus reducing the amount of transported goods, mostly oil. As mentioned above, oil prices dumped again following Trump\u2019s latest remarks after reaching a multi-year peak this morning. Gold and the S&P 500 went on a run, with the former tapping $5,140/oz, while the latter climbed above 6,800. Bitcoin quickly jumped from $68,000 to $69,600 (on Bitstamp) but was stopped there and now trades around $69,000 again. Ethereum has jumped past $2,000, while SOL is above $85. BTCUSD Mar 9. Source: TradingView The post Bitcoin Eyes $70K, Oil Prices Dump as Trump Claims the War Is Almost Over appeared first on CryptoPotato ."
+        }
+      ],
+      "source": "CryptoCompare",
       "params": {
         "categories": "BTC,ETH",
         "lang": "EN",
@@ -352,23 +599,11 @@
         "volume": 0,
         "label": "N/A"
       },
-      "liquidation_long_usd": 17947072.3322,
-      "liquidation_short_usd": 66976609.64299998,
-      "leverage_ratio": 1407619610.3704019
+      "liquidation_long_usd": 49066799.91140002,
+      "liquidation_short_usd": 46896087.14690007,
+      "leverage_ratio": 1378161374.682402
     },
     "stats_history": [
-      {
-        "timestamp": "2026-03-06T00:07:26.918667",
-        "display_time": "00:07",
-        "whale_count": 0,
-        "total_volume": 0,
-        "stablecoin_net_flow": 0,
-        "token_net_flow": 0,
-        "avg_tx_size": 0,
-        "liquidation_long_usd": 0,
-        "liquidation_short_usd": 0,
-        "leverage_ratio": 0
-      },
       {
         "timestamp": "2026-03-06T04:07:24.019548",
         "display_time": "04:07",
@@ -644,63 +879,55 @@
         "liquidation_long_usd": 17947072.3322,
         "liquidation_short_usd": 66976609.64299998,
         "leverage_ratio": 1407619610.3704019
+      },
+      {
+        "timestamp": "2026-03-10T00:09:12.310193",
+        "display_time": "00:09",
+        "whale_count": 0,
+        "total_volume": 0,
+        "stablecoin_net_flow": 0,
+        "token_net_flow": 0,
+        "avg_tx_size": 0,
+        "liquidation_long_usd": 49066799.91140002,
+        "liquidation_short_usd": 46896087.14690007,
+        "leverage_ratio": 1378161374.682402
       }
     ],
     "market": {
       "symbol": "ETH",
-      "price": 2035.58,
-      "rsi_4h": 58.42695392166714,
-      "volume_24h": 5596209.103,
-      "volume_avg_30d": 4385584.577033333,
-      "volume_ratio": 1.276046329674391,
-      "oi_now": 1407619610.3704019,
-      "oi_avg_30d": 1325066142.0905116,
+      "price": 1992.98,
+      "rsi_4h": 49.792021078400765,
+      "volume_24h": 5296923.32,
+      "volume_avg_30d": 4400627.077233333,
+      "volume_ratio": 1.2036746643231053,
+      "oi_now": 1378161374.682402,
+      "oi_avg_30d": 1297335560.3137915,
       "delta_oi_24h_percent": -0.3008971143124031,
-      "funding_rate": 3.44909880766e-05,
+      "funding_rate": 7.14400871566e-05,
       "funding_rate_status": "NORMAL",
-      "change_24h": 5.144138141209402,
-      "price_close": 2035.58,
-      "sma_50": 2011.2879999999998,
-      "sma_200": 1993.76195,
-      "macd_line": -1.1534519117553828,
-      "signal_line": -11.453665633806898,
-      "macd_hist": 10.300213722051515,
-      "adx_14": 15.620481050911655,
-      "p_di": 20.550468348481978,
-      "n_di": 15.878813081676713,
-      "rsi_14": 58.42695392166714,
-      "bb_pct_b": 1.0217243086324894,
-      "bb_width": 0.05651192956094853,
-      "bb_trend": "DOWN",
-      "atr_14": 42.883520336922075,
-      "natr_percent": 2.1066978618832017,
-      "price_rank_20": 87.71399106222076,
-      "vol_ratio_20": 0.025179156806796846,
+      "change_24h": 0.03664198770234751,
+      "price_close": 1993.2,
+      "sma_50": 2011.2276000000002,
+      "sma_200": 1992.57305,
+      "macd_line": -3.9573062625202056,
+      "signal_line": -10.507437634193442,
+      "macd_hist": 6.550131371673237,
+      "adx_14": 14.372350806851134,
+      "p_di": 19.04380956497312,
+      "n_di": 17.156513372126522,
+      "rsi_14": 49.792021078400765,
+      "bb_pct_b": 0.6760280747768643,
+      "bb_width": 0.05050212018850145,
+      "bb_trend": "UP",
+      "atr_14": 42.97081990469295,
+      "natr_percent": 2.1558709564867025,
+      "price_rank_20": 58.57683052595404,
+      "vol_ratio_20": 0.03947558739372818,
       "signal_low_high_vol": false,
       "signal_high_high_vol": false,
       "buy_stars": 0,
       "sell_stars": 0,
       "history_60d": [
-        {
-          "ts": "1772236800000",
-          "date": "2026-02-28 08:00",
-          "close": 1923.4,
-          "volume": 520934077.0,
-          "rsi_14": 41.67,
-          "adx_14": 25.79,
-          "natr": 2.47,
-          "atr_14": 47.56,
-          "vol_ratio": 0.28,
-          "price_rank": 25.5,
-          "buy_stars": 0,
-          "sell_stars": 0,
-          "signals": {
-            "low_vol": false,
-            "high_vol": false,
-            "rsi_low": false,
-            "rsi_high": false
-          }
-        },
         {
           "ts": "1772251200000",
           "date": "2026-02-28 12:00",
@@ -1864,14 +2091,34 @@
         {
           "ts": "1773086400000",
           "date": "2026-03-10 04:00",
-          "close": 2035.58,
-          "volume": 27049318.0,
-          "rsi_14": 58.43,
-          "adx_14": 15.62,
-          "natr": 2.11,
-          "atr_14": 42.88,
-          "vol_ratio": 0.03,
-          "price_rank": 87.7,
+          "close": 1992.25,
+          "volume": 892761921.0,
+          "rsi_14": 49.61,
+          "adx_14": 15.08,
+          "natr": 2.31,
+          "atr_14": 45.95,
+          "vol_ratio": 0.8,
+          "price_rank": 57.9,
+          "buy_stars": 0,
+          "sell_stars": 0,
+          "signals": {
+            "low_vol": false,
+            "high_vol": false,
+            "rsi_low": false,
+            "rsi_high": false
+          }
+        },
+        {
+          "ts": "1773100800000",
+          "date": "2026-03-10 08:00",
+          "close": 1993.2,
+          "volume": 41546597.0,
+          "rsi_14": 49.79,
+          "adx_14": 14.37,
+          "natr": 2.16,
+          "atr_14": 42.97,
+          "vol_ratio": 0.04,
+          "price_rank": 58.6,
           "buy_stars": 0,
           "sell_stars": 0,
           "signals": {
@@ -1882,7 +2129,7 @@
           }
         }
       ],
-      "liquidation_context": "Long Liquidation: $17,947,072, Short Liquidation: $66,976,610"
+      "liquidation_context": "Long Liquidation: $49,066,800, Short Liquidation: $46,896,087"
     },
     "top_txs": []
   },
@@ -1916,23 +2163,11 @@
         "volume": 0,
         "label": "N/A"
       },
-      "liquidation_long_usd": 1449060.8775000006,
-      "liquidation_short_usd": 1671734.8818000015,
-      "leverage_ratio": 226330042.2422002
+      "liquidation_long_usd": 198844.2606000001,
+      "liquidation_short_usd": 1536590.8685000017,
+      "leverage_ratio": 223643475.93140015
     },
     "stats_history": [
-      {
-        "timestamp": "2026-03-06T00:07:26.918839",
-        "display_time": "00:07",
-        "whale_count": 0,
-        "total_volume": 0,
-        "stablecoin_net_flow": 0,
-        "token_net_flow": 0,
-        "avg_tx_size": 0,
-        "liquidation_long_usd": 0,
-        "liquidation_short_usd": 0,
-        "leverage_ratio": 0
-      },
       {
         "timestamp": "2026-03-06T04:07:24.019573",
         "display_time": "04:07",
@@ -2208,63 +2443,55 @@
         "liquidation_long_usd": 1449060.8775000006,
         "liquidation_short_usd": 1671734.8818000015,
         "leverage_ratio": 226330042.2422002
+      },
+      {
+        "timestamp": "2026-03-10T00:09:12.310219",
+        "display_time": "00:09",
+        "whale_count": 0,
+        "total_volume": 0,
+        "stablecoin_net_flow": 0,
+        "token_net_flow": 0,
+        "avg_tx_size": 0,
+        "liquidation_long_usd": 198844.2606000001,
+        "liquidation_short_usd": 1536590.8685000017,
+        "leverage_ratio": 223643475.93140015
       }
     ],
     "market": {
       "symbol": "SOL",
-      "price": 85.93,
-      "rsi_4h": 56.33096505986507,
-      "volume_24h": 12253720.12,
-      "volume_avg_30d": 10937702.382666666,
-      "volume_ratio": 1.1203193953621255,
-      "oi_now": 226330042.2422002,
-      "oi_avg_30d": 239929479.28906682,
+      "price": 84.91,
+      "rsi_4h": 51.58960119491197,
+      "volume_24h": 11428464.32,
+      "volume_avg_30d": 10975339.313333333,
+      "volume_ratio": 1.041285740124334,
+      "oi_now": 223643475.93140015,
+      "oi_avg_30d": 237081485.93546677,
       "delta_oi_24h_percent": -0.5882439506641216,
-      "funding_rate": 9.64706720376e-05,
+      "funding_rate": 3.35687995802e-05,
       "funding_rate_status": "NORMAL",
-      "change_24h": 5.370938074800748,
-      "price_close": 85.94,
-      "sma_50": 85.8814,
-      "sma_200": 84.47129999999999,
-      "macd_line": -0.39837747254655653,
-      "signal_line": -0.8609876020619721,
-      "macd_hist": 0.4626101295154156,
-      "adx_14": 18.894235293671606,
-      "p_di": 20.73149411411998,
-      "n_di": 17.389052795585854,
-      "rsi_14": 56.33096505986507,
-      "bb_pct_b": 0.9444064018262733,
-      "bb_width": 0.061753219039165134,
+      "change_24h": 0.0,
+      "price_close": 84.91,
+      "sma_50": 85.895,
+      "sma_200": 84.41915,
+      "macd_line": -0.37576585511754956,
+      "signal_line": -0.7772173267471623,
+      "macd_hist": 0.4014514716296127,
+      "adx_14": 18.170938724770348,
+      "p_di": 19.69235282672128,
+      "n_di": 16.517447372012356,
+      "rsi_14": 51.58960119491197,
+      "bb_pct_b": 0.7773092438229454,
+      "bb_width": 0.05733939039544091,
       "bb_trend": "DOWN",
-      "atr_14": 1.926297443079028,
-      "natr_percent": 2.241444546286977,
-      "price_rank_20": 84.13391557496357,
-      "vol_ratio_20": 0.07450303341316933,
+      "atr_14": 1.8830925236754235,
+      "natr_percent": 2.2177511761576065,
+      "price_rank_20": 69.14119359534202,
+      "vol_ratio_20": 0.040385142899813334,
       "signal_low_high_vol": false,
       "signal_high_high_vol": false,
       "buy_stars": 0,
       "sell_stars": 0,
       "history_60d": [
-        {
-          "ts": "1772236800000",
-          "date": "2026-02-28 08:00",
-          "close": 81.68,
-          "volume": 66712250.0,
-          "rsi_14": 42.19,
-          "adx_14": 24.46,
-          "natr": 2.62,
-          "atr_14": 2.14,
-          "vol_ratio": 0.34,
-          "price_rank": 25.7,
-          "buy_stars": 0,
-          "sell_stars": 0,
-          "signals": {
-            "low_vol": false,
-            "high_vol": false,
-            "rsi_low": false,
-            "rsi_high": false
-          }
-        },
         {
           "ts": "1772251200000",
           "date": "2026-02-28 12:00",
@@ -3428,14 +3655,34 @@
         {
           "ts": "1773086400000",
           "date": "2026-03-10 04:00",
-          "close": 85.94,
-          "volume": 7825288.0,
-          "rsi_14": 56.33,
+          "close": 84.9,
+          "volume": 100363058.0,
+          "rsi_14": 51.55,
           "adx_14": 18.89,
-          "natr": 2.24,
-          "atr_14": 1.93,
-          "vol_ratio": 0.07,
-          "price_rank": 84.1,
+          "natr": 2.36,
+          "atr_14": 2.0,
+          "vol_ratio": 0.92,
+          "price_rank": 69.0,
+          "buy_stars": 0,
+          "sell_stars": 0,
+          "signals": {
+            "low_vol": false,
+            "high_vol": false,
+            "rsi_low": false,
+            "rsi_high": false
+          }
+        },
+        {
+          "ts": "1773100800000",
+          "date": "2026-03-10 08:00",
+          "close": 84.91,
+          "volume": 4170064.0,
+          "rsi_14": 51.59,
+          "adx_14": 18.17,
+          "natr": 2.22,
+          "atr_14": 1.88,
+          "vol_ratio": 0.04,
+          "price_rank": 69.1,
           "buy_stars": 0,
           "sell_stars": 0,
           "signals": {
@@ -3446,7 +3693,7 @@
           }
         }
       ],
-      "liquidation_context": "Long Liquidation: $1,449,061, Short Liquidation: $1,671,735"
+      "liquidation_context": "Long Liquidation: $198,844, Short Liquidation: $1,536,591"
     },
     "top_txs": []
   },
@@ -3455,73 +3702,53 @@
       "sentiment_score": 0,
       "token_net_flow": 0,
       "stablecoin_net_flow": 0,
-      "liquidation_long_usd": 401963299.85000026,
-      "liquidation_short_usd": 1007383192.8650007,
+      "liquidation_long_usd": 444294788.11500025,
+      "liquidation_short_usd": 968804314.8100007,
       "leverage_ratio": 0
     },
     "stats_24h": {
       "sentiment_score": 0,
       "token_net_flow": 0,
       "stablecoin_net_flow": 0,
-      "liquidation_long_usd": 401963299.85000026,
-      "liquidation_short_usd": 1007383192.8650007,
+      "liquidation_long_usd": 444294788.11500025,
+      "liquidation_short_usd": 968804314.8100007,
       "leverage_ratio": 0
     },
     "market": {
       "symbol": "BTC",
-      "price": 69023.0,
-      "rsi_4h": 55.99714193385521,
-      "volume_24h": 130776.521,
-      "volume_avg_30d": 99603.23545666669,
-      "volume_ratio": 1.3129746277860173,
-      "oi_now": 2055832744.0316095,
-      "oi_avg_30d": 2081291009.962499,
+      "price": 68397.4,
+      "rsi_4h": 51.38989870684218,
+      "volume_24h": 115002.1174,
+      "volume_avg_30d": 99811.37002000002,
+      "volume_ratio": 1.1521945583650048,
+      "oi_now": 2037199404.932089,
+      "oi_avg_30d": 2062426926.1667707,
       "delta_oi_24h_percent": -0.31351421122360146,
-      "funding_rate": -9.7455695736e-06,
+      "funding_rate": -3.87531630756e-05,
       "funding_rate_status": "NORMAL",
-      "change_24h": 4.67165283641482,
-      "price_close": 69022.9,
-      "sma_50": 68765.01400000001,
-      "sma_200": 67987.98,
-      "macd_line": -177.1405024220876,
-      "signal_line": -420.182084543172,
-      "macd_hist": 243.0415821210844,
-      "adx_14": 20.43543354432675,
-      "p_di": 18.659621465377445,
-      "n_di": 18.401842035807956,
-      "rsi_14": 55.99714193385521,
-      "bb_pct_b": 0.9558935978894814,
-      "bb_width": 0.04367928658250474,
+      "change_24h": 0.014330083231445991,
+      "price_close": 68397.4,
+      "sma_50": 68801.642,
+      "sma_200": 67957.341,
+      "macd_line": -176.42927861116186,
+      "signal_line": -379.5401957214431,
+      "macd_hist": 203.11091711028126,
+      "adx_14": 19.025441558111716,
+      "p_di": 17.894106284710688,
+      "n_di": 17.646902314400386,
+      "rsi_14": 51.38989870684218,
+      "bb_pct_b": 0.7623631678975434,
+      "bb_width": 0.041607369322153864,
       "bb_trend": "DOWN",
-      "atr_14": 1137.3727233439527,
-      "natr_percent": 1.6478193807329928,
-      "price_rank_20": 86.81890119828145,
-      "vol_ratio_20": 0.04249860245064517,
+      "atr_14": 1101.313447186733,
+      "natr_percent": 1.6101685841665516,
+      "price_rank_20": 71.10558444494666,
+      "vol_ratio_20": 0.022134972585962445,
       "signal_low_high_vol": false,
       "signal_high_high_vol": false,
       "buy_stars": 0,
       "sell_stars": 0,
       "history_60d": [
-        {
-          "ts": "1772236800000",
-          "date": "2026-02-28 08:00",
-          "close": 65763.7,
-          "volume": 352245110.0,
-          "rsi_14": 44.55,
-          "adx_14": 22.42,
-          "natr": 1.73,
-          "atr_14": 1137.44,
-          "vol_ratio": 0.28,
-          "price_rank": 31.3,
-          "buy_stars": 0,
-          "sell_stars": 0,
-          "signals": {
-            "low_vol": false,
-            "high_vol": false,
-            "rsi_low": false,
-            "rsi_high": false
-          }
-        },
         {
           "ts": "1772251200000",
           "date": "2026-02-28 12:00",
@@ -4685,14 +4912,34 @@
         {
           "ts": "1773086400000",
           "date": "2026-03-10 04:00",
-          "close": 69022.9,
-          "volume": 36674803.0,
-          "rsi_14": 56.0,
+          "close": 68387.6,
+          "volume": 447514246.0,
+          "rsi_14": 51.32,
           "adx_14": 20.44,
-          "natr": 1.65,
-          "atr_14": 1137.37,
-          "vol_ratio": 0.04,
-          "price_rank": 86.8,
+          "natr": 1.72,
+          "atr_14": 1177.13,
+          "vol_ratio": 0.51,
+          "price_rank": 70.9,
+          "buy_stars": 0,
+          "sell_stars": 0,
+          "signals": {
+            "low_vol": false,
+            "high_vol": false,
+            "rsi_low": false,
+            "rsi_high": false
+          }
+        },
+        {
+          "ts": "1773100800000",
+          "date": "2026-03-10 08:00",
+          "close": 68397.4,
+          "volume": 18270368.0,
+          "rsi_14": 51.39,
+          "adx_14": 19.03,
+          "natr": 1.61,
+          "atr_14": 1101.31,
+          "vol_ratio": 0.02,
+          "price_rank": 71.1,
           "buy_stars": 0,
           "sell_stars": 0,
           "signals": {
@@ -4703,7 +4950,7 @@
           }
         }
       ],
-      "liquidation_context": "Long Liquidation: $401,963,300, Short Liquidation: $1,007,383,193"
+      "liquidation_context": "Long Liquidation: $444,294,788, Short Liquidation: $968,804,315"
     }
   },
   "bnb": {
@@ -4711,65 +4958,45 @@
       "sentiment_score": 0,
       "token_net_flow": 0,
       "stablecoin_net_flow": 0,
-      "liquidation_long_usd": 16505417.700000001,
-      "liquidation_short_usd": 1607201.5000000002,
+      "liquidation_long_usd": 399239.9,
+      "liquidation_short_usd": 1379248.5000000002,
       "leverage_ratio": 0
     },
     "market": {
       "symbol": "BNB",
-      "price": 638.4,
-      "rsi_4h": 58.42755359723315,
-      "volume_24h": 122723.61,
-      "volume_avg_30d": 125603.54199999999,
-      "volume_ratio": 0.9770712517008479,
-      "oi_now": 50269243.92,
-      "oi_avg_30d": 47469546.2528,
+      "price": 634.7,
+      "rsi_4h": 55.01228185006159,
+      "volume_24h": 109923.96,
+      "volume_avg_30d": 125886.55799999999,
+      "volume_ratio": 0.8731985507142074,
+      "oi_now": 49977896.48500001,
+      "oi_avg_30d": 47194425.13573334,
       "delta_oi_24h_percent": -1.1237796264322677,
       "funding_rate": 0.0001,
       "funding_rate_status": "NORMAL",
-      "change_24h": 4.416094210009814,
-      "price_close": 638.5,
-      "sma_50": 633.4159999999999,
-      "sma_200": 624.66,
-      "macd_line": -0.3148838516166279,
-      "signal_line": -2.9387596481357106,
-      "macd_hist": 2.6238757965190826,
-      "adx_14": 21.196290929597435,
-      "p_di": 21.261189368851994,
-      "n_di": 16.012147383252582,
-      "rsi_14": 58.42755359723315,
-      "bb_pct_b": 0.9570145883952033,
-      "bb_width": 0.048927620433159735,
+      "change_24h": 0.07883948281299273,
+      "price_close": 634.7,
+      "sma_50": 633.6360000000001,
+      "sma_200": 624.2255,
+      "macd_line": -0.06776769601401611,
+      "signal_line": -2.4181680953182116,
+      "macd_hist": 2.3504003993041955,
+      "adx_14": 20.587439085440614,
+      "p_di": 20.05328619700172,
+      "n_di": 15.329241014054878,
+      "rsi_14": 55.01228185006159,
+      "bb_pct_b": 0.8371999018217301,
+      "bb_width": 0.04824430001434777,
       "bb_trend": "UP",
-      "atr_14": 8.912029308607309,
-      "natr_percent": 1.3957759293041987,
-      "price_rank_20": 87.92134831460685,
-      "vol_ratio_20": 0.03639211408112188,
+      "atr_14": 8.77392517431903,
+      "natr_percent": 1.382373589777695,
+      "price_rank_20": 77.24719101123615,
+      "vol_ratio_20": 0.022068482326809597,
       "signal_low_high_vol": false,
       "signal_high_high_vol": false,
       "buy_stars": 0,
       "sell_stars": 0,
       "history_60d": [
-        {
-          "ts": "1772236800000",
-          "date": "2026-02-28 08:00",
-          "close": 614.3,
-          "volume": 4812673.0,
-          "rsi_14": 49.69,
-          "adx_14": 18.56,
-          "natr": 1.57,
-          "atr_14": 9.63,
-          "vol_ratio": 0.32,
-          "price_rank": 55.6,
-          "buy_stars": 0,
-          "sell_stars": 0,
-          "signals": {
-            "low_vol": false,
-            "high_vol": false,
-            "rsi_low": false,
-            "rsi_high": false
-          }
-        },
         {
           "ts": "1772251200000",
           "date": "2026-02-28 12:00",
@@ -5933,14 +6160,34 @@
         {
           "ts": "1773086400000",
           "date": "2026-03-10 04:00",
-          "close": 638.5,
-          "volume": 286701.0,
-          "rsi_14": 58.43,
-          "adx_14": 21.2,
-          "natr": 1.4,
-          "atr_14": 8.91,
-          "vol_ratio": 0.04,
-          "price_rank": 87.9,
+          "close": 634.3,
+          "volume": 5526519.0,
+          "rsi_14": 54.71,
+          "adx_14": 21.14,
+          "natr": 1.47,
+          "atr_14": 9.33,
+          "vol_ratio": 0.68,
+          "price_rank": 76.1,
+          "buy_stars": 0,
+          "sell_stars": 0,
+          "signals": {
+            "low_vol": false,
+            "high_vol": false,
+            "rsi_low": false,
+            "rsi_high": false
+          }
+        },
+        {
+          "ts": "1773100800000",
+          "date": "2026-03-10 08:00",
+          "close": 634.7,
+          "volume": 170266.0,
+          "rsi_14": 55.01,
+          "adx_14": 20.59,
+          "natr": 1.38,
+          "atr_14": 8.77,
+          "vol_ratio": 0.02,
+          "price_rank": 77.2,
           "buy_stars": 0,
           "sell_stars": 0,
           "signals": {
@@ -5951,7 +6198,7 @@
           }
         }
       ],
-      "liquidation_context": "Long Liquidation: $16,505,418, Short Liquidation: $1,607,202"
+      "liquidation_context": "Long Liquidation: $399,240, Short Liquidation: $1,379,249"
     }
   },
   "doge": {
@@ -5959,65 +6206,45 @@
       "sentiment_score": 0,
       "token_net_flow": 0,
       "stablecoin_net_flow": 0,
-      "liquidation_long_usd": 1023.2662847999995,
-      "liquidation_short_usd": 886.4959248000008,
+      "liquidation_long_usd": 193.35045789999992,
+      "liquidation_short_usd": 802.2045067000005,
       "leverage_ratio": 0
     },
     "market": {
       "symbol": "DOGE",
-      "price": 0.09118,
-      "rsi_4h": 51.053311600657686,
-      "volume_24h": 5093032260.0,
-      "volume_avg_30d": 4385163901.0,
-      "volume_ratio": 1.1614234667120598,
-      "oi_now": 87497702.08259997,
-      "oi_avg_30d": 73404794.57279332,
+      "price": 0.09039,
+      "rsi_4h": 47.003994419827464,
+      "volume_24h": 4343317260.0,
+      "volume_avg_30d": 4397384196.666667,
+      "volume_ratio": 0.9877047503132315,
+      "oi_now": 86739606.17729996,
+      "oi_avg_30d": 72768802.16533,
       "delta_oi_24h_percent": -3.9627090133094596,
-      "funding_rate": 6.8692217313e-05,
+      "funding_rate": -2.61715304273e-05,
       "funding_rate_status": "NORMAL",
-      "change_24h": 2.3574315222272006,
-      "price_close": 0.09116,
-      "sma_50": 0.0920614,
-      "sma_200": 0.09577764999999999,
-      "macd_line": -0.0004912852777940596,
-      "signal_line": -0.000815571434585365,
-      "macd_hist": 0.00032428615679130544,
-      "adx_14": 10.68157676386662,
-      "p_di": 20.139071321993075,
-      "n_di": 18.27009146086656,
-      "rsi_14": 51.053311600657686,
-      "bb_pct_b": 0.8208029458161569,
-      "bb_width": 0.036130219499633354,
+      "change_24h": -0.02212144674262374,
+      "price_close": 0.09039,
+      "sma_50": 0.0920196,
+      "sma_200": 0.09569939999999999,
+      "macd_line": -0.0005051887134951416,
+      "signal_line": -0.0007629399046123358,
+      "macd_hist": 0.0002577511911171942,
+      "adx_14": 9.645748744159505,
+      "p_di": 19.179623714038165,
+      "n_di": 19.319037981898358,
+      "rsi_14": 47.003994419827464,
+      "bb_pct_b": 0.6082050534641392,
+      "bb_width": 0.034018196045566614,
       "bb_trend": "DOWN",
-      "atr_14": 0.0019847489580369095,
-      "natr_percent": 2.1772147411550127,
-      "price_rank_20": 75.5555555555556,
-      "vol_ratio_20": 0.05774705026907534,
+      "atr_14": 0.0019351750528710085,
+      "natr_percent": 2.140917195343521,
+      "price_rank_20": 64.1481481481481,
+      "vol_ratio_20": 0.014499758779615637,
       "signal_low_high_vol": false,
       "signal_high_high_vol": false,
       "buy_stars": 0,
       "sell_stars": 0,
       "history_60d": [
-        {
-          "ts": "1772236800000",
-          "date": "2026-02-28 08:00",
-          "close": 0.09,
-          "volume": 21731052.0,
-          "rsi_14": 40.37,
-          "adx_14": 24.48,
-          "natr": 2.49,
-          "atr_14": 0.0,
-          "vol_ratio": 0.28,
-          "price_rank": 15.2,
-          "buy_stars": 0,
-          "sell_stars": 0,
-          "signals": {
-            "low_vol": false,
-            "high_vol": false,
-            "rsi_low": false,
-            "rsi_high": false
-          }
-        },
         {
           "ts": "1772251200000",
           "date": "2026-02-28 12:00",
@@ -7182,13 +7409,33 @@
           "ts": "1773086400000",
           "date": "2026-03-10 04:00",
           "close": 0.09,
-          "volume": 2894794.0,
-          "rsi_14": 51.05,
-          "adx_14": 10.68,
-          "natr": 2.18,
+          "volume": 35489851.0,
+          "rsi_14": 47.16,
+          "adx_14": 10.36,
+          "natr": 2.29,
           "atr_14": 0.0,
-          "vol_ratio": 0.06,
-          "price_rank": 75.6,
+          "vol_ratio": 0.69,
+          "price_rank": 64.6,
+          "buy_stars": 0,
+          "sell_stars": 0,
+          "signals": {
+            "low_vol": false,
+            "high_vol": false,
+            "rsi_low": false,
+            "rsi_high": false
+          }
+        },
+        {
+          "ts": "1773100800000",
+          "date": "2026-03-10 08:00",
+          "close": 0.09,
+          "volume": 710340.0,
+          "rsi_14": 47.0,
+          "adx_14": 9.65,
+          "natr": 2.14,
+          "atr_14": 0.0,
+          "vol_ratio": 0.01,
+          "price_rank": 64.1,
           "buy_stars": 0,
           "sell_stars": 0,
           "signals": {
@@ -7199,11 +7446,11 @@
           }
         }
       ],
-      "liquidation_context": "Long Liquidation: $1,023, Short Liquidation: $886"
+      "liquidation_context": "Long Liquidation: $193, Short Liquidation: $802"
     }
   },
   "ai_summary": {
-    "en": "**\ud83c\udf0d Global Macro & Liquidity**: The macro environment presents a **Risk-Off** picture with significant headwinds for crypto. Layer 1 shows extreme fear (BTC Fear & Greed at 8), restrictive Fed policy expectations, and a rising VIX indicating high and increasing market fear. US10Y yields are rising, adding pressure. The DXY is neutral but elevated, suggesting a strong dollar headwind. Layer 2 news is dominated by geopolitical tensions (Strait of Hormuz), stagflation fears, and regulatory lawsuits against crypto/AI firms (Anthropic), creating a negative narrative cloud. This confluence of restrictive liquidity and bearish headlines forms a challenging backdrop for risk assets.\n\n**\ud83d\udfe0 BTC Strategy (Contract Only)**:\n*   **Signal**: **OBSERVE / PROBE (Cautiously)**\n*   **Reality Check**: The macro is bearish, but on-chain data hints at potential for a counter-trend squeeze. Short liquidations ($1.01B) are more than double long liquidations ($402M), indicating significant retail short positioning that is vulnerable. The neutral RSI (56.0) and positive MACD suggest there's no extreme oversold condition yet, but the high short-side pain could fuel a bounce if macro fear subsides slightly. This is not a strong bullish signal, but a setup for a potential relief rally against the dominant downtrend.\n\n**\ud83d\udd37 ETH Strategy**:\n*   **Signal**: **WAIT**\n*   **Reality Check**: A clear **TRAP WARNING** is present. Layer 2 news is cautiously hopeful (\"path to $2.5K\", \"larger bounce\"), suggesting a potential bottom. However, Layer 3 reality shows **ZERO** whale accumulation (Sentiment Score: -0.01, Net Flow: $0). Technically, the market is choppy (ADX: 15.6 < 20) with no volume-based signals (Signal_Bottom_Vol: false, Buy Stars: 0/3). The high short liquidation ($67M vs. $18M long) suggests a recent squeeze may have already occurred, leaving little immediate fuel. The narrative is bullish, but money flow and technicals do not confirm\u2014this is classic exit liquidity setup.\n*   **Key Metric**: **Whale Flow Sentiment & Net Flow**. The complete absence of whale buying (-0.01, $0) directly contradicts the hopeful price narrative, making it the most critical bearish divergence.\n\n**\ud83d\udfe3 SOL Strategy**:\n*   **Signal**: **WAIT**\n*   **Reality Check**: Similar to ETH, a **TRAP WARNING** is evident. News is neutral/copy-paste (same as top crypto news). Whale flow is also completely absent (Sentiment: -0.01, Net Flow: $0). Technicals show a weak, choppy market (ADX: 18.9 < 20) with no conviction signals (Buy/Sell Stars: 0/3). Liquidations are nearly balanced, indicating no clear pain on either side to drive a sharp move. The lack of any positive confluence across layers suggests the asset is adrift in the macro risk-off tide without internal support.\n*   **Key Metric**: **ADX & Whale Flow**. The low ADX confirms a lack of trend, and the null whale flow confirms a lack of large-player conviction, making any price move highly susceptible to macro downdrafts.",
-    "zh": "**\ud83c\udf0d \u5168\u7403\u5b8f\u89c2\u4e0e\u6d41\u52a8\u6027**: \u5b8f\u89c2\u73af\u5883\u5448\u73b0 **\u98ce\u9669\u89c4\u907f** \u6001\u52bf\uff0c\u5bf9\u52a0\u5bc6\u8d27\u5e01\u6784\u6210\u663e\u8457\u963b\u529b\u3002\u7b2c\u4e00\u5c42\u6570\u636e\u663e\u793a\u6781\u7aef\u6050\u60e7\uff08BTC\u6050\u60e7\u8d2a\u5a6a\u6307\u6570\u4e3a8\uff09\u3001\u7f8e\u8054\u50a8\u653f\u7b56\u9884\u671f\u7d27\u7f29\u3001VIX\u6ce2\u52a8\u7387\u6307\u6570\u4e0a\u5347\u8868\u660e\u5e02\u573a\u6050\u60e7\u60c5\u7eea\u9ad8\u6da8\u4e14\u52a0\u5267\u3002\u7f8e\u56fd10\u5e74\u671f\u56fd\u503a\u6536\u76ca\u7387\u4e0a\u5347\uff0c\u589e\u52a0\u538b\u529b\u3002\u7f8e\u5143\u6307\u6570(DXY)\u4e2d\u6027\u4f46\u5904\u4e8e\u9ad8\u4f4d\uff0c\u6697\u793a\u7f8e\u5143\u8d70\u5f3a\u7684\u963b\u529b\u3002\u7b2c\u4e8c\u5c42\u65b0\u95fb\u5934\u6761\u88ab\u5730\u7f18\u653f\u6cbb\u7d27\u5f20\uff08\u970d\u5c14\u6728\u5179\u6d77\u5ce1\uff09\u3001\u6ede\u80c0\u62c5\u5fe7\u4ee5\u53ca\u5bf9\u52a0\u5bc6/AI\u516c\u53f8\u7684\u76d1\u7ba1\u8bc9\u8bbc\uff08Anthropic\uff09\u6240\u4e3b\u5bfc\uff0c\u5f62\u6210\u4e86\u8d1f\u9762\u7684\u53d9\u4e8b\u6c1b\u56f4\u3002\u7d27\u7f29\u7684\u6d41\u52a8\u6027\u4e0e\u770b\u8dcc\u5934\u6761\u65b0\u95fb\u7684\u7ed3\u5408\uff0c\u4e3a\u98ce\u9669\u8d44\u4ea7\u521b\u9020\u4e86\u5145\u6ee1\u6311\u6218\u7684\u80cc\u666f\u3002\n\n**\ud83d\udfe0 BTC\u7b56\u7565\uff08\u4ec5\u5408\u7ea6\uff09**:\n*   **\u4fe1\u53f7**: **\u89c2\u5bdf / \u8c28\u614e\u8bd5\u63a2**\n*   **\u73b0\u5b9e\u68c0\u9a8c**: \u5b8f\u89c2\u9762\u770b\u8dcc\uff0c\u4f46\u94fe\u4e0a\u6570\u636e\u6697\u793a\u53ef\u80fd\u5b58\u5728\u9006\u8d8b\u52bf\u8f67\u7a7a\u7684\u53ef\u80fd\u6027\u3002\u7a7a\u5934\u6e05\u7b97\u989d\uff0810.1\u4ebf\u7f8e\u5143\uff09\u662f\u591a\u5934\u6e05\u7b97\u989d\uff084.02\u4ebf\u7f8e\u5143\uff09\u7684\u4e24\u500d\u591a\uff0c\u8868\u660e\u5927\u91cf\u6563\u6237\u7a7a\u5934\u5934\u5bf8\u8f83\u4e3a\u8106\u5f31\u3002\u4e2d\u6027RSI\uff0856.0\uff09\u548c\u6b63\u503c\u7684MACD\u8868\u660e\u5c1a\u672a\u51fa\u73b0\u6781\u7aef\u8d85\u5356\u72b6\u51b5\uff0c\u4f46\u5982\u679c\u5b8f\u89c2\u6050\u60e7\u60c5\u7eea\u7565\u6709\u7f13\u89e3\uff0c\u9ad8\u4f01\u7684\u7a7a\u5934\u75db\u82e6\u53ef\u80fd\u63a8\u52a8\u53cd\u5f39\u3002\u8fd9\u4e0d\u662f\u5f3a\u70c8\u7684\u770b\u6da8\u4fe1\u53f7\uff0c\u800c\u662f\u5728\u4e3b\u5bfc\u4e0b\u8dcc\u8d8b\u52bf\u4e2d\u6f5c\u5728\u7f13\u89e3\u6027\u53cd\u5f39\u7684\u8bbe\u5b9a\u3002\n\n**\ud83d\udd37 ETH\u7b56\u7565**:\n*   **\u4fe1\u53f7**: **\u7b49\u5f85**\n*   **\u73b0\u5b9e\u68c0\u9a8c**: \u5b58\u5728\u660e\u663e\u7684 **\u9677\u9631\u8b66\u544a**\u3002\u7b2c\u4e8c\u5c42\u65b0\u95fb\u8c28\u614e\u4e50\u89c2\uff08\"\u901a\u5f802500\u7f8e\u5143\u4e4b\u8def\"\u3001\"\u66f4\u5927\u53cd\u5f39\"\uff09\uff0c\u6697\u793a\u53ef\u80fd\u89c1\u5e95\u3002\u7136\u800c\uff0c\u7b2c\u4e09\u5c42\u73b0\u5b9e\u663e\u793a **\u96f6** \u5de8\u9cb8\u79ef\u7d2f\uff08\u60c5\u7eea\u5f97\u5206\uff1a-0.01\uff0c\u51c0\u6d41\u5165\uff1a0\u7f8e\u5143\uff09\u3002\u6280\u672f\u4e0a\uff0c\u5e02\u573a\u5904\u4e8e\u9707\u8361\u72b6\u6001\uff08ADX\uff1a15.6 < 20\uff09\uff0c\u6ca1\u6709\u57fa\u4e8e\u6210\u4ea4\u91cf\u7684\u4fe1\u53f7\uff08\u5e95\u90e8\u653e\u91cf\u4fe1\u53f7\uff1a\u5047\uff0c\u4e70\u5165\u661f\u7ea7\uff1a0/3\uff09\u3002\u9ad8\u989d\u7684\u7a7a\u5934\u6e05\u7b97\uff086700\u4e07\u7f8e\u5143\u5bf91800\u4e07\u7f8e\u5143\u591a\u5934\uff09\u8868\u660e\u8fd1\u671f\u53ef\u80fd\u5df2\u7ecf\u53d1\u751f\u4e86\u4e00\u6b21\u8f67\u7a7a\uff0c\u7559\u4e0b\u5f88\u5c11\u7684\u5373\u65f6\u71c3\u6599\u3002\u53d9\u4e8b\u770b\u6da8\uff0c\u4f46\u8d44\u91d1\u6d41\u548c\u6280\u672f\u9762\u5e76\u672a\u786e\u8ba4\u2014\u2014\u8fd9\u662f\u5178\u578b\u7684\u9000\u51fa\u6d41\u52a8\u6027\u8bbe\u7f6e\u3002\n*   **\u5173\u952e\u6307\u6807**: **\u5de8\u9cb8\u8d44\u91d1\u6d41\u60c5\u7eea\u4e0e\u51c0\u6d41\u5165**\u3002\u5de8\u9cb8\u4e70\u5165\u7684\u5b8c\u5168\u7f3a\u5931\uff08-0.01\uff0c0\u7f8e\u5143\uff09\u76f4\u63a5\u4e0e\u4e50\u89c2\u7684\u4ef7\u683c\u53d9\u4e8b\u76f8\u77db\u76fe\uff0c\u4f7f\u5176\u6210\u4e3a\u6700\u5173\u952e\u7684\u7a7a\u5934\u80cc\u79bb\u6307\u6807\u3002\n\n**\ud83d\udfe3 SOL\u7b56\u7565**:\n*   **\u4fe1\u53f7**: **\u7b49\u5f85**\n*   **\u73b0\u5b9e\u68c0\u9a8c**: \u4e0eETH\u7c7b\u4f3c\uff0c\u5b58\u5728\u660e\u663e\u7684 **\u9677\u9631\u8b66\u544a**\u3002\u65b0\u95fb\u4e2d\u6027/\u91cd\u590d\uff08\u4e0e\u9876\u7ea7\u52a0\u5bc6\u65b0\u95fb\u76f8\u540c\uff09\u3002\u5de8\u9cb8\u8d44\u91d1\u6d41\u540c\u6837\u5b8c\u5168\u7f3a\u5e2d\uff08\u60c5\u7eea\uff1a-0.01\uff0c\u51c0\u6d41\u5165\uff1a0\u7f8e\u5143\uff09\u3002\u6280\u672f\u9762\u663e\u793a\u5e02\u573a\u75b2\u8f6f\u3001\u9707\u8361\uff08ADX\uff1a18.9 < 20\uff09\uff0c\u6ca1\u6709\u660e\u786e\u7684\u786e\u8ba4\u4fe1\u53f7\uff08\u4e70\u5165/\u5356\u51fa\u661f\u7ea7\uff1a0/3\uff09\u3002\u6e05\u7b97\u989d\u57fa\u672c\u5e73\u8861\uff0c\u8868\u660e\u4efb\u4f55\u4e00\u65b9\u90fd\u6ca1\u6709\u660e\u663e\u7684\u75db\u82e6\u6765\u9a71\u52a8\u5267\u70c8\u6ce2\u52a8\u3002\u5404\u5c42\u9762\u7f3a\u4e4f\u4efb\u4f55\u79ef\u6781\u7684\u5171\u632f\u8868\u660e\uff0c\u8be5\u8d44\u4ea7\u5728\u5b8f\u89c2\u98ce\u9669\u89c4\u907f\u7684\u6d6a\u6f6e\u4e2d\u968f\u6ce2\u9010\u6d41\uff0c\u7f3a\u4e4f\u5185\u90e8\u652f\u6491\u3002\n*   **\u5173\u952e\u6307\u6807**: **ADX\u4e0e\u5de8\u9cb8\u8d44\u91d1\u6d41**\u3002\u4f4eADX\u786e\u8ba4\u4e86\u8d8b\u52bf\u7684\u7f3a\u5931\uff0c\u800c\u96f6\u5de8\u9cb8\u8d44\u91d1\u6d41\u786e\u8ba4\u4e86\u5927\u578b\u53c2\u4e0e\u8005\u4fe1\u5fc3\u7684\u7f3a\u4e4f\uff0c\u4f7f\u5f97\u4efb\u4f55\u4ef7\u683c\u8d70\u52bf\u90fd\u6781\u6613\u53d7\u5230\u5b8f\u89c2\u4e0b\u884c\u538b\u529b\u7684\u5f71\u54cd\u3002"
+    "en": "**\ud83c\udf0d Global Macro & Liquidity**: The macro environment is firmly **Risk-Off**. The DXY is strong (98.88), US10Y yields are elevated and rising (4.14%), and the VIX is high and climbing (25.5), indicating pervasive market fear. Fed futures imply a restrictive, high-rate environment (3.605%). This is corroborated by extreme fear in crypto (BTC Fear & Greed: 13). The narrative layer is mixed but leans bearish on macro (stagflation fears, oil volatility) while crypto-specific news is cautiously optimistic (political support for infrastructure). The dominant macro liquidity squeeze contradicts bullish crypto narratives, creating a high-risk backdrop.\n\n**\ud83d\udfe0 BTC Strategy (Contract Only)**:\n*   **Signal**: **OBSERVE**\n*   **Reality Check**: The market is in a state of high retail pain with massive long liquidations ($444M). However, short liquidations are even higher ($969M), indicating significant trapped shorts. With a neutral RSI (51.4) and a strong positive MACD (203), momentum is not yet bearish. The lack of extreme oversold conditions and the high ADX (19.0, near the 20 threshold) suggest the downtrend may still have momentum. Wait for a clearer sign of a short squeeze catalyst or for the ADX to drop below 20, signaling a loss of trend strength and potential for a reversal.\n\n**\ud83d\udd37 ETH Strategy**:\n*   **Signal**: **WAIT**\n*   **Reality Check**: News sentiment is cautiously hopeful for a bounce, but on-chain reality shows complete whale inactivity (Sentiment Score: -0.01, Net Flow: $0). Technically, the market is choppy and directionless (ADX: 14.4). There is no volume-based accumulation signal (Signal_Bottom_Vol: false), and momentum is weak (MACD Hist: 6.55). The high long liquidation ($49M) suggests retail capitulation, which is a potential contrarian bottoming signal, but without confirming whale inflow or a strong technical reversal pattern, it's premature to act. The 7-day structural trend (bearish macro) and 24H immediate action (inactive, choppy) are aligned in signaling caution.\n*   **Key Metric**: **Whale Flow & ADX**. The total absence of whale activity (Confidence: 0) combined with a low, choppy ADX (<20) invalidates any strong directional bias from the news. Wait for whale confidence to rise or for ADX to surge above 25 with a directional price move.\n\n**\ud83d\udfe3 SOL Strategy**:\n*   **Signal**: **PROBE** (with tight risk management)\n*   **Reality Check**: Similar to ETH, news is neutral-to-bullish but whales are inactive. However, the technical setup is slightly more constructive. The ADX (18.2) is approaching the 20 threshold, suggesting a potential trend may be forming. The price rank is relatively high (69.1/100), and long liquidations are notably low ($199k) compared to significant short liquidations ($1.54M). This creates a asymmetric pain setup where shorts are more vulnerable. The low funding rate (0.000034) reduces the cost of a long probe. The 7-day trend (bearish macro) conflicts with the 24H setup (neutral-bullish squeeze potential), creating a divergence that favors a small, tactical position.\n*   **Key Metric**: **Liquidation Imbalance & ADX**. The 7.7:1 ratio of short-to-long liquidations points to a crowded short trade. A move above key resistance could trigger a squeeze. Probe a long position only if the ADX breaks above 20 with positive price action, confirming a new short-term uptrend.",
+    "zh": "**\ud83c\udf0d \u5168\u7403\u5b8f\u89c2\u4e0e\u6d41\u52a8\u6027**: \u5b8f\u89c2\u73af\u5883\u660e\u786e\u5904\u4e8e **\u98ce\u9669\u89c4\u907f** \u6a21\u5f0f\u3002\u7f8e\u5143\u6307\u6570\u8d70\u5f3a\uff0898.88\uff09\uff0c\u7f8e\u503a\u6536\u76ca\u7387\u9ad8\u4f01\u4e14\u4e0a\u5347\uff084.14%\uff09\uff0c\u6050\u614c\u6307\u6570VIX\u9ad8\u4f4d\u6500\u5347\uff0825.5\uff09\uff0c\u663e\u793a\u5e02\u573a\u5f25\u6f2b\u6050\u60e7\u60c5\u7eea\u3002\u7f8e\u8054\u50a8\u671f\u8d27\u6697\u793a\u9650\u5236\u6027\u9ad8\u5229\u7387\u73af\u5883\uff083.605%\uff09\u3002\u8fd9\u4e0e\u52a0\u5bc6\u5e02\u573a\u7684\u6781\u5ea6\u6050\u60e7\uff08BTC\u6050\u60e7\u8d2a\u5a6a\u6307\u6570\uff1a13\uff09\u76f8\u4e92\u5370\u8bc1\u3002\u53d9\u4e8b\u5c42\u9762\u559c\u5fe7\u53c2\u534a\uff0c\u5b8f\u89c2\u65b0\u95fb\u504f\u60b2\u89c2\uff08\u6ede\u80c0\u62c5\u5fe7\u3001\u539f\u6cb9\u6ce2\u52a8\uff09\uff0c\u800c\u52a0\u5bc6\u7279\u5b9a\u65b0\u95fb\u5219\u8c28\u614e\u4e50\u89c2\uff08\u653f\u6cbb\u5bf9\u57fa\u7840\u8bbe\u65bd\u7684\u652f\u6301\uff09\u3002\u4e3b\u5bfc\u7684\u5b8f\u89c2\u6d41\u52a8\u6027\u7d27\u7f29\u4e0e\u770b\u6da8\u7684\u52a0\u5bc6\u53d9\u4e8b\u76f8\u77db\u76fe\uff0c\u521b\u9020\u4e86\u9ad8\u98ce\u9669\u80cc\u666f\u3002\n\n**\ud83d\udfe0 BTC\u7b56\u7565\uff08\u4ec5\u5408\u7ea6\uff09**:\n*   **\u4fe1\u53f7**: **\u89c2\u5bdf**\n*   **\u73b0\u5b9e\u68c0\u9a8c**: \u5e02\u573a\u5904\u4e8e\u6563\u6237\u9ad8\u75db\u82e6\u72b6\u6001\uff0c\u591a\u5934\u6e05\u7b97\u5de8\u5927\uff084.44\u4ebf\u7f8e\u5143\uff09\u3002\u7136\u800c\uff0c\u7a7a\u5934\u6e05\u7b97\u66f4\u9ad8\uff089.69\u4ebf\u7f8e\u5143\uff09\uff0c\u8868\u660e\u5927\u91cf\u7a7a\u5934\u88ab\u56f0\u3002RSI\u4e2d\u6027\uff0851.4\uff09\u4e14MACD\u5f3a\u52bf\u6b63\u503c\uff08203\uff09\uff0c\u52a8\u91cf\u5c1a\u672a\u8f6c\u718a\u3002\u7f3a\u4e4f\u6781\u5ea6\u8d85\u5356\u6761\u4ef6\u4ee5\u53ca\u8f83\u9ad8\u7684ADX\uff0819.0\uff0c\u63a5\u8fd120\u9608\u503c\uff09\u8868\u660e\u4e0b\u8dcc\u8d8b\u52bf\u53ef\u80fd\u4ecd\u6709\u52a8\u80fd\u3002\u7b49\u5f85\u66f4\u660e\u786e\u7684\u591a\u5934\u6324\u538b\u50ac\u5316\u5242\u4fe1\u53f7\uff0c\u6216\u7b49\u5f85ADX\u8dcc\u783420\uff0c\u8868\u660e\u8d8b\u52bf\u52a8\u80fd\u4e27\u5931\u53ca\u53ef\u80fd\u51fa\u73b0\u53cd\u8f6c\u3002\n\n**\ud83d\udd37 ETH\u7b56\u7565**:\n*   **\u4fe1\u53f7**: **\u7b49\u5f85**\n*   **\u73b0\u5b9e\u68c0\u9a8c**: \u65b0\u95fb\u60c5\u7eea\u5bf9\u53cd\u5f39\u8c28\u614e\u4e50\u89c2\uff0c\u4f46\u94fe\u4e0a\u73b0\u5b9e\u663e\u793a\u5de8\u9cb8\u5b8c\u5168\u65e0\u6d3b\u52a8\uff08\u60c5\u7eea\u5f97\u5206\uff1a-0.01\uff0c\u51c0\u6d41\u5165\uff1a0\u7f8e\u5143\uff09\u3002\u6280\u672f\u4e0a\uff0c\u5e02\u573a\u9707\u8361\u4e14\u65e0\u65b9\u5411\uff08ADX\uff1a14.4\uff09\u3002\u6ca1\u6709\u57fa\u4e8e\u6210\u4ea4\u91cf\u7684\u5438\u7b79\u4fe1\u53f7\uff08\u5e95\u90e8\u653e\u91cf\u4fe1\u53f7\uff1a\u5047\uff09\uff0c\u52a8\u91cf\u75b2\u5f31\uff08MACD\u67f1\u72b6\u56fe\uff1a6.55\uff09\u3002\u9ad8\u989d\u591a\u5934\u6e05\u7b97\uff084900\u4e07\u7f8e\u5143\uff09\u8868\u660e\u6563\u6237\u6295\u964d\uff0c\u8fd9\u662f\u6f5c\u5728\u7684\u9006\u5411\u5e95\u90e8\u4fe1\u53f7\uff0c\u4f46\u5728\u6ca1\u6709\u5de8\u9cb8\u8d44\u91d1\u6d41\u5165\u6216\u5f3a\u52b2\u6280\u672f\u53cd\u8f6c\u5f62\u6001\u786e\u8ba4\u7684\u60c5\u51b5\u4e0b\uff0c\u884c\u52a8\u4e3a\u65f6\u8fc7\u65e9\u30027\u5929\u7ed3\u6784\u6027\u8d8b\u52bf\uff08\u770b\u8dcc\u5b8f\u89c2\uff09\u4e0e24\u5c0f\u65f6\u5373\u65f6\u884c\u52a8\uff08\u4e0d\u6d3b\u8dc3\u3001\u9707\u8361\uff09\u4e00\u81f4\u53d1\u51fa\u8c28\u614e\u4fe1\u53f7\u3002\n*   **\u5173\u952e\u6307\u6807**: **\u5de8\u9cb8\u8d44\u91d1\u6d41\u4e0eADX**\u3002\u5de8\u9cb8\u6d3b\u52a8\u7684\u5b8c\u5168\u7f3a\u5931\uff08\u7f6e\u4fe1\u5ea6\uff1a0\uff09\u7ed3\u5408\u4f4e\u4e14\u9707\u8361\u7684ADX\uff08<20\uff09\uff0c\u4f7f\u5f97\u65b0\u95fb\u4e2d\u7684\u4efb\u4f55\u5f3a\u70c8\u65b9\u5411\u6027\u504f\u89c1\u65e0\u6548\u3002\u7b49\u5f85\u5de8\u9cb8\u7f6e\u4fe1\u5ea6\u4e0a\u5347\u6216ADX\u4f34\u968f\u4ef7\u683c\u5b9a\u5411\u79fb\u52a8\u7a81\u783425\u3002\n\n**\ud83d\udfe3 SOL\u7b56\u7565**:\n*   **\u4fe1\u53f7**: **\u8bd5\u63a2**\uff08\u9700\u4e25\u683c\u98ce\u9669\u7ba1\u7406\uff09\n*   **\u73b0\u5b9e\u68c0\u9a8c**: \u4e0eETH\u7c7b\u4f3c\uff0c\u65b0\u95fb\u4e2d\u6027\u504f\u591a\u4f46\u5de8\u9cb8\u4e0d\u6d3b\u8dc3\u3002\u7136\u800c\uff0c\u6280\u672f\u7ed3\u6784\u7565\u5177\u5efa\u8bbe\u6027\u3002ADX\uff0818.2\uff09\u6b63\u63a5\u8fd120\u9608\u503c\uff0c\u6697\u793a\u53ef\u80fd\u6b63\u5728\u5f62\u6210\u8d8b\u52bf\u3002\u4ef7\u683c\u6392\u540d\u76f8\u5bf9\u8f83\u9ad8\uff0869.1/100\uff09\uff0c\u4e14\u4e0e\u663e\u8457\u7684\u7a7a\u5934\u6e05\u7b97\uff08154\u4e07\u7f8e\u5143\uff09\u76f8\u6bd4\uff0c\u591a\u5934\u6e05\u7b97 notably \u8f83\u4f4e\uff0819.9\u4e07\u7f8e\u5143\uff09\u3002\u8fd9\u521b\u9020\u4e86\u4e00\u4e2a\u4e0d\u5bf9\u79f0\u7684\u75db\u82e6\u8bbe\u7f6e\uff0c\u7a7a\u5934\u66f4\u4e3a\u8106\u5f31\u3002\u4f4e\u8d44\u91d1\u8d39\u7387\uff080.000034\uff09\u964d\u4f4e\u4e86\u591a\u5934\u8bd5\u63a2\u7684\u6210\u672c\u30027\u5929\u8d8b\u52bf\uff08\u770b\u8dcc\u5b8f\u89c2\uff09\u4e0e24\u5c0f\u65f6\u8bbe\u7f6e\uff08\u4e2d\u6027\u504f\u591a\u7684\u6324\u538b\u6f5c\u529b\uff09\u51b2\u7a81\uff0c\u4ea7\u751f\u4e86\u6709\u5229\u4e8e\u5efa\u7acb\u5c0f\u578b\u6218\u672f\u5934\u5bf8\u7684\u80cc\u79bb\u3002\n*   **\u5173\u952e\u6307\u6807**: **\u6e05\u7b97\u5931\u8861\u4e0eADX**\u3002\u7a7a\u5934\u4e0e\u591a\u5934\u6e05\u7b977.7:1\u7684\u6bd4\u4f8b\u8868\u660e\u7a7a\u5934\u5934\u5bf8\u62e5\u6324\u3002\u82e5\u4ef7\u683c\u7a81\u7834\u5173\u952e\u963b\u529b\u4f4d\u53ef\u80fd\u5f15\u53d1\u8f67\u7a7a\u3002\u4ec5\u5f53ADX\u4f34\u968f\u79ef\u6781\u7684\u4ef7\u683c\u8d70\u52bf\u7a81\u783420\uff0c\u786e\u8ba4\u65b0\u7684\u77ed\u671f\u4e0a\u5347\u8d8b\u52bf\u65f6\uff0c\u624d\u53ef\u8bd5\u63a2\u5efa\u7acb\u591a\u5934\u5934\u5bf8\u3002"
   }
 }
