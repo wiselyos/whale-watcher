@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-03-13T04:06:14.660022",
+  "updated_at": "2026-03-13T08:06:17.188047",
   "fear_greed": {
     "value": 15,
     "value_classification": "Extreme Fear"
   },
   "macro": {
     "fed_futures": {
-      "price": 96.43,
-      "implied_rate": 3.57,
-      "timestamp": "2026-03-13T04:05:00.417050+00:00",
-      "trend": "Dovish (Rate expectations dropping)",
-      "change_5d_bps": -7.0,
+      "price": 96.375,
+      "implied_rate": 3.625,
+      "timestamp": "2026-03-13T08:05:00.499192+00:00",
+      "trend": "Neutral (Stable expectations)",
+      "change_5d_bps": -1.5,
       "zone": "Restrictive (High)"
     },
     "japan_macro": {
-      "price": 159.354,
-      "timestamp": "2026-03-13T04:05:00.546794+00:00",
+      "price": 159.445,
+      "timestamp": "2026-03-13T08:05:00.627494+00:00",
       "trend": "Yen Weakness (Risk On)",
-      "change_5d_pct": 0.59,
+      "change_5d_pct": 0.64,
       "zone": "Weak Yen (Intervention Risk)"
     },
     "liquidity_monitor": {
       "dxy": {
-        "price": 99.74,
-        "change_5d_pct": 0.56,
+        "price": 99.44,
+        "change_5d_pct": 0.45,
         "trend": "Stronger (Risk Off)"
       },
       "us10y": {
@@ -32,12 +32,12 @@
         "trend": "High Rising"
       },
       "vix": {
-        "price": 27.29,
-        "change_5d_pct": -7.46,
+        "price": 27.81,
+        "change_5d_pct": -5.7,
         "trend": "High Fear Subsiding"
       }
     },
-    "global_stable_flow": 169930607.42004395
+    "global_stable_flow": 119008502.10214233
   },
   "news": {
     "bitcoin": {
@@ -61,16 +61,16 @@
           "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2IwY2EtN2Y2OC03MDM5LTlmNDUtMzhjMTMzMDg3NWM0LmpwZw==.jpg\" alt=\"Bitcoin catching up to gold hints at an \u2018opportunity within risk\u2019\" class=\"type:primaryImage\"></p><p>Bitcoin showed early signs of overtaking gold in the market as new data outlined an opportunity based on historical returns around the US midterm elections.</p>"
         },
         {
-          "title": "Ark Invest sees one-third of Bitcoin supply at risk from quantum threat",
-          "link": "https://cointelegraph.com/news/ark-bitcoin-quantum-risk-supply-bip-360?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 12 Mar 2026 14:04:10 +0000",
-          "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQyYTYtNzViZi03NmU2LWE3MTYtYzEwODZhYWI0ZTNkLmpwZw==.jpg\" alt=\"Ark Invest sees one-third of Bitcoin supply at risk from quantum threat\" class=\"type:primaryImage\"></p><p>Ark and Unchained say about one-third of the Bitcoin supply remains exposed to future quantum threats, though the risk is still years away.</p>"
+          "title": "Crypto miners must put their Bitcoin to work to survive: Wintermute",
+          "link": "https://cointelegraph.com/news/crypto-miners-put-assets-to-work-to-survive-wintermute?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 13 Mar 2026 05:57:27 +0000",
+          "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmNDItNTBmNS03MDExLWFjN2EtYjkyZGI4NDkzYWNj.jpg\" alt=\"Crypto miners must put their Bitcoin to work to survive: Wintermute\" class=\"type:primaryImage\"></p><p>Miners who treat their Bitcoin holdings as a working asset rather than a passive reserve \u201cwill carry a structural edge into the next halving,\u201d says Wintermute.</p>"
         },
         {
-          "title": "Bitcoin hugs $70K range as March Fed rate cut odds fall below 1%",
-          "link": "https://cointelegraph.com/news/bitcoin-hugs-70k-range-march-fed-rate-cut-odds-fall?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
-          "published": "Thu, 12 Mar 2026 13:30:58 +0000",
-          "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2UyMmItYjJhYi03ZWI0LTllZGQtZTk3ZjZhNzk1MzhhLmpwZw==.jpg\" alt=\"Bitcoin hugs $70K range as March Fed rate cut odds fall below 1%\" class=\"type:primaryImage\"></p><p>Bitcoin reacted in kind to calm US macro data, while oil stayed volatile amid uncertainty over the duration of the Middle East conflict.</p>"
+          "title": "Bitcoin advocate group to fight Basel\u2019s \u2018toxic\u2019 treatment of cryptocurrency",
+          "link": "https://cointelegraph.com/news/bitcoin-toxic-asset-basel-framework-federal-reserve-policy-institute?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
+          "published": "Fri, 13 Mar 2026 05:55:10 +0000",
+          "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2U1MGMtNzgyYi03MTJkLWJkODItMTM2ZWY5YWVmZmI0LmpwZw==.jpg\" alt=\"Bitcoin advocate group to fight Basel\u2019s \u2018toxic\u2019 treatment of cryptocurrency\" class=\"type:primaryImage\"></p><p>The Bitcoin Policy Institute wants to ensure \u201cUS regulators get Bitcoin\u2019s treatment right\u201d when the Federal Reserve issues proposals to implement the Basel framework.</p>"
         }
       ],
       "errors": [
@@ -125,28 +125,46 @@
     "general": {
       "items": [
         {
-          "title": "Ghana Formalizes Crypto Sector With Structured Licensing Pathway",
-          "link": "https://news.bitcoin.com/ghana-formalizes-crypto-sector-with-structured-licensing-pathway/",
-          "published": "Thu, 12 Mar 2026 23:45:02 +0000",
-          "summary": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/ghannsns-768x432.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/ghannsns-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/ghannsns-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/ghannsns-768x432.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/ghannsns-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/ghannsns-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/ghannsns-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/ghannsns.png 1280w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" />Ghana\u2019s Securities and Exchange Commission has launched a regulatory sandbox framework under the Virtual Asset Service Providers Act. Sandbox Duration and Transition Paths Ghana\u2019s Securities and Exchange Commission has taken another step in shaping the country\u2019s digital asset landscape by announcing the operational rollout of its regulatory sandbox framework under the Virtual Asset Service Providers [&#8230;]"
-        },
-        {
           "title": "Crypto Trader Loses Nearly $50M in Aave Trade, Protocol Offers $600K Fee Refund",
           "link": "https://decrypt.co/360961/crypto-trader-loses-nearly-50m-aave-trade-600k-fee-refund",
           "published": "Thu, 12 Mar 2026 22:49:05 +0000",
           "summary": "A $50 million USDT trade executed through Aave\u2019s interface returned just 324 AAVE tokens after a user went ahead despite a high-slippage warning."
         },
         {
-          "title": "Google's New AI Tool Predicts Flash Floods Up to 24 Hours in Advance",
-          "link": "https://decrypt.co/360946/google-gemini-groundsource-flash-flood-prediction-24-hours",
-          "published": "Thu, 12 Mar 2026 22:09:01 +0000",
-          "summary": "Google's Gemini-powered Groundsource AI system mines decades of news reports, powering real-time flash flood warnings in 150 countries."
+          "title": "Zcash Development Lab Secures $25 Million to Expand Privacy Infrastructure",
+          "link": "https://news.bitcoin.com/zcash-development-lab-secures-25-million-to-expand-privacy-infrastructure/",
+          "published": "Fri, 13 Mar 2026 07:30:33 +0000",
+          "summary": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/zcash-development-lab-secures-25-million-to-expand-privacy-infrastructure-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Zcash Development Lab Secures $25 Million to Expand Privacy Infrastructure\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/zcash-development-lab-secures-25-million-to-expand-privacy-infrastructure-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/zcash-development-lab-secures-25-million-to-expand-privacy-infrastructure-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/zcash-development-lab-secures-25-million-to-expand-privacy-infrastructure-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/zcash-development-lab-secures-25-million-to-expand-privacy-infrastructure-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/zcash-development-lab-secures-25-million-to-expand-privacy-infrastructure-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/zcash-development-lab-secures-25-million-to-expand-privacy-infrastructure-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/zcash-development-lab-secures-25-million-to-expand-privacy-infrastructure.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Zcash Open Development Lab (ZODL) has raised more than $25 million in seed funding from major crypto investors to accelerate development of privacy-focused financial tools. The funding will support continued work on Zcash protocol upgrades and the expansion of its self-custodial wallet platform, Zodl. Major Investors Back Zcash Open Development Lab Funding Round Zcash Open [&#8230;]"
         },
         {
-          "title": "President Trump Is Hosting Another Exclusive Event for Meme Coin Holders",
-          "link": "https://decrypt.co/360954/president-trump-hosting-another-exclusive-event-meme-coin-holders",
-          "published": "Thu, 12 Mar 2026 20:49:01 +0000",
-          "summary": "President Trump's Solana meme coin jumped briefly after the team announced a new exclusive event for top holders."
+          "title": "Foundry Expands Beyond Bitcoin With Zcash Mining Pool",
+          "link": "https://news.bitcoin.com/foundry-expands-beyond-bitcoin-with-zcash-mining-pool/",
+          "published": "Fri, 13 Mar 2026 06:30:36 +0000",
+          "summary": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/foundry-expands-beyond-bitcoin-with-zcash-mining-pool-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/foundry-expands-beyond-bitcoin-with-zcash-mining-pool-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/foundry-expands-beyond-bitcoin-with-zcash-mining-pool-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/foundry-expands-beyond-bitcoin-with-zcash-mining-pool-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/foundry-expands-beyond-bitcoin-with-zcash-mining-pool-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/foundry-expands-beyond-bitcoin-with-zcash-mining-pool-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/foundry-expands-beyond-bitcoin-with-zcash-mining-pool-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/foundry-expands-beyond-bitcoin-with-zcash-mining-pool.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Digital asset infrastructure firm Foundry Digital plans to launch a U.S.-based zcash (ZEC) mining pool in April 2026 aimed at institutional and publicly traded miners. The move signals growing interest in privacy-focused crypto and expands Foundry\u2019s mining infrastructure beyond bitcoin. Zcash Mining Gets Institutional Boost With Foundry Pool Digital asset infrastructure provider Foundry Digital is [&#8230;]"
+        },
+        {
+          "title": "CFTC Moves to Rein In Prediction Markets With Guidance, Rulemaking Review",
+          "link": "https://decrypt.co/360974/cftc-rein-in-prediction-markets-guidance-rulemaking-review",
+          "published": "Fri, 13 Mar 2026 06:15:07 +0000",
+          "summary": "Chairman Selig has issued a staff advisory amid a formal rulemaking process, as states and Congress close in."
+        },
+        {
+          "title": "Polychain Capital Leads $10M Seed for VeryAI\u2019s Human-Centric Internet Vision",
+          "link": "https://news.bitcoin.com/polychain-capital-leads-10m-seed-for-veryais-human-centric-internet-vision/",
+          "published": "Fri, 13 Mar 2026 05:30:09 +0000",
+          "summary": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/polychain-capital-leads-10m-seed-for-veryais-human-centric-internet-vision-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/polychain-capital-leads-10m-seed-for-veryais-human-centric-internet-vision-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/polychain-capital-leads-10m-seed-for-veryais-human-centric-internet-vision-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/polychain-capital-leads-10m-seed-for-veryais-human-centric-internet-vision-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/polychain-capital-leads-10m-seed-for-veryais-human-centric-internet-vision-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/polychain-capital-leads-10m-seed-for-veryais-human-centric-internet-vision-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/polychain-capital-leads-10m-seed-for-veryais-human-centric-internet-vision-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/polychain-capital-leads-10m-seed-for-veryais-human-centric-internet-vision.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Proof of reality platform, VeryAI, said it has raised $10 million in seed funding led by Polychain Capital to scale its infrastructure. The Death of the CAPTCHA? VeryAI, a \u201cproof of reality\u201d platform, announced March 12 that it has raised $10 million in seed funding. The round was led by Polychain Capital, with participation from [&#8230;]"
+        },
+        {
+          "title": "Adobe CEO Narayen Plans Exit as Tech Firms Restructure Around AI",
+          "link": "https://decrypt.co/360972/adobe-ceo-narayen-plans-exit-tech-firms-restructure-ai",
+          "published": "Fri, 13 Mar 2026 04:46:20 +0000",
+          "summary": "The transition comes as generative AI reshapes the tech industry, forcing companies to rethink how they build products and run teams."
+        },
+        {
+          "title": "What Is Solana\u2019s Alpenglow Upgrade? New Consensus Could Deliver 150ms Transaction Finality",
+          "link": "https://news.bitcoin.com/what-is-solanas-alpenglow-upgrade-new-consensus-could-deliver-150ms-transaction-finality/",
+          "published": "Fri, 13 Mar 2026 04:30:26 +0000",
+          "summary": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/sol-768x432.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"What Is Solana\u2019s Alpenglow Upgrade? New Consensus Could Deliver 150ms Transaction Finality\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/sol-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/sol-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/sol-768x432.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/sol-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/sol-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/sol-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/sol.png 1280w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" />Solana\u2019s next major protocol overhaul is edging closer to reality, and developers say it could dramatically reduce transaction confirmation times while simplifying the network\u2019s core mechanics. Solana\u2019s Alpenglow Upgrade Targets Near-Instant Finality and Simpler Consensus Solana developers are preparing a sweeping consensus upgrade called Alpenglow, a protocol redesign expected to cut transaction finality from seconds [&#8230;]"
         },
         {
           "title": "Why Bitcoin's Price Is at a Weekly High Despite Middle East Tensions",
@@ -158,31 +176,13 @@
           "title": "Beyond AI Detection: Brevis Unveils System to Cryptographically Verify Media Origins",
           "link": "https://news.bitcoin.com/beyond-ai-detection-brevis-unveils-system-to-cryptographically-verify-media-origins/",
           "published": "Fri, 13 Mar 2026 03:30:30 +0000",
-          "summary": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/beyond-ai-detection_-brevis-unveils-system-to-cryptographically-verify-media-origins-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/beyond-ai-detection_-brevis-unveils-system-to-cryptographically-verify-media-origins-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/beyond-ai-detection_-brevis-unveils-system-to-cryptographically-verify-media-origins-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/beyond-ai-detection_-brevis-unveils-system-to-cryptographically-verify-media-origins-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/beyond-ai-detection_-brevis-unveils-system-to-cryptographically-verify-media-origins-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/beyond-ai-detection_-brevis-unveils-system-to-cryptographically-verify-media-origins-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/beyond-ai-detection_-brevis-unveils-system-to-cryptographically-verify-media-origins-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/beyond-ai-detection_-brevis-unveils-system-to-cryptographically-verify-media-origins.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Brevis recently launched an end-to-end media authenticity system that allows images and videos to cryptographically prove their origins while protecting user data. The Shift From Detection to Proof On March 9, 2026, the zero-knowledge-proof computing company Brevis launched an end-to-end media authenticity system designed to tackle the online trust crisis. Known as Brevis Vera, the [&#8230;]"
-        },
-        {
-          "title": "SEC and CFTC Strike Historic Pact to Align US Financial and Crypto Market Rules",
-          "link": "https://news.bitcoin.com/sec-and-cftc-strike-historic-pact-to-align-us-financial-and-crypto-market-rules/",
-          "published": "Fri, 13 Mar 2026 02:30:09 +0000",
-          "summary": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/sec-and-cftc-collaboration-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/sec-and-cftc-collaboration-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/sec-and-cftc-collaboration-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/sec-and-cftc-collaboration-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/sec-and-cftc-collaboration-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/sec-and-cftc-collaboration-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/sec-and-cftc-collaboration-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/sec-and-cftc-collaboration.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />U.S. regulators move to tighten coordination as the SEC and CFTC launch a joint framework aimed at reducing regulatory conflicts, modernizing oversight, and shaping clearer rules for emerging financial markets, including crypto assets. Regulatory Turf Wars End as SEC and CFTC Coordinate Oversight Across US Markets Federal financial regulators moved to coordinate oversight on March [&#8230;]"
+          "summary": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/beyond-ai-detection_-brevis-unveils-system-to-cryptographically-verify-media-origins-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/beyond-ai-detection_-brevis-unveils-system-to-cryptographically-verify-media-origins-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/beyond-ai-detection_-brevis-unveils-system-to-cryptographically-verify-media-origins-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/beyond-ai-detection_-brevis-unveils-system-to-cryptographically-verify-media-origins-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/beyond-ai-detection_-brevis-unveils-system-to-cryptographically-verify-media-origins-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/beyond-ai-detection_-brevis-unveils-system-to-cryptographically-verify-media-origins-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/beyond-ai-detection_-brevis-unveils-system-to-cryptographically-verify-media-origins-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/beyond-ai-detection_-brevis-unveils-system-to-cryptographically-verify-media-origins.jpg 1280w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" />Brevis recently launched an end-to-end media authenticity system that allows images and videos to cryptographically prove their origins while protecting user data. The Shift From Detection to Proof On March 9, 2026, the zero-knowledge-proof computing company Brevis launched an end-to-end media authenticity system designed to tackle the online trust crisis. Known as Brevis Vera, the [&#8230;]"
         },
         {
           "title": "White House Calls for Retraction of ABC Report Over Iran Drone Threat",
           "link": "https://decrypt.co/360966/white-house-retraction-abc-report-iran-drone-threat",
           "published": "Fri, 13 Mar 2026 02:04:57 +0000",
           "summary": "Officials say the FBI alert cited by the network came from an unverified tip, as Iran deploys drones across the Middle East following U.S. and Israeli strikes."
-        },
-        {
-          "title": "Ripple Signals Corporate Treasury Could Ignite Next Wave of Crypto Adoption",
-          "link": "https://news.bitcoin.com/ripple-signals-corporate-treasury-could-ignite-next-wave-of-crypto-adoption/",
-          "published": "Fri, 13 Mar 2026 01:30:04 +0000",
-          "summary": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/ripple-next-phase-crypto-adoption-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Ripple Signals Corporate Treasury Could Ignite the Next Wave of Crypto Adoption\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/ripple-next-phase-crypto-adoption-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/ripple-next-phase-crypto-adoption-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/ripple-next-phase-crypto-adoption-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/ripple-next-phase-crypto-adoption-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/ripple-next-phase-crypto-adoption-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/ripple-next-phase-crypto-adoption-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/ripple-next-phase-crypto-adoption.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Corporate finance teams are beginning to view digital assets and stablecoins as practical tools for treasury management, vendor payments, and payroll, signaling a potential shift as Ripple leadership points to CFO offices as drivers of the next phase of blockchain adoption. Ripple Points to Corporate Finance Teams as Crypto\u2019s Next Major Adoption Engine Corporate treasury [&#8230;]"
-        },
-        {
-          "title": "From $50M to $36K: The Aave Trade That Fed Ethereum\u2019s MEV Machines",
-          "link": "https://news.bitcoin.com/from-50m-to-36k-the-aave-trade-that-fed-ethereums-mev-machines/",
-          "published": "Fri, 13 Mar 2026 00:47:16 +0000",
-          "summary": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/aave-1-768x432.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2026/03/aave-1-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/aave-1-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/aave-1-768x432.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/aave-1-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/aave-1-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/aave-1-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2026/03/aave-1.png 1280w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" />In a plot twist that reads like a cautionary tale from the School of Hard Knocks on Ethereum, a trader managed to vaporize roughly $50 million in seconds after reportedly clicking through a slippage warning on the Aave app\u2014and the blockchain, as always, kept the receipts. $50M Swap Gone Wrong On March 12, 2026, a [&#8230;]"
         }
       ],
       "errors": [],
@@ -221,15 +221,33 @@
           "summary": "High inflation and slow growth present a double threat, as measures like interest rate cuts and government spending only aggravate inflation."
         },
         {
-          "title": "Tariff Turmoil",
-          "link": "https://finance.yahoo.com/research/reports/ARGUS_46417_PortfolioIdeas_1773347251000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "published": "2026-03-12T20:27:31Z",
+          "title": "Mueller Industries (MLI) Announced A Major Dividend Hike",
+          "link": "https://finance.yahoo.com/news/mueller-industries-mli-announced-major-201019560.html",
+          "published": "2026-03-11T20:10:19Z",
           "summary": ""
         },
         {
-          "title": "Richard Haass warns the geopolitical risk tax will burden markets for years to come",
-          "link": "https://finance.yahoo.com/news/richard-haass-warns-the-geopolitical-risk-tax-will-burden-markets-for-years-to-come-164035978.html",
-          "published": "2026-03-11T16:40:35Z",
+          "title": "S&P 500 Index Profit Margins Tighten. Are Tariffs To Blame?",
+          "link": "https://www.investors.com/news/sp-500-index-profit-margins-spy-tariffs/?src=A00220&yptr=yahoo",
+          "published": "2026-03-11T20:04:39Z",
+          "summary": ""
+        },
+        {
+          "title": "Home equity rates hold steady at multi-year lows",
+          "link": "https://finance.yahoo.com/news/home-equity-rates-hold-steady-200206619.html",
+          "published": "2026-03-11T20:02:06Z",
+          "summary": ""
+        },
+        {
+          "title": "Major Wall Street bank files mysterious new trademark",
+          "link": "https://finance.yahoo.com/news/major-wall-street-bank-files-195126938.html",
+          "published": "2026-03-11T19:51:26Z",
+          "summary": ""
+        },
+        {
+          "title": "Popular restaurant chain forced into Chapter 7 bankruptcy",
+          "link": "https://finance.yahoo.com/news/popular-restaurant-chain-forced-chapter-194700041.html",
+          "published": "2026-03-11T19:47:00Z",
           "summary": ""
         }
       ],
@@ -321,23 +339,11 @@
         "volume": 0,
         "label": "N/A"
       },
-      "liquidation_long_usd": 14768077.2752,
-      "liquidation_short_usd": 106279537.94529992,
-      "leverage_ratio": 1564872374.7352834
+      "liquidation_long_usd": 22720182.034200013,
+      "liquidation_short_usd": 82538757.06989998,
+      "leverage_ratio": 1549034663.1692433
     },
     "stats_history": [
-      {
-        "timestamp": "2026-03-09T08:08:07.255587",
-        "display_time": "08:08",
-        "whale_count": 0,
-        "total_volume": 0,
-        "stablecoin_net_flow": 0,
-        "token_net_flow": 0,
-        "avg_tx_size": 0,
-        "liquidation_long_usd": 0,
-        "liquidation_short_usd": 0,
-        "leverage_ratio": 0
-      },
       {
         "timestamp": "2026-03-09T12:07:22.640264",
         "display_time": "12:07",
@@ -613,63 +619,55 @@
         "liquidation_long_usd": 14768077.2752,
         "liquidation_short_usd": 106279537.94529992,
         "leverage_ratio": 1564872374.7352834
+      },
+      {
+        "timestamp": "2026-03-13T08:06:17.188021",
+        "display_time": "08:06",
+        "whale_count": 0,
+        "total_volume": 0,
+        "stablecoin_net_flow": 0,
+        "token_net_flow": 0,
+        "avg_tx_size": 0,
+        "liquidation_long_usd": 22720182.034200013,
+        "liquidation_short_usd": 82538757.06989998,
+        "leverage_ratio": 1549034663.1692433
       }
     ],
     "market": {
       "symbol": "ETH",
-      "price": 2116.44,
-      "rsi_4h": 64.72386147834295,
-      "volume_24h": 5310661.127,
-      "volume_avg_30d": 4407585.757,
-      "volume_ratio": 1.20489116259752,
-      "oi_now": 1564872374.7352834,
-      "oi_avg_30d": 1409226060.7443507,
+      "price": 2095.02,
+      "rsi_4h": 59.63909476027607,
+      "volume_24h": 5466222.34,
+      "volume_avg_30d": 4425197.904166667,
+      "volume_ratio": 1.2352492381986189,
+      "oi_now": 1549034663.1692433,
+      "oi_avg_30d": 1394963609.5427368,
       "delta_oi_24h_percent": -1.4228167629388455,
-      "funding_rate": 4.21889783339e-05,
+      "funding_rate": 1.78645148944e-05,
       "funding_rate_status": "NORMAL",
-      "change_24h": 2.1132468735525793,
-      "price_close": 2116.43,
-      "sma_50": 2027.3754000000001,
-      "sma_200": 1996.43125,
-      "macd_line": 22.458874691479195,
-      "signal_line": 15.543685110227884,
-      "macd_hist": 6.915189581251312,
-      "adx_14": 17.861570993800385,
-      "p_di": 27.94390822505922,
-      "n_di": 10.69166835214827,
-      "rsi_14": 64.72386147834295,
-      "bb_pct_b": 1.0215762673585067,
-      "bb_width": 0.05811534833288386,
+      "change_24h": 1.079782306623442,
+      "price_close": 2095.02,
+      "sma_50": 2026.5398,
+      "sma_200": 1996.4283000000003,
+      "macd_line": 21.674034167962873,
+      "signal_line": 16.543968027187955,
+      "macd_hist": 5.130066140774918,
+      "adx_14": 19.775299192883452,
+      "p_di": 26.443320540471603,
+      "n_di": 10.117525833223832,
+      "rsi_14": 59.63909476027607,
+      "bb_pct_b": 0.8321961842248613,
+      "bb_width": 0.0560322859216486,
       "bb_trend": "UP",
-      "atr_14": 42.308234849854294,
-      "natr_percent": 1.9990377593331363,
-      "price_rank_20": 79.66894111700768,
-      "vol_ratio_20": 0.012938265754218475,
+      "atr_14": 41.51560582996673,
+      "natr_percent": 1.9816329118560554,
+      "price_rank_20": 62.53757427472906,
+      "vol_ratio_20": 0.011528672705333315,
       "signal_low_high_vol": false,
       "signal_high_high_vol": false,
       "buy_stars": 0,
       "sell_stars": 0,
       "history_60d": [
-        {
-          "ts": "1772524800000",
-          "date": "2026-03-03 16:00",
-          "close": 1960.2,
-          "volume": 2353010099.0,
-          "rsi_14": 47.57,
-          "adx_14": 15.79,
-          "natr": 2.96,
-          "atr_14": 57.94,
-          "vol_ratio": 1.22,
-          "price_rank": 49.3,
-          "buy_stars": 0,
-          "sell_stars": 0,
-          "signals": {
-            "low_vol": false,
-            "high_vol": false,
-            "rsi_low": false,
-            "rsi_high": false
-          }
-        },
         {
           "ts": "1772539200000",
           "date": "2026-03-03 20:00",
@@ -1833,14 +1831,34 @@
         {
           "ts": "1773374400000",
           "date": "2026-03-13 12:00",
-          "close": 2116.43,
-          "volume": 19991210.0,
-          "rsi_14": 64.72,
+          "close": 2098.74,
+          "volume": 1112607255.0,
+          "rsi_14": 60.52,
           "adx_14": 17.86,
-          "natr": 2.0,
-          "atr_14": 42.31,
+          "natr": 2.11,
+          "atr_14": 44.26,
+          "vol_ratio": 0.7,
+          "price_rank": 68.5,
+          "buy_stars": 0,
+          "sell_stars": 0,
+          "signals": {
+            "low_vol": false,
+            "high_vol": false,
+            "rsi_low": false,
+            "rsi_high": false
+          }
+        },
+        {
+          "ts": "1773388800000",
+          "date": "2026-03-13 16:00",
+          "close": 2095.02,
+          "volume": 17575653.0,
+          "rsi_14": 59.64,
+          "adx_14": 19.78,
+          "natr": 1.98,
+          "atr_14": 41.52,
           "vol_ratio": 0.01,
-          "price_rank": 79.7,
+          "price_rank": 62.5,
           "buy_stars": 0,
           "sell_stars": 0,
           "signals": {
@@ -1851,7 +1869,7 @@
           }
         }
       ],
-      "liquidation_context": "Long Liquidation: $14,768,077, Short Liquidation: $106,279,538"
+      "liquidation_context": "Long Liquidation: $22,720,182, Short Liquidation: $82,538,757"
     },
     "top_txs": []
   },
@@ -1885,23 +1903,11 @@
         "volume": 0,
         "label": "N/A"
       },
-      "liquidation_long_usd": 364982.62669999985,
-      "liquidation_short_usd": 1911322.744099999,
-      "leverage_ratio": 233453577.5195
+      "liquidation_long_usd": 385451.6539,
+      "liquidation_short_usd": 1799807.610199999,
+      "leverage_ratio": 230690813.2885
     },
     "stats_history": [
-      {
-        "timestamp": "2026-03-09T08:08:07.255630",
-        "display_time": "08:08",
-        "whale_count": 0,
-        "total_volume": 0,
-        "stablecoin_net_flow": 0,
-        "token_net_flow": 0,
-        "avg_tx_size": 0,
-        "liquidation_long_usd": 0,
-        "liquidation_short_usd": 0,
-        "leverage_ratio": 0
-      },
       {
         "timestamp": "2026-03-09T12:07:22.640298",
         "display_time": "12:07",
@@ -2177,63 +2183,55 @@
         "liquidation_long_usd": 364982.62669999985,
         "liquidation_short_usd": 1911322.744099999,
         "leverage_ratio": 233453577.5195
+      },
+      {
+        "timestamp": "2026-03-13T08:06:17.188042",
+        "display_time": "08:06",
+        "whale_count": 0,
+        "total_volume": 0,
+        "stablecoin_net_flow": 0,
+        "token_net_flow": 0,
+        "avg_tx_size": 0,
+        "liquidation_long_usd": 385451.6539,
+        "liquidation_short_usd": 1799807.610199999,
+        "leverage_ratio": 230690813.2885
       }
     ],
     "market": {
       "symbol": "SOL",
-      "price": 89.57,
-      "rsi_4h": 64.40159858966021,
-      "volume_24h": 12876651.6,
-      "volume_avg_30d": 11107525.342333335,
-      "volume_ratio": 1.1592727635672473,
-      "oi_now": 233453577.5195,
-      "oi_avg_30d": 247084978.00718343,
+      "price": 88.51,
+      "rsi_4h": 59.3650048406928,
+      "volume_24h": 12950549.68,
+      "volume_avg_30d": 11153058.092000002,
+      "volume_ratio": 1.1611658052143854,
+      "oi_now": 230690813.2885,
+      "oi_avg_30d": 244160895.4272168,
       "delta_oi_24h_percent": -1.0220785307171985,
       "funding_rate": 0.0001,
       "funding_rate_status": "NORMAL",
-      "change_24h": 3.21502650380271,
-      "price_close": 89.57,
-      "sma_50": 85.7958,
-      "sma_200": 84.52355,
-      "macd_line": 0.8277673130598799,
-      "signal_line": 0.4563030996427001,
-      "macd_hist": 0.37146421341717983,
-      "adx_14": 17.183754612486975,
-      "p_di": 30.022072177843164,
-      "n_di": 11.744229609341005,
-      "rsi_14": 64.40159858966021,
-      "bb_pct_b": 1.0557587677052496,
-      "bb_width": 0.06347339600403375,
+      "change_24h": 1.9935469002074255,
+      "price_close": 88.54,
+      "sma_50": 85.7484,
+      "sma_200": 84.52785,
+      "macd_line": 0.8186086149211889,
+      "signal_line": 0.5167664819006784,
+      "macd_hist": 0.30184213302051044,
+      "adx_14": 19.082213295286323,
+      "p_di": 28.214056509967733,
+      "n_di": 11.036958271938586,
+      "rsi_14": 59.3650048406928,
+      "bb_pct_b": 0.8593254427179684,
+      "bb_width": 0.06162152282540043,
       "bb_trend": "UP",
-      "atr_14": 1.9523378985228472,
-      "natr_percent": 2.1796783504776682,
-      "price_rank_20": 77.33918128654955,
-      "vol_ratio_20": 0.01133315698485401,
+      "atr_14": 1.9290586608732563,
+      "natr_percent": 2.1787425580226523,
+      "price_rank_20": 62.280701754386016,
+      "vol_ratio_20": 0.014974162589609747,
       "signal_low_high_vol": false,
       "signal_high_high_vol": false,
       "buy_stars": 0,
       "sell_stars": 0,
       "history_60d": [
-        {
-          "ts": "1772524800000",
-          "date": "2026-03-03 16:00",
-          "close": 84.14,
-          "volume": 198834902.0,
-          "rsi_14": 48.59,
-          "adx_14": 16.46,
-          "natr": 3.12,
-          "atr_14": 2.62,
-          "vol_ratio": 0.97,
-          "price_rank": 53.7,
-          "buy_stars": 0,
-          "sell_stars": 0,
-          "signals": {
-            "low_vol": false,
-            "high_vol": false,
-            "rsi_low": false,
-            "rsi_high": false
-          }
-        },
         {
           "ts": "1772539200000",
           "date": "2026-03-03 20:00",
@@ -3397,14 +3395,34 @@
         {
           "ts": "1773374400000",
           "date": "2026-03-13 12:00",
-          "close": 89.57,
-          "volume": 1801673.0,
-          "rsi_14": 64.4,
+          "close": 88.63,
+          "volume": 120676205.0,
+          "rsi_14": 59.8,
           "adx_14": 17.18,
+          "natr": 2.32,
+          "atr_14": 2.06,
+          "vol_ratio": 0.73,
+          "price_rank": 63.6,
+          "buy_stars": 0,
+          "sell_stars": 0,
+          "signals": {
+            "low_vol": false,
+            "high_vol": false,
+            "rsi_low": false,
+            "rsi_high": false
+          }
+        },
+        {
+          "ts": "1773388800000",
+          "date": "2026-03-13 16:00",
+          "close": 88.54,
+          "volume": 2365286.0,
+          "rsi_14": 59.37,
+          "adx_14": 19.08,
           "natr": 2.18,
-          "atr_14": 1.95,
+          "atr_14": 1.93,
           "vol_ratio": 0.01,
-          "price_rank": 77.3,
+          "price_rank": 62.3,
           "buy_stars": 0,
           "sell_stars": 0,
           "signals": {
@@ -3415,7 +3433,7 @@
           }
         }
       ],
-      "liquidation_context": "Long Liquidation: $364,983, Short Liquidation: $1,911,323"
+      "liquidation_context": "Long Liquidation: $385,452, Short Liquidation: $1,799,808"
     },
     "top_txs": []
   },
@@ -3424,73 +3442,53 @@
       "sentiment_score": 0,
       "token_net_flow": 0,
       "stablecoin_net_flow": 0,
-      "liquidation_long_usd": 190520033.6900001,
-      "liquidation_short_usd": 1209541349.5980005,
+      "liquidation_long_usd": 178366665.3710002,
+      "liquidation_short_usd": 1276583817.8540008,
       "leverage_ratio": 0
     },
     "stats_24h": {
       "sentiment_score": 0,
       "token_net_flow": 0,
       "stablecoin_net_flow": 0,
-      "liquidation_long_usd": 190520033.6900001,
-      "liquidation_short_usd": 1209541349.5980005,
+      "liquidation_long_usd": 178366665.3710002,
+      "liquidation_short_usd": 1276583817.8540008,
       "leverage_ratio": 0
     },
     "market": {
       "symbol": "BTC",
-      "price": 71333.0,
-      "rsi_4h": 62.31569404098981,
-      "volume_24h": 111070.5512,
-      "volume_avg_30d": 101625.20453333338,
-      "volume_ratio": 1.0929429535718034,
-      "oi_now": 2065775753.1305177,
-      "oi_avg_30d": 2149887523.8941264,
+      "price": 71448.0,
+      "rsi_4h": 62.45033701762929,
+      "volume_24h": 111606.6824,
+      "volume_avg_30d": 101967.98118666672,
+      "volume_ratio": 1.0945267436028598,
+      "oi_now": 2069106108.108018,
+      "oi_avg_30d": 2153353480.25721,
       "delta_oi_24h_percent": -1.463815637422551,
-      "funding_rate": 4.46300414664e-05,
+      "funding_rate": 4.52138873994e-05,
       "funding_rate_status": "NORMAL",
-      "change_24h": 1.2109904298413015,
-      "price_close": 71333.0,
-      "sma_50": 69371.44399999999,
-      "sma_200": 68132.2025,
-      "macd_line": 545.1659833597514,
-      "signal_line": 438.0528904210903,
-      "macd_hist": 107.11309293866111,
-      "adx_14": 19.219409967571217,
-      "p_di": 25.877652544657455,
-      "n_di": 12.511909117754469,
-      "rsi_14": 62.31569404098981,
-      "bb_pct_b": 0.9360356070348321,
-      "bb_width": 0.03661147323624187,
+      "change_24h": 1.3741584432352671,
+      "price_close": 71443.7,
+      "sma_50": 69356.046,
+      "sma_200": 68145.34049999999,
+      "macd_line": 601.9802674734965,
+      "signal_line": 474.07902680023193,
+      "macd_hist": 127.90124067326457,
+      "adx_14": 20.33345837161081,
+      "p_di": 24.790189039512878,
+      "n_di": 11.986117818804026,
+      "rsi_14": 62.45033701762929,
+      "bb_pct_b": 0.9041126708342474,
+      "bb_width": 0.039281447939113666,
       "bb_trend": "UP",
-      "atr_14": 1104.7081865046066,
-      "natr_percent": 1.548663572967079,
-      "price_rank_20": 81.9911467927745,
-      "vol_ratio_20": 0.007415061406440016,
+      "atr_14": 1070.7989282848903,
+      "natr_percent": 1.4988010535357077,
+      "price_rank_20": 82.11657247995788,
+      "vol_ratio_20": 0.023834172657005753,
       "signal_low_high_vol": false,
       "signal_high_high_vol": false,
       "buy_stars": 0,
       "sell_stars": 0,
       "history_60d": [
-        {
-          "ts": "1772524800000",
-          "date": "2026-03-03 16:00",
-          "close": 67000.3,
-          "volume": 1823618966.0,
-          "rsi_14": 49.96,
-          "adx_14": 16.31,
-          "natr": 2.19,
-          "atr_14": 1466.42,
-          "vol_ratio": 1.29,
-          "price_rank": 56.7,
-          "buy_stars": 0,
-          "sell_stars": 0,
-          "signals": {
-            "low_vol": false,
-            "high_vol": false,
-            "rsi_low": false,
-            "rsi_high": false
-          }
-        },
         {
           "ts": "1772539200000",
           "date": "2026-03-03 20:00",
@@ -4654,14 +4652,34 @@
         {
           "ts": "1773374400000",
           "date": "2026-03-13 12:00",
-          "close": 71333.0,
-          "volume": 9824502.0,
-          "rsi_14": 62.32,
+          "close": 71586.9,
+          "volume": 713848928.0,
+          "rsi_14": 63.89,
           "adx_14": 19.22,
-          "natr": 1.55,
-          "atr_14": 1104.71,
-          "vol_ratio": 0.01,
-          "price_rank": 82.0,
+          "natr": 1.59,
+          "atr_14": 1137.83,
+          "vol_ratio": 0.52,
+          "price_rank": 89.0,
+          "buy_stars": 0,
+          "sell_stars": 0,
+          "signals": {
+            "low_vol": false,
+            "high_vol": false,
+            "rsi_low": false,
+            "rsi_high": false
+          }
+        },
+        {
+          "ts": "1773388800000",
+          "date": "2026-03-13 16:00",
+          "close": 71443.7,
+          "volume": 30345638.0,
+          "rsi_14": 62.45,
+          "adx_14": 20.33,
+          "natr": 1.5,
+          "atr_14": 1070.8,
+          "vol_ratio": 0.02,
+          "price_rank": 82.1,
           "buy_stars": 0,
           "sell_stars": 0,
           "signals": {
@@ -4672,7 +4690,7 @@
           }
         }
       ],
-      "liquidation_context": "Long Liquidation: $190,520,034, Short Liquidation: $1,209,541,350"
+      "liquidation_context": "Long Liquidation: $178,366,665, Short Liquidation: $1,276,583,818"
     }
   },
   "bnb": {
@@ -4681,64 +4699,44 @@
       "token_net_flow": 0,
       "stablecoin_net_flow": 0,
       "liquidation_long_usd": 199953.9,
-      "liquidation_short_usd": 10042827.6,
+      "liquidation_short_usd": 10061472.4,
       "leverage_ratio": 0
     },
     "market": {
       "symbol": "BNB",
-      "price": 660.8,
-      "rsi_4h": 66.01634898205992,
-      "volume_24h": 90469.8,
-      "volume_avg_30d": 122582.67166666666,
-      "volume_ratio": 0.7380309041233031,
-      "oi_now": 51792539.23199999,
-      "oi_avg_30d": 49683966.520533316,
+      "price": 661.7,
+      "rsi_4h": 66.66448000979531,
+      "volume_24h": 94478.63,
+      "volume_avg_30d": 123015.65100000001,
+      "volume_ratio": 0.7680212170726146,
+      "oi_now": 51863079.918,
+      "oi_avg_30d": 49751635.36113333,
       "delta_oi_24h_percent": -0.39136324418589724,
-      "funding_rate": 0.0001,
+      "funding_rate": 3.14032010604e-05,
       "funding_rate_status": "NORMAL",
-      "change_24h": 1.458621219100261,
-      "price_close": 660.8,
-      "sma_50": 637.97,
-      "sma_200": 623.863,
-      "macd_line": 6.111925491253828,
-      "signal_line": 4.8649127086650505,
-      "macd_hist": 1.2470127825887776,
-      "adx_14": 20.549747596580364,
-      "p_di": 26.671971610519414,
-      "n_di": 11.400620509847705,
-      "rsi_14": 66.01634898205992,
-      "bb_pct_b": 1.0111610892569538,
-      "bb_width": 0.041603466386242086,
+      "change_24h": 1.596806387225563,
+      "price_close": 661.7,
+      "sma_50": 638.126,
+      "sma_200": 623.961,
+      "macd_line": 6.5204037613782475,
+      "signal_line": 5.1972872724840435,
+      "macd_hist": 1.323116488894204,
+      "adx_14": 22.036239049951682,
+      "p_di": 25.54370297315227,
+      "n_di": 10.750528698494838,
+      "rsi_14": 66.66448000979531,
+      "bb_pct_b": 0.967824866245064,
+      "bb_width": 0.04465325645287895,
       "bb_trend": "UP",
-      "atr_14": 8.577401383125675,
-      "natr_percent": 1.298032896962118,
-      "price_rank_20": 90.84745762711849,
-      "vol_ratio_20": 0.042777837112958135,
+      "atr_14": 8.446362508820789,
+      "natr_percent": 1.2764640333717376,
+      "price_rank_20": 92.25589225589242,
+      "vol_ratio_20": 0.0907109294731637,
       "signal_low_high_vol": false,
       "signal_high_high_vol": false,
       "buy_stars": 0,
       "sell_stars": 0,
       "history_60d": [
-        {
-          "ts": "1772524800000",
-          "date": "2026-03-03 16:00",
-          "close": 625.9,
-          "volume": 17445531.0,
-          "rsi_14": 51.61,
-          "adx_14": 17.57,
-          "natr": 1.94,
-          "atr_14": 12.13,
-          "vol_ratio": 1.0,
-          "price_rank": 58.3,
-          "buy_stars": 0,
-          "sell_stars": 0,
-          "signals": {
-            "low_vol": false,
-            "high_vol": false,
-            "rsi_low": false,
-            "rsi_high": false
-          }
-        },
         {
           "ts": "1772539200000",
           "date": "2026-03-03 20:00",
@@ -5902,14 +5900,34 @@
         {
           "ts": "1773374400000",
           "date": "2026-03-13 12:00",
-          "close": 660.8,
-          "volume": 437038.0,
-          "rsi_14": 66.02,
-          "adx_14": 20.55,
-          "natr": 1.3,
-          "atr_14": 8.58,
-          "vol_ratio": 0.04,
-          "price_rank": 90.8,
+          "close": 660.9,
+          "volume": 8118681.0,
+          "rsi_14": 66.14,
+          "adx_14": 20.6,
+          "natr": 1.35,
+          "atr_14": 8.93,
+          "vol_ratio": 0.77,
+          "price_rank": 89.7,
+          "buy_stars": 0,
+          "sell_stars": 0,
+          "signals": {
+            "low_vol": false,
+            "high_vol": false,
+            "rsi_low": false,
+            "rsi_high": false
+          }
+        },
+        {
+          "ts": "1773388800000",
+          "date": "2026-03-13 16:00",
+          "close": 661.7,
+          "volume": 902326.0,
+          "rsi_14": 66.66,
+          "adx_14": 22.04,
+          "natr": 1.28,
+          "atr_14": 8.45,
+          "vol_ratio": 0.09,
+          "price_rank": 92.3,
           "buy_stars": 0,
           "sell_stars": 0,
           "signals": {
@@ -5920,7 +5938,7 @@
           }
         }
       ],
-      "liquidation_context": "Long Liquidation: $199,954, Short Liquidation: $10,042,828"
+      "liquidation_context": "Long Liquidation: $199,954, Short Liquidation: $10,061,472"
     }
   },
   "doge": {
@@ -5928,65 +5946,45 @@
       "sentiment_score": 0,
       "token_net_flow": 0,
       "stablecoin_net_flow": 0,
-      "liquidation_long_usd": 536.5987143,
-      "liquidation_short_usd": 1981.4211288999977,
+      "liquidation_long_usd": 535.4444728,
+      "liquidation_short_usd": 1979.2550429999974,
       "leverage_ratio": 0
     },
     "market": {
       "symbol": "DOGE",
-      "price": 0.09659,
-      "rsi_4h": 62.29383284114385,
-      "volume_24h": 6190443080.0,
-      "volume_avg_30d": 4765372353.333333,
-      "volume_ratio": 1.2990470882448133,
-      "oi_now": 96360528.23929997,
-      "oi_avg_30d": 80598497.78239998,
+      "price": 0.09638,
+      "rsi_4h": 61.24632400037055,
+      "volume_24h": 6181253950.0,
+      "volume_avg_30d": 4780929280.333333,
+      "volume_ratio": 1.2928980094784073,
+      "oi_now": 96151027.14259997,
+      "oi_avg_30d": 80423265.51679999,
       "delta_oi_24h_percent": -4.924118931963621,
       "funding_rate": 0.0001,
       "funding_rate_status": "NORMAL",
-      "change_24h": 2.0065476819093875,
-      "price_close": 0.0966,
-      "sma_50": 0.0923884,
-      "sma_200": 0.09548285,
-      "macd_line": 0.0009854702843644925,
-      "signal_line": 0.0006474375828142034,
-      "macd_hist": 0.00033803270155028904,
-      "adx_14": 30.893706261657723,
-      "p_di": 32.80101077545696,
-      "n_di": 9.932410477106204,
-      "rsi_14": 62.29383284114385,
-      "bb_pct_b": 0.8466302167664662,
-      "bb_width": 0.08361682407324716,
+      "change_24h": 1.784771359172032,
+      "price_close": 0.09637,
+      "sma_50": 0.09239000000000001,
+      "sma_200": 0.0954794,
+      "macd_line": 0.0010573740404653947,
+      "signal_line": 0.0007277656150851805,
+      "macd_hist": 0.00032960842538021424,
+      "adx_14": 32.50948118470502,
+      "p_di": 31.52290715187871,
+      "n_di": 9.545390396884939,
+      "rsi_14": 61.24632400037055,
+      "bb_pct_b": 0.7914101805877212,
+      "bb_width": 0.08153047562517542,
       "bb_trend": "UP",
-      "atr_14": 0.0021574059497123863,
-      "natr_percent": 2.2333394924558863,
-      "price_rank_20": 62.30314960629922,
-      "vol_ratio_20": 0.01566944418386402,
+      "atr_14": 0.0020845300145288493,
+      "natr_percent": 2.163048681673601,
+      "price_rank_20": 56.670224119530346,
+      "vol_ratio_20": 0.009213087344649588,
       "signal_low_high_vol": false,
       "signal_high_high_vol": false,
       "buy_stars": 0,
       "sell_stars": 0,
       "history_60d": [
-        {
-          "ts": "1772524800000",
-          "date": "2026-03-03 16:00",
-          "close": 0.09,
-          "volume": 95029014.0,
-          "rsi_14": 40.15,
-          "adx_14": 12.93,
-          "natr": 2.99,
-          "atr_14": 0.0,
-          "vol_ratio": 1.11,
-          "price_rank": 23.5,
-          "buy_stars": 0,
-          "sell_stars": 0,
-          "signals": {
-            "low_vol": false,
-            "high_vol": false,
-            "rsi_low": false,
-            "rsi_high": false
-          }
-        },
         {
           "ts": "1772539200000",
           "date": "2026-03-03 20:00",
@@ -7151,13 +7149,33 @@
           "ts": "1773374400000",
           "date": "2026-03-13 12:00",
           "close": 0.1,
-          "volume": 1544785.0,
-          "rsi_14": 62.29,
+          "volume": 45617885.0,
+          "rsi_14": 61.72,
           "adx_14": 30.89,
-          "natr": 2.23,
+          "natr": 2.3,
           "atr_14": 0.0,
-          "vol_ratio": 0.02,
-          "price_rank": 62.3,
+          "vol_ratio": 0.45,
+          "price_rank": 61.0,
+          "buy_stars": 0,
+          "sell_stars": 0,
+          "signals": {
+            "low_vol": false,
+            "high_vol": false,
+            "rsi_low": false,
+            "rsi_high": false
+          }
+        },
+        {
+          "ts": "1773388800000",
+          "date": "2026-03-13 16:00",
+          "close": 0.1,
+          "volume": 900254.0,
+          "rsi_14": 61.25,
+          "adx_14": 32.51,
+          "natr": 2.16,
+          "atr_14": 0.0,
+          "vol_ratio": 0.01,
+          "price_rank": 56.7,
           "buy_stars": 0,
           "sell_stars": 0,
           "signals": {
@@ -7168,10 +7186,10 @@
           }
         }
       ],
-      "liquidation_context": "Long Liquidation: $537, Short Liquidation: $1,981"
+      "liquidation_context": "Long Liquidation: $535, Short Liquidation: $1,979"
     }
   },
   "ai_summary": {
-    "en": "**\ud83c\udf0d Global Macro & Liquidity**: The macro environment presents a **contradiction**. Layer 1 signals are firmly **Risk-Off**: DXY is strengthening (99.74), US10Y yields are high and rising (4.27%), and the Fed remains in a restrictive zone despite dovish expectations. The VIX, while subsiding, remains elevated at 27.29, and BTC Fear & Greed is in 'Extreme Fear' (15). However, Layer 2's narrative is **mixed-to-neutral**. Macro news focuses on fading Fed cut hopes and geopolitical risks (Iran), which is bearish. Crypto news is regulatory/neutral (Ghana), with no strong bullish catalysts. The Yen's weakness suggests some underlying risk appetite, but it's overwhelmed by dollar strength and high yields. **Overall, the macro liquidity tap is closing, creating a headwind for risk assets like crypto.**\n\n**\ud83d\udfe0 BTC Strategy (Contract Only)**:\n*   **Signal**: **OBSERVE**\n*   **Reality Check**: The market shows significant **asymmetric liquidation pain**. Short liquidations ($1.21B) dwarf long liquidations ($190M) by over 6x, indicating a massive pool of trapped shorts. However, technicals are not yet confirming a squeeze. The ADX (19.2) shows a weak trend, and the RSI (62.3) is neutral-to-warm, not oversold. The high short liqs suggest explosive upside potential if price breaks resistance, but the weak ADX and restrictive macro mean the trigger isn't present. Wait for a catalyst or stronger technical confirmation.\n\n**\ud83d\udd37 ETH Strategy**:\n*   **Signal**: **WAIT**\n*   **Reality Check**: A clear **TRAP WARNING** is evident. Layer 2 news is bearish for ETH ('Adoption paradox', negative funding, bears in control'), yet Layer 3 shows **no whale selling pressure** (neutral flow: $0). This divergence suggests the bearish narrative may be overplayed, and smart money is not distributing. Technically, the market is **chopping** (ADX: 17.9 < 20). Momentum is slightly positive (MACD Hist: 6.9, RSI: 64.7) but within a range. Critically, liquidation pain is heavily skewed **short** ($106M vs $14M Long), similar to BTC, building potential squeeze fuel. The 7-day structural trend (neutral whale flow) contradicts the immediate 24H bearish news, signaling accumulation, not distribution.\n*   **Key Metric**: **Asymmetric Short Liquidations ($106M)**. This is dry powder for a rally if buying pressure emerges and the weak ADX transitions to a strong trend.\n\n**\ud83d\udfe3 SOL Strategy**:\n*   **Signal**: **PROBE** (with tight stops)\n*   **Reality Check**: The setup mirrors ETH but is cleaner. News is neutral (shared with general crypto). Whale flow is neutral ($0), indicating no distribution. The market is in a **choppy consolidation** (ADX: 17.2 < 20) with slightly positive momentum (MACD Hist: 0.37, RSI: 64.4). Like ETH, liquidation pain is overwhelmingly on the **short side** ($1.9M vs $0.36M Long), creating a high risk/reward setup for a breakout. The 7-day trend (neutral) and immediate (24H) conditions align: no bearish pressure, building short-side fuel, and compressed volatility (Bollinger Width: 0.063) hinting at a pending move.\n*   **Key Metric**: **Bollinger Width (0.063) & Short Liqs ($1.9M)**. Low volatility suggests a coiled spring, and high short liqs define the likely explosive direction (up) if the spring releases."
+    "en": "**\ud83c\udf0d Global Macro & Liquidity**: The macro environment presents a conflicting picture. Layer 1 signals **Risk Off**: DXY is strong (99.44), US10Y yields are high and rising (4.27%), and Fed futures imply a restrictive, high-rate environment. The VIX, while subsiding, remains elevated at 27.81, and BTC Fear & Greed is in 'Extreme Fear' (15). However, the Yen's weakness (159.445) suggests some underlying risk appetite. Layer 2 news is decisively **bearish for macro** (fading Fed cut hopes, geopolitical tensions) but **neutral-to-mixed for crypto**, focusing on isolated events (large trader loss, funding rounds) rather than a clear directional narrative. The synthesis is a **high-rate, fearful macro backdrop** with no supportive catalyst from central banks, creating headwinds for risk assets like crypto.\n\n**\ud83d\udfe0 BTC Strategy (Contract Only)**:\n* **Signal**: **OBSERVE**\n* **Reality Check**: The market shows conflicting pressure points. Technicals (RSI 62.5, ADX 20.3) indicate a weak, choppy trend with no strong momentum. The critical signal is the massive **asymmetry in liquidations**: Short Liqs ($1.28B) dwarf Long Liqs ($178M) by over 7x. This represents significant trapped leverage on the short side. However, with macro headwinds strong and no clear bullish whale accumulation signal (data missing), a full breakout squeeze is not confirmed. The high short interest creates explosive potential, but the trigger is absent. Wait for a macro shift or a technical break above key resistance with volume.\n\n**\ud83d\udd37 ETH Strategy**:\n* **Signal**: **WAIT**\n* **Reality Check**: A clear **TRAP WARNING** is evident. Layer 2 news highlights an 'adoption paradox' and negative funding rates, suggesting bearish sentiment. However, Layer 3 reveals **no whale selling pressure** (Net Flow: 0 tokens, 0 stablecoins, Sentiment Score: -0.01). Whales are neither accumulating nor distributing, indicating a standoff. Technically, the market is **choppy and trendless** (ADX 19.8 < 20, no volume signals). The 7-day structural trend (neutral whale flow) diverges from the 24H bearish narrative, suggesting the news-driven fear may not be backed by smart money action. Liquidation pain is skewed towards **shorts ($82.5M vs $22.7M longs)**, hinting at potential for a short squeeze if buyers step in, but current momentum is absent.\n* **Key Metric**: **Whale Flow Sentiment Score (-0.01) & Net Flow (Zero)**. The complete absence of whale movement amidst bearish news is the most critical data point, signaling caution and a lack of conviction in either direction.\n\n**\ud83d\udfe3 SOL Strategy**:\n* **Signal**: **WAIT**\n* **Reality Check**: The scenario mirrors ETH. News is neutral/mixed (recycled from general crypto). Whale flow data is **identical to ETH**: zero net movement and a neutral sentiment score (-0.01). This again creates a **TRAP WARNING**\u2014the lack of negative flow contradicts any implied bearish narrative from macro fears. Technically, conditions are even weaker for a trend: ADX is 19.1 (choppy), and there are no volume-based signals. The liquidation imbalance is even more extreme for SOL, with **short liquidations ($1.8M) nearly 5x long liquidations ($0.39M)**, painting a picture of a market heavy with speculative shorts but lacking a catalyst for a rally. The structural (7-day) and immediate (24H) pictures align in showing **indecision and compression**.\n* **Key Metric**: **Liquidation Ratio (Short/Long \u2248 4.7:1)**. This high level of trapped short leverage is a coiled spring, but it requires a catalyst (positive macro shift or a technical breakout) to unwind. Without it, the chop continues."
   }
 }
